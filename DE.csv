@@ -1,0 +1,128 @@
+id,country_code,city,provider
+1338,DE,Ulm,SWU TeleNet GmbH
+1973,DE,Deggendorf,DegNet GmbH
+2398,DE,Hamburg,Studio Funk GmbH & Co. KG
+2495,DE,Dresden,IBH IT-Service GmbH
+3313,DE,Coburg,suec//dacor GmbH
+3692,DE,Saarbrucken,intersaar GmbH
+3821,DE,Binz,GGA Maur
+3865,DE,Binz,KABEL-TV-BINZ
+3916,DE,Eibelstadt,iWelt GmbH + Co. KG
+4087,DE,Norderstedt,wilhelm.tel
+4404,DE,Regensburg,R-KOM GmbH & Co. KG
+4462,DE,Freisbach,Mobile Breitbandnetze GmbH
+4546,DE,Koblenz,KEVAG Telekom GmbH
+4556,DE,Kiel,TNG Stadtnetz GmbH
+4578,DE,Wunsiedel,SWW Wunsiedel GmbH
+4617,DE,Kiel,ADDIX Internet Services GmbH
+5733,DE,Bremen,LWLcom GmbH
+5747,DE,Bremen,PLUTEX GmbH
+5835,DE,Ratingen,KomMITT Ratingen
+6219,DE,Oldenburg,EWE TEL GmbH
+6334,DE,Pavelsbach,Brandl Services GmbH
+6518,DE,Weimar,Thueringer Netkom GmbH
+6601,DE,Cologne,NetCologne
+6670,DE,Cologne,hotspot.koeln
+7905,DE,Finsterwalde,Stadtwerke Finsterwalde
+7961,DE,Konstanz,Stadtwerke Konstanz GmbH
+8040,DE,Frankfurt,IP-Projects GmbH & Co. KG
+8099,DE,Nuremberg,GoHost Server
+8198,DE,Magdeburg,WebseitenDesigner.com
+8827,DE,Verden,Marco Bungalski GmbH
+8908,DE,Garching,Net-D-Sign GmbH
+9840,DE,New Castle,Comcast
+10291,DE,Ludwigshafen,TWL-KOM
+10709,DE,Ludwigsburg,bc-networks
+11298,DE,Dessau,Daten- und Telekommunikations-GmbH
+11519,DE,Leipzig,TELE AG
+14156,DE,Karlsruhe,STARFACE GmbH
+15667,DE,Nuremberg,noris network AG
+16415,DE,Friedrichshafen,TeleData GmbH
+16596,DE,Bremen,Bremen Briteline GmbH
+16729,DE,Saarwellingen,Net-Build GmbH
+17137,DE,Berlin,Cronon GmbH
+17312,DE,Frankfurt,creoline GmbH
+17392,DE,Dusseldorf,myLoc managed IT AG
+17982,DE,Lutherstadt Wittenberg,wittenberg-net GmbH
+18488,DE,Frankfurt,MK Netzdienste
+18549,DE,Lauf a.d. Pegnitz,Bisping & Bisping GmbH & Co. KG
+18613,DE,Karlsruhe,TelemaxX Telekommunikation GmbH
+18667,DE,Frankfurt,meerfarbig GmbH & Co. KG
+20478,DE,Nuremberg,Contabo
+20507,DE,Berlin,DNS:NET Internet Service GmbH
+21504,DE,Riethnordhausen,KNT Internet
+21514,DE,Munich,Contabo
+21981,DE,Wernigerode,Heuer & Sack GbR
+21987,DE,Goeppingen,imos
+22274,DE,Nümbrecht,Gemeindewerke Nümbrecht GmbH
+22977,DE,Falkenstein,RDTx
+23095,DE,Frankfurt,31173 Services AB
+23610,DE,Göttingen,goetel GmbH
+24495,DE,Munich,MIVITEC GmbH
+24802,DE,Bad Oldesloe,Vereinigte Stadtwerke Media GmbH
+25633,DE,Frankfurt,suec//dacor GmbH
+26462,DE,Würzburg,iWelt GmbH + Co. KG
+26530,DE,Hauzenberg,Zillner IT
+27345,DE,Munich,InterNetX GmbH
+28148,DE,Neumünster,Stadtwerke Neumünster GmbH
+28602,DE,Bonn,StudNet Bonn
+28624,DE,Dusseldorf,Händle & Korte GmbH
+28818,DE,Ludwigshafen,Pfalzkom GMBH
+29320,DE,Wiesbaden,WiTCOM
+29806,DE,Ruethen,Schlueter Onlinedienste
+30593,DE,Berlin,Inter.link GmbH
+30907,DE,Berlin,Deutsche Telekom
+30906,DE,Dusseldorf,Deutsche Telekom
+31120,DE,Frankfurt,RETN
+31449,DE,Leipzig,NU Informationssysteme GmbH
+31448,DE,Frankfurt Am Main,Deutsche Telekom
+31470,DE,Munich,Deutsche Telekom
+31469,DE,Hamburg,Deutsche Telekom
+31663,DE,Passau,Telepark Passau GmbH
+32776,DE,Schwarzenbek,Rohwerder Datasystems GmbH
+33264,DE,Trier,Hochschule Trier
+33397,DE,Dusseldorf,PHILUNET GmbH
+33805,DE,Falkenstein,DISTRICTZERO Gaming Community
+35154,DE,Dusseldorf,Contabo
+35528,DE,Simbach am Inn,In(n) Energie GmbH
+35692,DE,Frankfurt Am Main,Clouvider Ltd
+36011,DE,Magdeburg,MDCC Magdeburg-City-Com GmbH
+36366,DE,Frankfurt Am Main,Pingless.com
+36896,DE,Apfelstädt,AlphaCron
+37316,DE,Berlin,Sewan
+37516,DE,Rosenheim,Komro GmbH
+37567,DE,Frankfurt,Netprotect
+37748,DE,Frankfurt,ropa GmbH & Co. KG
+38032,DE,Leipzig,Drahtlos-DSL GmbH Mittelsachsen
+38954,DE,Unterföhring,ProSiebenSat.1 Tech Solutions
+39047,DE,Frankfurt Am Main,level66.network UG (haftungsbeschränkt)
+40094,DE,Frankfurt,PVDataNet
+41175,DE,Dresden,CITUX GmbH
+41226,DE,Rostock,Stadtwerke Rostock AG
+41442,DE,Idar,Hi-5 Internet Services
+41540,DE,Mainz,Mainzer Breitband GmbH
+42251,DE,Wegberg-Wildenrath,VHNetz
+42423,DE,Falkenstein,FoxHost
+42494,DE,Falkenstein,Hosmatic
+43512,DE,Aachen,RelAix Networks GmbH
+44081,DE,Frankfurt Am Main,23M GmbH
+44260,DE,Frankfurt,ESEVEN DevOps GmbH
+44477,DE,Frankfurt,TELE AG
+44599,DE,Lübeck,Stadtwerke Lübeck GmbH
+44668,DE,Ratzeburg,Vereinigte Stadtwerke Media GmbH
+44669,DE,Goerlitz,Netcommunity
+44759,DE,Würzburg,Rockenstein AG
+45664,DE,Schwerin,WEMACOM Telekommunikation GmbH
+45793,DE,Trostberg,AnschlussWerk GmbH
+45822,DE,Hamburg,WEMACOM Telekommunikation GmbH
+46559,DE,Frankfurt,HABNET
+46569,DE,Frankfurt,wirsNET
+47286,DE,Krefeld,FlawCra
+47789,DE,Potsdam,WebseitenDesigner.com
+47786,DE,Hannover,WebseitenDesigner.com
+48042,DE,Hannover,htp GmbH
+48091,DE,Dusseldorf,Thüga SmartService
+48782,DE,Jena,Thüringer Netkom
+49459,DE,Uetze,FNOH-DSL
+49516,DE,Berlin,Internetnord GmbH
+49575,DE,Losheim Am See,KUES DATA GmbH
