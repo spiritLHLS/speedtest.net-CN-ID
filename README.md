@@ -19,4 +19,6 @@ ID 国家代号 地区 赞助商
 
 admin@spiritlhl.net
 
+## 赞助
 
+https://afdian.net/a/spiritlhl/plan
