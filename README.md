@@ -10,7 +10,7 @@
 
 CSV格式：
 ```
-ID 国家代号 地区 赞助商
+id country_code country city ip host port supplier
 ```
 
 闭源收录服务器数量(实时)：13770
