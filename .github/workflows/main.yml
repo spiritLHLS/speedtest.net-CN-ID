@@ -24,6 +24,11 @@ jobs:
         ls
         python main.py
         ls
+        
+    - name: Update README.md with current date
+      run: |
+        date_str=$(date +'%Y/%m/%d')
+        sed -i "s/数据更新时间: .*/数据更新时间: ${date_str}/g" README.md
   
     - name: Configure Git
       run: |
@@ -45,6 +50,8 @@ jobs:
     - name: Commit changes
       run: |
         git commit -m "Update CSV files"
+    
+    
     
     - name: Push changes
       uses: ad-m/github-push-action@master
