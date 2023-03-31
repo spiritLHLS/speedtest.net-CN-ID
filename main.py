@@ -1,15 +1,24 @@
 import re
+import sys
 import csv
 import json
 import urllib.request
+from Pinyin2Hanzi import DefaultDagParams, dag
+from pinyintokenizer import PinyinTokenizer
+
+
+sys.path.append('..')
+dagparams = DefaultDagParams()
 
 def contain_chinese(string):
-    """
-    判断字符串中是否含有中文字符
-    """
     pattern = re.compile("[\u4e00-\u9fa5]+")
     match = pattern.search(string)
     return match is not None
+
+def pinyin2hanzi(pinyin_sentence):
+    pinyin_list, _ = PinyinTokenizer().tokenize(pinyin_sentence)
+    result = dag(dagparams, pinyin_list, path_num=1)
+    return ''.join(result[0].path)
 
 # IP地址归属地查询API的URL
 url_template = 'http://ip-api.com/json/{ip}?fields=status,message,isp'
@@ -37,7 +46,14 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
         name = row[7]
         if contain_chinese(name) == True:
             row[3] = name
-        elif "5G" in name:
+        else:
+            try:
+                if "'" in row[3]:
+                    row[3] = "".join(row[3].split("'"))
+                row[3] = pinyin2hanzi(row[3])
+            except:
+                pass
+        if "5G" in name:
             row[3] += "5G"
         url = url_template.format(ip=ip)
         with urllib.request.urlopen(url) as response:
