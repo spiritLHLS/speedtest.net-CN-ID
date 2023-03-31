@@ -6,9 +6,9 @@ import urllib.request
 url_template = 'http://ip-api.com/json/{ip}?fields=status,message,isp'
 
 # 三个运营商的关键词
-unicom_keywords = ['China Unicom', 'CHINA169', 'CNCNET']
-mobile_keywords = ['China Mobile']
-telecom_keywords = ['China Telecom', 'China Tietong', 'Chinanet', 'TieTong']
+unicom_keywords = ['China Unicom', 'CHINA169', 'CNCNET', 'Provincial Net of CU']
+mobile_keywords = ['China Mobile', 'Provincial Net of CM']
+telecom_keywords = ['China Telecom', 'China Tietong', 'Chinanet', 'TieTong', 'Provincial Net of CT']
 
 # 打开CSV文件
 with open('CN.csv', 'r', encoding='utf-8') as csvfile:
