@@ -8,7 +8,7 @@ url_template = 'http://ip-api.com/json/{ip}?fields=status,message,isp'
 # 三个运营商的关键词
 unicom_keywords = ['China Unicom']
 mobile_keywords = ['China Mobile']
-telecom_keywords = ['China Telecom', 'China Tietong']
+telecom_keywords = ['China Telecom', 'China Tietong', 'Chinanet', 'TieTong']
 
 # 打开CSV文件
 with open('CN.csv', 'r', encoding='utf-8') as csvfile:
