@@ -38,6 +38,8 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
                     mobile_writer.writerow(row)
                 elif any(keyword in isp for keyword in telecom_keywords):
                     telecom_writer.writerow(row)
+                else:
+                    print(isp)
     # 关闭文件
     unicom_file.close()
     mobile_file.close()
