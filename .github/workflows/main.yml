@@ -18,6 +18,10 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
+        
+    - name: Install dependencies
+      run: |
+        pip install pinyin2hanzi pinyintokenizer
     
     - name: Run main.py script
       run: |
