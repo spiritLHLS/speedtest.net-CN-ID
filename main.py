@@ -49,11 +49,11 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
         else:
             try:
                 if "'" in row[3]:
-                    row[3] = "".join(row[3].split("'"))
+                    row[3] = row[3].replace("'", " ")
                 row[3] = pinyin2hanzi(row[3])
-            except:
-                pass
-        if "5G" in name:
+            except Exception as e:
+                print(e)
+        if "5G" in name and "5G" not in row[3]:
             row[3] += "5G"
         url = url_template.format(ip=ip)
         with urllib.request.urlopen(url) as response:
