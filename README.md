@@ -17,7 +17,7 @@ id country_code country city ip host port supplier
 
 闭源收录服务器数量(实时)：13688
 
-数据更新时间:
+数据更新时间: 2023/03/31
 
 ## 交流
 
