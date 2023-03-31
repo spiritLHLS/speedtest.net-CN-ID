@@ -1,5 +1,7 @@
 # speedtest.net-CN-ID
 
+[![Update](https://github.com/spiritLHLS/speedtest.net-CN-ID/actions/workflows/main.yml/badge.svg)](https://github.com/spiritLHLS/speedtest.net-CN-ID/actions/workflows/main.yml)
+
 ## 说明
 
 闭源爬虫代码版本(非仓库数据更新日期)：2023.03.30
