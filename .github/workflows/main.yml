@@ -28,7 +28,7 @@ jobs:
     - name: Update README.md with current date
       run: |
         date_str=$(date +'%Y/%m/%d')
-        sed -i "s/数据更新时间: .*/数据更新时间: ${date_str}/g" README.md
+        sed -i "s,数据更新时间: .*,数据更新时间: ${date_str}/g" README.md
   
     - name: Configure Git
       run: |
