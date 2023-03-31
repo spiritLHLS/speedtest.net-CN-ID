@@ -1,18 +1,19 @@
 import re
-import sys
+# import sys
 import csv
 import json
 import urllib.request
 # from Pinyin2Hanzi import DefaultDagParams, dag
 # from pinyintokenizer import PinyinTokenizer
 
+
+def contain_chinese(string):
+    pattern = re.compile("[\u4e00-\u9fa5]+")
+    match = pattern.search(string)
+    return match is not None
+
 # sys.path.append('..')
 # dagparams = DefaultDagParams()
-
-# def contain_chinese(string):
-#     pattern = re.compile("[\u4e00-\u9fa5]+")
-#     match = pattern.search(string)
-#     return match is not None
 
 # def pinyin2hanzi(pinyin_sentence):
 #     pinyin_list, _ = PinyinTokenizer().tokenize(pinyin_sentence)
