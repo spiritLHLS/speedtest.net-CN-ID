@@ -1,6 +1,15 @@
+import re
 import csv
 import json
 import urllib.request
+
+def contain_chinese(string):
+    """
+    判断字符串中是否含有中文字符
+    """
+    pattern = re.compile("[\u4e00-\u9fa5]+")
+    match = pattern.search(string)
+    return match is not None
 
 # IP地址归属地查询API的URL
 url_template = 'http://ip-api.com/json/{ip}?fields=status,message,isp'
@@ -25,6 +34,11 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
     # 依次读取每一行，并查询所属运营商
     for row in reader:
         ip = row[4] # IP地址所在的列为第5列，下标为4
+        name = row[7]
+        if contain_chinese(name) == True:
+            row[3] = name
+        elif "5G" in name:
+            row[3] += "5G"
         url = url_template.format(ip=ip)
         with urllib.request.urlopen(url) as response:
             data = response.read().decode('utf-8')
