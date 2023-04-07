@@ -13,6 +13,12 @@ def contain_chinese(string):
 def get_pingyin(string):
     return ''.join(lazy_pinyin(string)).lower()
 
+def replace_all(string):
+    replacements = {".net": "", ".com": "", ", Inc.": "", "China Mobile ": "", "Network": "", "Networks": "", "Network": "", " Telecom": "", "Hong Kong": "", " ": ""}
+    for old, new in replacements.items():
+        string = string.replace(old, new)
+    return string
+
 # IP地址归属地查询API的URL
 url_template = 'http://ip-api.com/json/{ip}?lang=zh-CN'
 
@@ -82,8 +88,8 @@ for row in data:
         continue
     if row[3] != 'Hong Kong':
         row[3] = "香港HongKong"
-    if len(row[7].replace(".net","").replace(".com","").replace(", Inc.","").replace("China Mobile ","").replace(" ","").replace("Network","").replace("Networks","")) <= 11:
-        row[3] = "香港" + row[7].replace(".net","").replace(".com","").replace(", Inc.","").replace("China Mobile ","").replace(" ","").replace("Network","").replace("Networks","")
+    if len(replace_all(row[7])) <= 11:
+        row[3] = "香港" + replace_all(row[7])
     elif row[3] == 'Hong Kong':
         row[3] = "香港HongKong"
 
