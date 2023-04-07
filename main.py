@@ -81,9 +81,9 @@ for row in data:
     if row[3] == "city":
         continue
     if row[3] != 'Hong Kong':
-        continue
-    if len(row[7]) <= 16:
-        row[3] = row[7]
+        row[3] = "香港"
+    if len(row[7]) <= 11:
+        row[3] = "香港|" + row[7]
 
 with open('HK.csv', 'w', newline='') as file:
     writer = csv.writer(file)
