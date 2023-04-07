@@ -1,9 +1,9 @@
 id,country_code,country,city,ip,host,port,supplier
 1536,HK,China,香港|STC,218.102.52.37,suntechspeedtest.com,8080,STC
 13538,HK,Hong Kong,香港|CSL,203.210.2.91,csl.hkspeedtest.com,8080,CSL
-22126,HK,Hong Kong,香港|i3D.net,43.239.139.213,hk.ap.speedtest.i3d.net,8080,i3D.net
-28912,HK,Hong Kong,香港,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
-32155,HK,Hong Kong,香港,182.239.125.254,speedtest.hk.chinamobile.com,8080,China Mobile Hong Kong
+22126,HK,Hong Kong,香港|i3D,43.239.139.213,hk.ap.speedtest.i3d.net,8080,i3D.net
+28912,HK,Hong Kong,香港|fdcservers,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
+32155,HK,Hong Kong,香港|Hong Kong,182.239.125.254,speedtest.hk.chinamobile.com,8080,China Mobile Hong Kong
 34555,HK,Hong Kong,香港|HKIX,202.45.189.1,speedtest1b.hkix.net,8080,HKIX
 37267,HK,Hong Kong,香港|3HK,124.217.179.186,speedtest1.three.com.hk,8080,3HK
 37390,HK,Hong Kong,香港|HGC環電,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
