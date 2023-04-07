@@ -82,8 +82,8 @@ for row in data:
         continue
     if row[3] != 'Hong Kong':
         row[3] = "香港HongKong"
-    if len(row[7].replace(".net","").replace(".com","").replace(", Inc.","").replace("China Mobile ","").replace(" ","")) <= 11:
-        row[3] = "香港" + row[7].replace(".net","").replace(".com","").replace(", Inc.","").replace("China Mobile ","").replace(" ","")
+    if len(row[7].replace(".net","").replace(".com","").replace(", Inc.","").replace("China Mobile ","").replace(" ","").replace("Network","").replace("Networks","")) <= 11:
+        row[3] = "香港" + row[7].replace(".net","").replace(".com","").replace(", Inc.","").replace("China Mobile ","").replace(" ","").replace("Network","").replace("Networks","")
     elif row[3] == 'Hong Kong':
         row[3] = "香港HongKong"
 
