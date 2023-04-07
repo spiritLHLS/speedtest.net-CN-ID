@@ -56,7 +56,7 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
                     data = json.loads(data)
                     if data['status'] == 'success':
                         city = data['city']
-                        row[3] = city
+                        row[3] = city.replace("市", "")
                 time.sleep(0.5)
             except:
                 time.sleep(0.5)
