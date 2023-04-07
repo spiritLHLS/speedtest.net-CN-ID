@@ -81,11 +81,11 @@ for row in data:
     if row[3] == "city":
         continue
     if row[3] != 'Hong Kong':
-        row[3] = "香港"
+        row[3] = "香港HongKong"
     if len(row[7].replace(".net","").replace(".com","").replace(", Inc.","").replace("China Mobile ","").replace(" ","")) <= 11:
         row[3] = "香港" + row[7].replace(".net","").replace(".com","").replace(", Inc.","").replace("China Mobile ","").replace(" ","")
-    else:
-        row[3] = "香港" + row[3]
+    elif row[3] == 'Hong Kong':
+        row[3] = "香港HongKong"
 
 with open('HK.csv', 'w', newline='') as file:
     writer = csv.writer(file)
