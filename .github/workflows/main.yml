@@ -54,7 +54,9 @@ jobs:
     
     - name: Commit changes
       run: |
+        (
         git commit -m "Update CSV files"
+        ) || true
     
     
     
