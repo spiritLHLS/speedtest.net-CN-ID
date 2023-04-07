@@ -21,6 +21,11 @@ def contain_chinese(string):
 #     result = dag(dagparams, pinyin_list, path_num=1)
 #     return ''.join(result[0].path)
 
+dict = {
+    "Lanzhou": "兰州",
+    ""
+}
+
 # IP地址归属地查询API的URL
 url_template = 'http://ip-api.com/json/{ip}?lang=zh-CN'
 
@@ -51,11 +56,13 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
             data = json.loads(data)
             if data['status'] == 'success':
                 city = data['city']
-                row[3] = city.replace("市", "")
         time.sleep(1)
         if contain_chinese(name) == True:
             row[3] = name.replace("电信", "").replace("移动", "").replace("联通", "")
+        elif contain_chinese(row[3]) == True:
+            pass
         else:
+            row[3] = city.replace("市", "")
             if "5G" in name and "5G" not in row[3]:
                 row[3] += "5G"
         if data['status'] == 'success':
