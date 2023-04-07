@@ -71,3 +71,12 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
     unicom_file.close()
     mobile_file.close()
     telecom_file.close()
+
+# HK文件处理
+with open('HK.csv', 'r') as f:
+    reader = csv.reader(f)
+    rows = [row for row in reader if row[3] != 'Hong Kong' or len(row[7]) <= 16 and row[3] == 'Hong Kong']
+
+with open('HK.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerows(rows)
