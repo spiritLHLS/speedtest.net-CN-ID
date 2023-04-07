@@ -1,29 +1,17 @@
 import re
-# import sys
 import csv
 import json
 import urllib.request
 import time
-# from Pinyin2Hanzi import DefaultDagParams, dag
-# from pinyintokenizer import PinyinTokenizer
-
+from pypinyin import lazy_pinyin
 
 def contain_chinese(string):
     pattern = re.compile("[\u4e00-\u9fa5]+")
     match = pattern.search(string)
     return match is not None
 
-# sys.path.append('..')
-# dagparams = DefaultDagParams()
-
-# def pinyin2hanzi(pinyin_sentence):
-#     pinyin_list, _ = PinyinTokenizer().tokenize(pinyin_sentence)
-#     result = dag(dagparams, pinyin_list, path_num=1)
-#     return ''.join(result[0].path)
-
-citys_dict = {
-    "Lanzhou": "兰州",
-}
+def get_pingyin(string):
+    return ''.join(lazy_pinyin(string)).lower()
 
 # IP地址归属地查询API的URL
 url_template = 'http://ip-api.com/json/{ip}?lang=zh-CN'
@@ -61,10 +49,11 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
         else:
             if contain_chinese(row[3]) == True:
                 pass
-            elif row[3] in citys_dict:
-                row[3] = citys_dict[row[3]]
             else:
-                row[3] = city.replace("市", "")
+                city = city.replace("市", "")
+                city_pingyin = get_pingyin(city)
+                if city_pingyin == row[3].low():
+                    row[3] = city
             if "5G" in name and "5G" not in row[3]:
                 row[3] += "5G"
         if data['status'] == 'success':
