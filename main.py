@@ -45,14 +45,6 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
     # 依次读取每一行，并查询所属运营商
     for row in reader:
         ip = row[4] # IP地址所在的列为第5列，下标为4
-        url = url_template2.format(ip=ip)
-        with urllib.request.urlopen(url) as response:
-            data = response.read().decode('utf-8')
-            data = json.loads(data)
-            if data['status'] == 'success':
-                city = data['city']
-                row[3] = city
-        time.sleep(0.5)
         name = row[7]
         if contain_chinese(name) == True:
             row[3] = name
@@ -63,8 +55,17 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
 #                 row[3] = pinyin2hanzi(row[3])
 #             except Exception as e:
 #                 print(e)
-        elif "5G" in name and "5G" not in row[3]:
-            row[3] += "5G"
+        else:
+            url = url_template2.format(ip=ip)
+            with urllib.request.urlopen(url) as response:
+                data = response.read().decode('utf-8')
+                data = json.loads(data)
+                if data['status'] == 'success':
+                    city = data['city']
+                    row[3] = city
+            time.sleep(0.5)
+            if "5G" in name and "5G" not in row[3]:
+                row[3] += "5G"
         url = url_template1.format(ip=ip)
         with urllib.request.urlopen(url) as response:
             data = response.read().decode('utf-8')
