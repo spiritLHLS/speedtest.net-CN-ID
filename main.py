@@ -22,8 +22,7 @@ def contain_chinese(string):
 #     return ''.join(result[0].path)
 
 # IP地址归属地查询API的URL
-url_template1 = 'http://ip-api.com/json/{ip}?fields=status,message,isp'
-url_template2 = 'http://ip-api.com/json/{ip}?lang=zh-CN'
+url_template = 'http://ip-api.com/json/{ip}?lang=zh-CN'
 
 # 三个运营商的关键词
 unicom_keywords = ['China Unicom', 'CHINA169', 'CNCNET', 'Provincial Net of CU', 'UNICOM']
@@ -46,39 +45,30 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
     for row in reader:
         ip = row[4] # IP地址所在的列为第5列，下标为4
         name = row[7]
-        if contain_chinese(name) == True:
-            row[3] = name.replace("电信", "").replace("移动", "").replace("联通", "")
-        else:
-            try:
-                url = url_template2.format(ip=ip)
-                with urllib.request.urlopen(url) as response:
-                    data = response.read().decode('utf-8')
-                    data = json.loads(data)
-                    if data['status'] == 'success':
-                        city = data['city']
-                        row[3] = city.replace("市", "")
-                time.sleep(1)
-            except:
-                time.sleep(1)
-                pass
-            if "5G" in name and "5G" not in row[3]:
-                row[3] += "5G"
-        url = url_template1.format(ip=ip)
+        url = url_template.format(ip=ip)
         with urllib.request.urlopen(url) as response:
             data = response.read().decode('utf-8')
             data = json.loads(data)
             if data['status'] == 'success':
-                isp = data['isp']
-                # 判断所属运营商
-                if any(keyword in isp for keyword in unicom_keywords):
-                    unicom_writer.writerow(row)
-                elif any(keyword in isp for keyword in mobile_keywords):
-                    mobile_writer.writerow(row)
-                elif any(keyword in isp for keyword in telecom_keywords):
-                    telecom_writer.writerow(row)
-                else:
-                    print(isp)
+                city = data['city']
+                row[3] = city.replace("市", "")
         time.sleep(1)
+        if contain_chinese(name) == True:
+            row[3] = name.replace("电信", "").replace("移动", "").replace("联通", "")
+        else:
+            if "5G" in name and "5G" not in row[3]:
+                row[3] += "5G"
+        if data['status'] == 'success':
+            isp = data['isp']
+            # 判断所属运营商
+            if any(keyword in isp for keyword in unicom_keywords):
+                unicom_writer.writerow(row)
+            elif any(keyword in isp for keyword in mobile_keywords):
+                mobile_writer.writerow(row)
+            elif any(keyword in isp for keyword in telecom_keywords):
+                telecom_writer.writerow(row)
+            else:
+                print(isp)
     # 关闭文件
     unicom_file.close()
     mobile_file.close()
