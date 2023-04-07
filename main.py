@@ -82,8 +82,8 @@ for row in data:
         continue
     if row[3] != 'Hong Kong':
         row[3] = "香港"
-    if len(row[7].replace(".net","").replace(".com","").replace(", Inc.","").replace("China Mobile ","")) <= 11:
-        row[3] = "香港|" + row[7].replace(".net","").replace(".com","").replace(", Inc.","").replace("China Mobile ","")
+    if len(row[7].replace(".net","").replace(".com","").replace(", Inc.","").replace("China Mobile ","").replace(" ","")) <= 11:
+        row[3] = "香港|" + row[7].replace(".net","").replace(".com","").replace(", Inc.","").replace("China Mobile ","").replace(" ","")
 
 with open('HK.csv', 'w', newline='') as file:
     writer = csv.writer(file)
