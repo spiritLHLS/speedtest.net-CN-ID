@@ -47,14 +47,7 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
         ip = row[4] # IP地址所在的列为第5列，下标为4
         name = row[7]
         if contain_chinese(name) == True:
-            row[3] = name
-#         else:
-#             try:
-#                 if "'" in row[3]:
-#                     row[3] = row[3].replace("'", " ")
-#                 row[3] = pinyin2hanzi(row[3])
-#             except Exception as e:
-#                 print(e)
+            row[3] = name.replace("电信", "").replace("移动", "").replace("联通", "")
         else:
             try:
                 url = url_template2.format(ip=ip)
