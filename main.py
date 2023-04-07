@@ -52,7 +52,7 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
             else:
                 city = city.replace("市", "")
                 city_pingyin = get_pingyin(city)
-                if city_pingyin == row[3].low():
+                if city_pingyin == row[3].replace("'","").lower():
                     row[3] = city
             if "5G" in name and "5G" not in row[3]:
                 row[3] += "5G"
