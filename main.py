@@ -56,14 +56,18 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
 #             except Exception as e:
 #                 print(e)
         else:
-            url = url_template2.format(ip=ip)
-            with urllib.request.urlopen(url) as response:
-                data = response.read().decode('utf-8')
-                data = json.loads(data)
-                if data['status'] == 'success':
-                    city = data['city']
-                    row[3] = city
-            time.sleep(0.5)
+            try:
+                url = url_template2.format(ip=ip)
+                with urllib.request.urlopen(url) as response:
+                    data = response.read().decode('utf-8')
+                    data = json.loads(data)
+                    if data['status'] == 'success':
+                        city = data['city']
+                        row[3] = city
+                time.sleep(0.5)
+            except:
+                time.sleep(0.5)
+                pass
             if "5G" in name and "5G" not in row[3]:
                 row[3] += "5G"
         url = url_template1.format(ip=ip)
