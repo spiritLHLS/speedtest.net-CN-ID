@@ -3,6 +3,7 @@ import re
 import csv
 import json
 import urllib.request
+import time
 # from Pinyin2Hanzi import DefaultDagParams, dag
 # from pinyintokenizer import PinyinTokenizer
 
@@ -51,6 +52,7 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
             if data['status'] == 'success':
                 city = data['city']
                 row[3] = city
+        time.sleep(0.5)
         name = row[7]
         if contain_chinese(name) == True:
             row[3] = name
