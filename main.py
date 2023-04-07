@@ -80,6 +80,7 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
                     telecom_writer.writerow(row)
                 else:
                     print(isp)
+        time.sleep(0.5)
     # 关闭文件
     unicom_file.close()
     mobile_file.close()
