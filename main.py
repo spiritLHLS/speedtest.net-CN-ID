@@ -57,9 +57,9 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
                     if data['status'] == 'success':
                         city = data['city']
                         row[3] = city.replace("市", "")
-                time.sleep(0.5)
+                time.sleep(1)
             except:
-                time.sleep(0.5)
+                time.sleep(1)
                 pass
             if "5G" in name and "5G" not in row[3]:
                 row[3] += "5G"
@@ -78,7 +78,7 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
                     telecom_writer.writerow(row)
                 else:
                     print(isp)
-        time.sleep(0.5)
+        time.sleep(1)
     # 关闭文件
     unicom_file.close()
     mobile_file.close()
