@@ -10,6 +10,6 @@ id,country_code,country,city,ip,host,port,supplier
 37639,HK,Hong Kong,香港HongKong,182.239.96.254,speedtestbb.hk.chinamobile.com,8080,China Mobile Hong Kong Boardband
 43092,HK,Hong Kong,香港HongKong,184.104.208.198,speedtest.suniway.net,8080,Suniway Telecom
 43356,HK,Hong Kong,香港1010,203.210.2.92,1010.hkspeedtest.com,8080,1010
-44745,HK,Hong Kong,香港HongKong,45.11.104.242,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
-48446,HK,Hong Kong,香港GSLNetworks,202.165.70.3,hk1.speedtest.gslnetworks.com,8080,GSL Networks
-56598,HK,Hong Kong,香港HongKong,38.150.13.3,hk-eqhk1-hk.lite-lg.hytron.io,8080,Hytron Network
+44745,HK,Hong Kong,香港Misaka,45.11.104.242,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
+48446,HK,Hong Kong,香港GSLs,202.165.70.3,hk1.speedtest.gslnetworks.com,8080,GSL Networks
+56598,HK,Hong Kong,香港Hytron,38.150.13.3,hk-eqhk1-hk.lite-lg.hytron.io,8080,Hytron Network
