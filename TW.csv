@@ -7,6 +7,9 @@ id,country_code,country,city,ip,host,port,supplier
 8968,TW,Taiwan,Kaohsiung,219.69.127.3,ks-speedtest.bbtv.tw,8080,Homeplus
 12000,TW,Taiwan,Taichung,123.240.255.26,custom.tbcnet.net.tw,8080,TBC
 13506,TW,Taiwan,Taipei,103.31.196.221,speedtest.taifo.com.tw,8080,TAIFO Taiwan
+17185,TW,Taiwan,Miaoli City,211.77.43.22,fetml1.seed.net.tw,8080,FarEasTone Telecom
+17186,TW,Taiwan,Zhongli,211.77.43.20,fetzl1.seed.net.tw,8080,FarEasTone Telecom
+17204,TW,Taiwan,Yuanlin City,211.77.43.25,fetyl1.seed.net.tw,8080,FarEasTone Telecom
 18445,TW,Taiwan,Taipei,111.71.227.33,tp1.chtm.hinet.net,8080,Chunghwa Mobile
 18447,TW,Taiwan,New Taipei,111.71.227.41,ntp1.chtm.hinet.net,8080,Chunghwa Mobile
 18450,TW,Taiwan,Hsinchu,111.71.228.41,hc1.chtm.hinet.net,8080,Chunghwa Mobile
@@ -47,10 +50,12 @@ id,country_code,country,city,ip,host,port,supplier
 45633,TW,Taiwan,Taitung,210.201.78.22,srv11.speedtest.aptg.com.tw,8080,Asia Pacific Telecom
 46478,TW,Taiwan,Hualien,210.200.140.177,hualien.speedtest.aptg.com.tw,8080,Asia Pacific Telecom
 46829,TW,Taiwan,Keelung,210.200.140.178,keelung.speedtest.aptg.com.tw,8080,Asia Pacific Telecom
+50074,TW,Taiwan,Yilan City,211.77.43.122,seedsptyl2.seed.net.tw,8080,FarEasTone Telecom
 50582,TW,Taiwan,Douliu City,211.77.43.26,fetdl2.seed.net.tw,8080,FarEasTone Telecom
 51804,TW,Taiwan,Taipei,61.216.67.209,netgeartec.ga,8080,Netgear
 55261,TW,Taiwan,Taichung,61.60.226.2,speedtest.tinp.net.tw,8080,Tinp
-17185,TW,Taiwan,Miaoli City,211.77.43.22,fetml1.seed.net.tw,8080,FarEasTone Telecom
-17186,TW,Taiwan,Zhongli,211.77.43.20,fetzl1.seed.net.tw,8080,FarEasTone Telecom
-17204,TW,Taiwan,Yuanlin City,211.77.43.25,fetyl1.seed.net.tw,8080,FarEasTone Telecom
-50074,TW,Taiwan,Yilan City,211.77.43.122,seedsptyl2.seed.net.tw,8080,FarEasTone Telecom
+3967,TW,Taiwan,Taipei,210.61.132.17,tpv3-1.speedtest.idv.tw,8080,Chief Telecom
+4505,TW,Taiwan,New Taipei,210.61.132.18,ntpv3-1.speedtest.idv.tw,8080,Chief Telecom
+18478,TW,Taiwan,Douliu,210.61.132.30,dlv3-1.speedtest.idv.tw,8080,Chief Telecom
+24429,TW,Taiwan,Taipei,115.43.115.15,tp-speedtest.bbtv.tw,8080,Homeplus
+35066,TW,Taiwan,Taipei,116.50.42.12,speedtest.dongfong.com.tw,8080,DFT
