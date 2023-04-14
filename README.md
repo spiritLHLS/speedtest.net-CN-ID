@@ -15,7 +15,7 @@ CSV格式：
 id country_code country city ip host port supplier
 ```
 
-闭源收录服务器数量(实时)：13961
+闭源收录服务器数量(实时)：13946
 
 数据更新时间: 2023/04/13
 
