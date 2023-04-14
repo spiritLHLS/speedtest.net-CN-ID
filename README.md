@@ -17,7 +17,7 @@ id country_code country city ip host port supplier
 
 闭源收录服务器数量(实时)：13946
 
-数据更新时间: 2023/04/13
+数据更新时间: 2023/04/14
 
 ### 对应 [speedtest.net](https://www.speedtest.net/) 的自动更新测速服务器ID的测速脚本
 
