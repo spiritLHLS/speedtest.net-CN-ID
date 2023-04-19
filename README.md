@@ -10,13 +10,6 @@
 
 定期自动更新爬取到的测速节点ID，闭源爬虫，自动推送
 
-所有数据以国家代号或运营商划分 
-
-CSV格式：
-```
-id country_code country city ip host port supplier
-```
-
 闭源收录服务器数量(实时)：13946
 
 数据更新时间: 2023/04/18
