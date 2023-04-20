@@ -9,7 +9,9 @@ id,country_code,country,city,ip,host,port,supplier
 8968,TW,Taiwan,Kaohsiung,219.69.127.3,ks-speedtest.bbtv.tw,8080,Homeplus
 12000,TW,Taiwan,Taichung,123.240.255.26,custom.tbcnet.net.tw,8080,TBC
 13506,TW,Taiwan,Taipei,103.31.196.221,speedtest.taifo.com.tw,8080,TAIFO Taiwan
-17189,TW,Taiwan,Nantou City,211.77.43.28,fetnt1.seed.net.tw,8080,FarEasTone Telecom
+17185,TW,Taiwan,Miaoli City,211.77.43.22,fetml1.seed.net.tw,8080,FarEasTone Telecom
+17186,TW,Taiwan,Zhongli,211.77.43.20,fetzl1.seed.net.tw,8080,FarEasTone Telecom
+17204,TW,Taiwan,Yuanlin City,211.77.43.25,fetyl1.seed.net.tw,8080,FarEasTone Telecom
 18422,TW,Taiwan,Banqiao,211.77.43.52,qw-ntpspt1.wifly.com.tw,8080,WiFly
 18445,TW,Taiwan,Taipei,111.71.227.33,tp1.chtm.hinet.net,8080,Chunghwa Mobile
 18447,TW,Taiwan,New Taipei,111.71.227.41,ntp1.chtm.hinet.net,8080,Chunghwa Mobile
@@ -19,7 +21,6 @@ id,country_code,country,city,ip,host,port,supplier
 18458,TW,Taiwan,Kaohsiung,111.71.230.33,kh1.chtm.hinet.net,8080,Chunghwa Mobile
 18477,TW,Taiwan,Nantou,210.61.132.29,ntv3-1.speedtest.idv.tw,8080,Chief Telecom
 18478,TW,Taiwan,Douliu,210.61.132.30,dlv3-1.speedtest.idv.tw,8080,Chief Telecom
-18479,TW,Taiwan,Chiayi,210.61.132.37,cyv3-1.speedtest.idv.tw,8080,Chief Telecom
 18480,TW,Taiwan,Taitung,210.61.132.38,ttv3-1.speedtest.idv.tw,8080,Chief Telecom
 18607,TW,Taiwan,Tainan,111.71.230.41,tn1.chtm.hinet.net,8080,Chunghwa Mobile
 18611,TW,Taiwan,Changhua,111.71.229.41,ch1.chtm.hinet.net,8080,Chunghwa Mobile
@@ -54,9 +55,9 @@ id,country_code,country,city,ip,host,port,supplier
 45633,TW,Taiwan,Taitung,210.201.78.22,srv11.speedtest.aptg.com.tw,8080,Asia Pacific Telecom
 46478,TW,Taiwan,Hualien,210.200.140.177,hualien.speedtest.aptg.com.tw,8080,Asia Pacific Telecom
 46829,TW,Taiwan,Keelung,210.200.140.178,keelung.speedtest.aptg.com.tw,8080,Asia Pacific Telecom
+50074,TW,Taiwan,Yilan City,211.77.43.122,seedsptyl2.seed.net.tw,8080,FarEasTone Telecom
 50582,TW,Taiwan,Douliu City,211.77.43.26,fetdl2.seed.net.tw,8080,FarEasTone Telecom
 51804,TW,Taiwan,Taipei,61.216.67.209,netgeartec.ga,8080,Netgear
-17185,TW,Taiwan,Miaoli City,211.77.43.22,fetml1.seed.net.tw,8080,FarEasTone Telecom
-17186,TW,Taiwan,Zhongli,211.77.43.20,fetzl1.seed.net.tw,8080,FarEasTone Telecom
-17204,TW,Taiwan,Yuanlin City,211.77.43.25,fetyl1.seed.net.tw,8080,FarEasTone Telecom
-50074,TW,Taiwan,Yilan City,211.77.43.122,seedsptyl2.seed.net.tw,8080,FarEasTone Telecom
+55261,TW,Taiwan,Taichung,61.60.226.2,speedtest.tinp.net.tw,8080,Tinp
+17189,TW,Taiwan,Nantou City,211.77.43.28,fetnt1.seed.net.tw,8080,FarEasTone Telecom
+18479,TW,Taiwan,Chiayi,210.61.132.37,cyv3-1.speedtest.idv.tw,8080,Chief Telecom
