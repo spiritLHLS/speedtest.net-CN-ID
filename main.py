@@ -66,14 +66,15 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
             isp = data['isp']
             # 判断所属运营商
             if any(keyword in isp for keyword in unicom_keywords):
-                if row[6] == "CN":
-                    unicom_writer.writerow(row)
+#                 if row[6] == "CN":
+                print(row)
+                unicom_writer.writerow(row)
             elif any(keyword in isp for keyword in mobile_keywords):
-                if row[6] == "CN":
-                    mobile_writer.writerow(row)
+#                 if row[6] == "CN":
+                mobile_writer.writerow(row)
             elif any(keyword in isp for keyword in telecom_keywords):
-                if row[6] == "CN":
-                    telecom_writer.writerow(row)
+#                 if row[6] == "CN":
+                telecom_writer.writerow(row)
             else:
                 print(isp)
     # 关闭文件
