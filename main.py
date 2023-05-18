@@ -101,4 +101,14 @@ with open('HK.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerows(data)
 
-# TW文件处理
+# ls_sg_hk_jp.csv 文件处理
+with open('ls_sg_hk_jp.csv', 'r') as file:
+    reader = csv.reader(file)
+    rows = list(reader)
+rows[1][3] = '洛杉矶'
+rows[2][3] = '新加坡'
+rows[3][3] = '香港'
+rows[4][3] = '东京'
+with open('ls_sg_hk_jp.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerows(rows)
