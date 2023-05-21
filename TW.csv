@@ -3,6 +3,7 @@ id,country_code,country,city,ip,host,port,supplier
 2327,TW,Taiwan,Taipei,211.77.43.1,spt1.seed.net.tw,8080,"Far Eastone Telecommunications Co., Ltd."
 3967,TW,Taiwan,Taipei,210.61.132.17,tpv3-1.speedtest.idv.tw,8080,Chief Telecom
 4505,TW,Taiwan,New Taipei,210.61.132.18,ntpv3-1.speedtest.idv.tw,8080,Chief Telecom
+4941,TW,Taiwan,Kaohsiung,210.61.132.34,khv3-1.speedtest.idv.tw,8080,Chief Telecom
 4946,TW,Taiwan,Pingtung,210.61.132.36,ptv3-1.speedtest.idv.tw,8080,Chief Telecom
 4948,TW,Taiwan,Hualien,210.61.132.26,hlv3-1.speedtest.idv.tw,8080,Chief Telecom
 7429,TW,Taiwan,Taipei,106.105.105.66,speedtest1.taipeinet.com.tw,8080,Taipeinet
@@ -13,9 +14,12 @@ id,country_code,country,city,ip,host,port,supplier
 11707,TW,Taiwan,Taichung,203.105.239.14,spttc2.taiwanmobile.com,8080,Taiwan Mobile
 11708,TW,Taiwan,Hualien,60.199.137.33,spthl1.taiwanmobile.com,8080,Taiwan Mobile
 11709,TW,Taiwan,Changhua,203.105.239.18,sptch2.taiwanmobile.com,8080,Taiwan Mobile
+11711,TW,Taiwan,Tainan,203.105.224.18,spttn2.taiwanmobile.com,8080,Taiwan Mobile
 11713,TW,Taiwan,Kaohsiung,203.105.224.22,sptkh2.taiwanmobile.com,8080,Taiwan Mobile
+12583,TW,Taiwan,New Taipei,60.199.137.193,sb-speedtest-1.twmbroadband.net,8080,TFN Media
 13506,TW,Taiwan,Taipei,103.31.196.221,speedtest.taifo.com.tw,8080,TAIFO Taiwan
-17189,TW,Taiwan,Nantou City,211.77.43.28,fetnt1.seed.net.tw,8080,FarEasTone Telecom
+17185,TW,Taiwan,Miaoli City,211.77.43.22,fetml1.seed.net.tw,8080,FarEasTone Telecom
+17186,TW,Taiwan,Zhongli,211.77.43.20,fetzl1.seed.net.tw,8080,FarEasTone Telecom
 17204,TW,Taiwan,Yuanlin City,211.77.43.25,fetyl1.seed.net.tw,8080,FarEasTone Telecom
 18422,TW,Taiwan,Banqiao,211.77.43.52,qw-ntpspt1.wifly.com.tw,8080,WiFly
 18445,TW,Taiwan,Taipei,111.71.227.33,tp1.chtm.hinet.net,8080,Chunghwa Mobile
@@ -48,8 +52,7 @@ id,country_code,country,city,ip,host,port,supplier
 32062,TW,Brazil,Formosa,181.191.120.6,velocimetro.cxbtelecom.com.br,8080,C. X. B. Telecom
 32319,TW,Taiwan,Tainan,120.116.1.43,tnookla.tn.edu.tw,8080,TNIC
 35066,TW,Taiwan,Taipei,116.50.42.12,speedtest.dongfong.com.tw,8080,DFT
-36634,TW,Taiwan,Taoyuan District,211.77.43.112,seednet-ty1.seed.net.tw,8080,SEEDNET
-36636,TW,Taiwan,Kaohsiung Lingya,211.77.43.119,seednet-ks1.seed.net.tw,8080,SEEDNET
+36071,TW,Taiwan,Taipei,103.246.219.98,speedtest.imcloud.tw,8080,"Sky Digital Co., Ltd"
 38059,TW,Taiwan,Kaohsiung,202.144.211.9,tstarkh1.vibo.net.tw,8080,"Taiwan Star Telecom Co., Ltd."
 40727,TW,Taiwan,Taichung,211.77.43.115,seednet-tc1.seed.net.tw,8080,SEEDNET
 40728,TW,Taiwan,Tainan,211.77.43.118,seednet-tn1.seed.net.tw,8080,SEEDNET
@@ -63,6 +66,8 @@ id,country_code,country,city,ip,host,port,supplier
 46829,TW,Taiwan,Keelung,210.200.140.178,keelung.speedtest.aptg.com.tw,8080,Asia Pacific Telecom
 50074,TW,Taiwan,Yilan City,211.77.43.122,seedsptyl2.seed.net.tw,8080,FarEasTone Telecom
 50582,TW,Taiwan,Douliu City,211.77.43.26,fetdl2.seed.net.tw,8080,FarEasTone Telecom
-55261,TW,Taiwan,Taichung,61.60.226.2,speedtest.tinp.net.tw,8080,Tinp
-4941,TW,Taiwan,Kaohsiung,210.61.132.34,khv3-1.speedtest.idv.tw,8080,Chief Telecom
+51804,TW,Taiwan,Taipei,61.216.67.209,netgeartec.ga,8080,Netgear
 55674,TW,Taiwan,Banqiao District,60.199.147.49,sptkh1.taiwanmobile.com,8080,Taiwan Mobile
+36634,TW,Taiwan,Taoyuan District,211.77.43.112,seednet-ty1.seed.net.tw,8080,SEEDNET
+36636,TW,Taiwan,Kaohsiung Lingya,211.77.43.119,seednet-ks1.seed.net.tw,8080,SEEDNET
+55261,TW,Taiwan,Taichung,61.60.226.2,speedtest.tinp.net.tw,8080,Tinp
