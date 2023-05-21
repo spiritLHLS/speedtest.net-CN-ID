@@ -1,5 +1,5 @@
 id,country_code,country,city,ip,host,port,supplier
-50121,CA,United States,Los Angeles,103.211.1.79,lax01.ookla.rcp.net,8080,RCP.Net
-50406,SG,Singapore,Singapore,202.94.122.34,sgn-nperf.verizon.net,8080,Verizon
-28912,HK,Hong Kong,Hong Kong,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
-50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net,8080,Verizon
+50121,CA,United States,洛杉矶,103.211.1.79,lax01.ookla.rcp.net,8080,RCP.Net
+50406,SG,Singapore,新加坡,202.94.122.34,sgn-nperf.verizon.net,8080,Verizon
+28912,HK,Hong Kong,中国香港,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
+50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net,8080,Verizon
