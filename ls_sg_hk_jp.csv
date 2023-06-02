@@ -1,5 +1,5 @@
 id,country_code,country,city,ip,host,port,supplier
-33893,CA,United States,洛杉矶,209.172.13.4,speedtest.airlink.network,8080,Airlink Internet Inc
-50406,SG,Singapore,新加坡,202.94.122.34,sgn-nperf.verizon.net,8080,Verizon
-35445,HK,Hong Kong,中国香港,103.19.27.248,speedtest.virtualhosting.hk,8080,UDomain
-24333,JP,Japan,日本东京,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"
+13516,CA,United States,Los Angeles,72.34.255.50,speedtest.lax01.xfernet.net,8080,Xfernet
+47713,SG,Singapore,Singapore,202.43.176.90,sig-speedtest.moratelindo.io,8080,PT. Mora Telematika Indonesia
+57779,HK,Hong Kong,Hong Kong,61.244.99.193,a-i-m-watcher.ratatoskr.org,8080,ラタトスク
+21569,JP,Japan,Tokyo,103.194.167.213,jp.as.speedtest.i3d.net,8080,i3D.net
