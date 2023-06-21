@@ -1,5 +1,5 @@
 id,country_code,country,city,ip,host,port,supplier
-35056,CA,United States,洛杉矶,77.247.126.223,la.speedtest.clouvider.net,8080,Clouvider Ltd
-47713,SG,Singapore,新加坡,202.43.176.90,sig-speedtest.moratelindo.io,8080,PT. Mora Telematika Indonesia
-43356,HK,Hong Kong,中国香港,203.210.2.92,1010.hkspeedtest.com,8080,1010
-48463,JP,Japan,日本东京,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+5861,CA,United States,Los Angeles,64.185.235.74,lax1a-speedtest.webnx.com,8080,WebNX Inc.
+58455,SG,Singapore,Singapore,159.223.70.12,speedtest.walastikinternet.com.ph,8080,Walastik Internet
+28912,HK,Hong Kong,Hong Kong,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
+24333,JP,Japan,Tokyo,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"
