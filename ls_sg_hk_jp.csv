@@ -1,5 +1,5 @@
 id,country_code,country,city,ip,host,port,supplier
-18857,CA,United States,Los Angeles,198.44.223.66,speedtest.belairinternet.com,8080,BAI Connect
-50344,SG,Singapore,Singapore,203.27.107.253,sg3.speedtest.gslnetworks.com,8080,GSL Networks
-35445,HK,Hong Kong,Hong Kong,103.19.27.248,speedtest.virtualhosting.hk,8080,UDomain
-48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+18857,CA,United States,洛杉矶,198.44.223.66,speedtest.belairinternet.com,8080,BAI Connect
+50344,SG,Singapore,新加坡,203.27.107.253,sg3.speedtest.gslnetworks.com,8080,GSL Networks
+35445,HK,Hong Kong,中国香港,103.19.27.248,speedtest.virtualhosting.hk,8080,UDomain
+48463,JP,Japan,日本东京,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
