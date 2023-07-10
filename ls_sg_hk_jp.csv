@@ -1,5 +1,5 @@
 id,country_code,country,city,ip,host,port,supplier
-18857,CA,United States,洛杉矶,198.44.223.66,speedtest.belairinternet.com,8080,BAI Connect
-50344,SG,Singapore,新加坡,203.27.107.253,sg3.speedtest.gslnetworks.com,8080,GSL Networks
-35445,HK,Hong Kong,中国香港,103.19.27.248,speedtest.virtualhosting.hk,8080,UDomain
-48463,JP,Japan,日本东京,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+5303,CA,United States,Los Angeles,162.254.119.11,speedtest.lax2.hostduplex.com,8080,Host Duplex
+44817,SG,Singapore,Singapore,61.16.64.58,speedtest.sptel.com,8080,SPTEL PTE. LTD.
+22126,HK,Hong Kong,Hong Kong,43.239.139.213,hk.ap.speedtest.i3d.net,8080,i3D.net
+24333,JP,Japan,Tokyo,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"

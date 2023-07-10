@@ -1,11 +1,14 @@
 id,country_code,country,city,ip,host,port,supplier
+3633,CN,China,Shanghai,101.95.48.41,speedtest1.online.sh.cn,8080,China Telecom
 3973,CN,China,Lanzhou,125.74.203.18,speed.bajianjun.com,8080,China Telecom
+4575,CN,China,Chengdu,183.221.247.9,speedtest1.sc.chinamobile.com,8080,China Mobile Group Sichuan
 4870,CN,China,Changsha,220.202.152.178,speedtest01.hn165.com,8080,湖南联通5G
 5317,CN,China,Yangzhou,58.223.1.234,4glianyungang1.speedtest.jsinfo.net,8080,江苏电信5G
 5396,CN,China,Suzhou,115.169.22.130,4gsuzhou1.speedtest.jsinfo.net,8080,China Telecom JiangSu 5G
 5530,CN,China,Chongqing,117.59.115.2,speedtest1.cqccn.com,8080,CCN
 14692,CN,Taiwan,新北,103.225.0.234,gvc-speed.twmbroadband.com,8080,觀天下
 14693,CN,Taiwan,新北,103.225.1.234,mct-speed.twmbroadband.com,8080,紅樹林
+16145,CN,China,Lanzhou,211.139.83.90,speedtest1.gs.chinamobile.com,8080,"Lanzhou,China Mobile,Gansu"
 17145,CN,China,Hefei,61.191.111.11,speedtest1.ah163.com,8080,China Telecom AnHui 5G
 17265,CN,Taiwan,Zhonghe,211.77.43.18,fetsz1.seed.net.tw,8080,FarEasTone Telecom
 23844,CN,China,Wuhan,58.49.35.34,vipspeedtest1.wuhan.net.cn,8080,China Telecom Wuhan Branch
@@ -16,18 +19,16 @@ id,country_code,country,city,ip,host,port,supplier
 29071,CN,China,成都,182.144.10.70,speedtest1.sc.189.cn,8080,China Telecom
 29105,CN,China,Xi'an,122.77.240.140,speedtest.one-punch.win,8080,陕西移动5G
 30852,CN,China,Kunshan,180.208.59.230,speedtest.dukekunshan.edu.cn,8080,Duke Kunshan University
+34115,CN,China,TianJin,106.47.215.170,sy.tjtele.com,8080,China Telecom TianJin-5G
 35527,CN,China,Chengdu,60.255.143.222,speedtest.cnscn96655.com,8080,China Broadcasting Network Group Sichuan
 35722,CN,China,TianJin,219.150.32.66,tjrate.tjtele.com,8080,天津电信
 36646,CN,China,Zhengzhou,123.6.78.67,5gtest.shangdu.com,8080,China Unicom HeNan 5G
 36663,CN,China,Zhenjiang,115.168.74.186,5gzhenjiang.speedtest.jsinfo.net,8080,China Telecom JiangSu 5G
 37235,CN,China,Shenyang,218.25.6.194,unicomspeedtest.com,8080,Unicom
+41910,CN,China,Zhengzhou,111.7.186.213,speedtest.eastcom.site,8080,China Mobile Henan 5G
 43752,CN,China,Beijing,124.65.21.31,beijing.unicomtest.com,8080,BJ Unicom
 45170,CN,China,Wu Xi,153.35.187.2,speedtest2.niutk.com,8080,China Unicom
 54312,CN,China,Hangzhou,112.15.227.70,speedtest.139play.com,8080,China Mobile Zhejiang 5G
 54432,CN,China,三亚,221.11.157.169,hin-sanya1.netcute.com,8080,海南联通
 56354,CN,China,Fuzhou,36.250.1.90,upload1.testspeed.cdn16.com,8080,Unicom
 58591,CN,China,Shenzhen,120.241.29.150,speedtest.sz.gd.shunshiidc.com,8080,硬核通信
-3633,CN,China,Shanghai,101.95.48.41,speedtest1.online.sh.cn,8080,China Telecom
-4575,CN,China,Chengdu,183.221.247.9,speedtest1.sc.chinamobile.com,8080,China Mobile Group Sichuan
-16145,CN,China,Lanzhou,211.139.83.90,speedtest1.gs.chinamobile.com,8080,"Lanzhou,China Mobile,Gansu"
-34115,CN,China,TianJin,106.47.215.170,sy.tjtele.com,8080,China Telecom TianJin-5G
