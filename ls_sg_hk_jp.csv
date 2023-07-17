@@ -1,5 +1,5 @@
 id,country_code,country,city,ip,host,port,supplier
-17527,CA,United States,洛杉矶,64.201.123.18,speedtest.race.com,8080,Race Communications
-44817,SG,Singapore,新加坡,61.16.64.58,speedtest.sptel.com,8080,SPTEL PTE. LTD.
-34555,HK,Hong Kong,中国香港,202.45.189.1,speedtest1b.hkix.net,8080,HKIX
-21569,JP,Japan,日本东京,103.194.167.213,jp.as.speedtest.i3d.net,8080,i3D.net
+17527,CA,United States,Los Angeles,64.201.123.18,speedtest.race.com,8080,Race Communications
+44817,SG,Singapore,Singapore,61.16.64.58,speedtest.sptel.com,8080,SPTEL PTE. LTD.
+34555,HK,Hong Kong,Hong Kong,202.45.189.1,speedtest1b.hkix.net,8080,HKIX
+21569,JP,Japan,Tokyo,103.194.167.213,jp.as.speedtest.i3d.net,8080,i3D.net
