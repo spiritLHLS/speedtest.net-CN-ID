@@ -1,5 +1,5 @@
 id,country_code,country,city,ip,host,port,supplier
-26187,CA,United States,洛杉矶,104.222.31.30,speedtest.lsan.ca.wtsky.net,8080,Whitesky Communications LLC
-59016,SG,Singapore,新加坡,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
-22126,HK,Hong Kong,中国香港,43.239.139.213,hk.ap.speedtest.i3d.net,8080,i3D.net
-50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net,8080,Verizon
+5861,CA,United States,Los Angeles,64.185.235.74,lax1a-speedtest.webnx.com,8080,WebNX Inc.
+58604,SG,Singapore,Singapore,15.235.180.183,sg-01.plactrix.net,8080,Xentain Solutions
+28912,HK,Hong Kong,Hong Kong,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
+48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
