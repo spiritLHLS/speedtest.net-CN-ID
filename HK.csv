@@ -1,19 +1,19 @@
 id,country_code,country,city,ip,host,port,supplier
-1536,HK,China,香港STC,218.102.52.37,suntechspeedtest.com,8080,STC
-13538,HK,Hong Kong,香港CSL,203.210.2.91,csl.hkspeedtest.com,8080,CSL
-19036,HK,Hong Kong,香港SmarTone,203.78.40.10,shenron.smartone.com,8080,SmarTone
-22126,HK,Hong Kong,香港i3D,43.239.139.213,hk.ap.speedtest.i3d.net,8080,i3D.net
-28912,HK,Hong Kong,香港fdcservers,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
-34555,HK,Hong Kong,香港HKIX,202.45.189.1,speedtest1b.hkix.net,8080,HKIX
-35445,HK,Hong Kong,香港UDomain,103.19.27.248,speedtest.virtualhosting.hk,8080,UDomain
-37267,HK,Hong Kong,香港HutchisonHK,124.217.179.186,speedtest1.three.com.hk,8080,Hutchison HK
-37390,HK,Hong Kong,香港HGC環電,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
-37639,HK,Hong Kong,香港Boardband,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,China Mobile Hong Kong Boardband
-43356,HK,Hong Kong,香港1010,203.210.2.92,1010.hkspeedtest.com,8080,1010
-44745,HK,Hong Kong,香港Misaka,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
-47165,HK,Hong Kong,香港Nexet,103.172.81.9,speedtest.nexet.hk,8080,Nexet
-48446,HK,Hong Kong,香港GSLs,202.165.70.3,hk1.speedtest.gslnetworks.com,8080,GSL Networks
-57779,HK,Hong Kong,香港ラタトスク,61.244.99.193,a-i-m-watcher.ratatoskr.org,8080,ラタトスク
-58899,HK,Hong Kong,香港HatsInc.,23.147.232.224,ookla-server.hatsnet.io,8080,Hats Network Inc.
-59303,HK,Hong Kong,香港HKBN,14.136.138.14,speedtest12.hkbn.net,8080,HKBN
-32155,HK,Hong Kong,香港,182.239.125.254,speedtest.hk.chinamobile.com,8080,China Mobile Hong Kong
+1536,HK,China,Hong Kong,218.102.52.37,suntechspeedtest.com,8080,STC
+13538,HK,Hong Kong,Hong Kong,203.210.2.91,csl.hkspeedtest.com,8080,CSL
+19036,HK,Hong Kong,Tai Po,203.78.40.10,shenron.smartone.com,8080,SmarTone
+22126,HK,Hong Kong,Hong Kong,43.239.139.213,hk.ap.speedtest.i3d.net,8080,i3D.net
+28912,HK,Hong Kong,Hong Kong,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
+34555,HK,Hong Kong,Hong Kong,202.45.189.1,speedtest1b.hkix.net,8080,HKIX
+35445,HK,Hong Kong,Hong Kong,103.19.27.248,speedtest.virtualhosting.hk,8080,UDomain
+37267,HK,Hong Kong,Tsing Yi,124.217.179.186,speedtest1.three.com.hk,8080,Hutchison HK
+37390,HK,Hong Kong,Hong Kong,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
+37639,HK,Hong Kong,Hong Kong,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,China Mobile Hong Kong Boardband
+43356,HK,Hong Kong,Hong Kong,203.210.2.92,1010.hkspeedtest.com,8080,1010
+44745,HK,Hong Kong,Hong Kong,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
+47165,HK,Hong Kong,Hong Kong,103.172.81.9,speedtest.nexet.hk,8080,Nexet
+48446,HK,Hong Kong,Hong Kong,202.165.70.3,hk1.speedtest.gslnetworks.com,8080,GSL Networks
+57779,HK,Hong Kong,Hong Kong,61.244.99.193,a-i-m-watcher.ratatoskr.org,8080,ラタトスク
+58899,HK,Hong Kong,Tseung Kwan O,23.147.232.224,ookla-server.hatsnet.io,8080,Hats Network Inc.
+59303,HK,Hong Kong,Hong Kong,14.136.138.14,speedtest12.hkbn.net,8080,HKBN
+32155,HK,Hong Kong,Kwai Chung,182.239.125.254,speedtest.hk.chinamobile.com,8080,China Mobile Hong Kong
