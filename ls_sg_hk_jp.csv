@@ -1,5 +1,5 @@
 id,country_code,country,city,ip,host,port,supplier
-5861,CA,United States,洛杉矶,64.185.235.74,lax1a-speedtest.webnx.com,8080,WebNX Inc.
-58604,SG,Singapore,新加坡,15.235.180.183,sg-01.plactrix.net,8080,Xentain Solutions
-28912,HK,Hong Kong,中国香港,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
-48463,JP,Japan,日本东京,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+5861,CA,United States,Los Angeles,64.185.235.74,lax1a-speedtest.webnx.com,8080,WebNX Inc.
+58604,SG,Singapore,Singapore,15.235.180.183,sg-01.plactrix.net,8080,Xentain Solutions
+28912,HK,Hong Kong,Hong Kong,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
+48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
