@@ -1,5 +1,5 @@
 id,country_code,country,city,ip,host,port,supplier
-21541,CA,United States,Los Angeles,162.244.53.213,ca.na.speedtest.i3d.net,8080,i3D.net
-42688,SG,Singapore,Singapore,112.215.198.21,speedtest-intl.xl.co.id,8080,PT XL Axiata Tbk
-34555,HK,Hong Kong,Hong Kong,202.45.189.1,speedtest1b.hkix.net,8080,HKIX
-56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+21541,CA,United States,洛杉矶,162.244.53.213,ca.na.speedtest.i3d.net,8080,i3D.net
+42688,SG,Singapore,新加坡,112.215.198.21,speedtest-intl.xl.co.id,8080,PT XL Axiata Tbk
+34555,HK,Hong Kong,中国香港,202.45.189.1,speedtest1b.hkix.net,8080,HKIX
+56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
