@@ -106,9 +106,10 @@ with open('ls_sg_hk_jp.csv', 'r') as file:
     reader = csv.reader(file)
     rows = list(reader)
 rows[1][3] = '洛杉矶'
-rows[2][3] = '新加坡'
-rows[3][3] = '中国香港'
-rows[4][3] = '日本东京'
+rows[2][3] = '法兰克福'
+rows[3][3] = '新加坡'
+rows[4][3] = '中国香港'
+rows[5][3] = '日本东京'
 with open('ls_sg_hk_jp.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerows(rows)
