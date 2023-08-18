@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-37498,CA,United States,洛杉矶,64.145.76.249,ook-lax-x1.puregig.net,8080,Netprotect
-55462,DE,Germany,法兰克福,5.75.172.144,speedtest.twerion.net,8080,Twerion.net | Minecraft Server
-59016,SG,Singapore,新加坡,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
-28912,HK,Hong Kong,中国香港,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+21541,CA,United States,Los Angeles,162.244.53.213,ca.na.speedtest.i3d.net,8080,i3D.net
+46559,DE,Germany,Frankfurt,37.18.57.17,speed1.swhab.net,8080,HABNET
+40508,SG,Singapore,Singapore,213.179.201.213,sg.as.speedtest.i3d.net,8080,i3D.net
+37639,HK,Hong Kong,Hong Kong,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,China Mobile Hong Kong Boardband
+56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
