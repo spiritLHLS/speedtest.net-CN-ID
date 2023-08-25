@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-21541,CA,United States,洛杉矶,162.244.53.213,ca.na.speedtest.i3d.net,8080,i3D.net
-46559,DE,Germany,法兰克福,37.18.57.17,speed1.swhab.net,8080,HABNET
-40508,SG,Singapore,新加坡,213.179.201.213,sg.as.speedtest.i3d.net,8080,i3D.net
-37639,HK,Hong Kong,中国香港,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,China Mobile Hong Kong Boardband
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+3864,CA,United States,Los Angeles,192.69.242.244,la-speedtest.cainternet.net,8080,GeoLinks
+53257,DE,Germany,Frankfurt,45.157.236.23,netservice01.fra02.lwlcom.net,8080,LWLcom GmbH
+42688,SG,Singapore,Singapore,112.215.198.21,speedtest-intl.xl.co.id,8080,PT XL Axiata Tbk
+22126,HK,Hong Kong,Hong Kong,43.239.139.213,hk.ap.speedtest.i3d.net,8080,i3D.net
+21569,JP,Japan,Tokyo,103.194.167.213,jp.as.speedtest.i3d.net,8080,i3D.net
