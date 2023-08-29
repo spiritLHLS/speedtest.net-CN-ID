@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-3864,CA,United States,洛杉矶,192.69.242.244,la-speedtest.cainternet.net,8080,GeoLinks
-53257,DE,Germany,法兰克福,45.157.236.23,netservice01.fra02.lwlcom.net,8080,LWLcom GmbH
-42688,SG,Singapore,新加坡,112.215.198.21,speedtest-intl.xl.co.id,8080,PT XL Axiata Tbk
-22126,HK,Hong Kong,中国香港,43.239.139.213,hk.ap.speedtest.i3d.net,8080,i3D.net
-21569,JP,Japan,日本东京,103.194.167.213,jp.as.speedtest.i3d.net,8080,i3D.net
+3864,CA,United States,Los Angeles,192.69.242.244,la-speedtest.cainternet.net,8080,GeoLinks
+53257,DE,Germany,Frankfurt,45.157.236.23,netservice01.fra02.lwlcom.net,8080,LWLcom GmbH
+42688,SG,Singapore,Singapore,112.215.198.21,speedtest-intl.xl.co.id,8080,PT XL Axiata Tbk
+22126,HK,Hong Kong,Hong Kong,43.239.139.213,hk.ap.speedtest.i3d.net,8080,i3D.net
+21569,JP,Japan,Tokyo,103.194.167.213,jp.as.speedtest.i3d.net,8080,i3D.net
