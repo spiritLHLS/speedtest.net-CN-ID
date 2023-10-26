@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-21001,CA,United States,洛杉矶,162.255.183.26,speedtest.5x5tele.com,8080,5x5 Telecom
-53257,DE,Germany,法兰克福,45.157.236.23,netservice01.fra02.lwlcom.net,8080,LWLcom GmbH
-47713,SG,Singapore,新加坡,202.43.176.90,sig-speedtest.moratelindo.io,8080,PT. Mora Telematika Indonesia
-28912,HK,Hong Kong,中国香港,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
-28910,JP,Japan,日本东京,50.7.159.4,lg-tok.fdcservers.net,8080,fdcservers.net
+18229,CA,United States,Los Angeles,8.3.86.3,speedtest-server-lax.starry.com,8080,"Starry, Inc."
+23095,DE,Germany,Frankfurt,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
+5935,SG,Singapore,Singapore,103.6.148.98,speedtest.myrepublic.com.sg,8080,MyRepublic Singapore
+37390,HK,Hong Kong,Hong Kong,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
+24333,JP,Japan,Tokyo,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"
