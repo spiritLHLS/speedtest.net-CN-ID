@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-18229,CA,United States,洛杉矶,8.3.86.3,speedtest-server-lax.starry.com,8080,"Starry, Inc."
-23095,DE,Germany,法兰克福,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
-5935,SG,Singapore,新加坡,103.6.148.98,speedtest.myrepublic.com.sg,8080,MyRepublic Singapore
-37390,HK,Hong Kong,中国香港,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
-24333,JP,Japan,日本东京,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"
+50121,CA,United States,Los Angeles,103.211.1.79,lax01.ookla.rcp.net,8080,RCP.Net
+37567,DE,Germany,Frankfurt,216.131.114.246,ook-fra-x1.puregig.net,8080,Netprotect
+23467,SG,Singapore,Singapore,103.111.59.250,speedtest-sg.iconpln.net.id,8080,PT. Indonesia Comnets Plus
+48446,HK,Hong Kong,Hong Kong,202.165.70.3,hk1.speedtest.gslnetworks.com,8080,GSL Networks
+21569,JP,Japan,Tokyo,103.194.167.213,jp.as.speedtest.i3d.net,8080,i3D.net
