@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-42683,CA,United States,洛杉矶,74.81.44.94,speedtest-lax.perfectip.net,8080,PerfectIP.net
-54577,DE,Germany,法兰克福,64.190.239.2,de-ffm1-ookla-01.wemacom.net,8080,WEMACOM Telekommunikation GmbH
-26654,SG,Singapore,新加坡,50.7.253.4,lg-sin.fdcservers.net,8080,fdcservers.net
-48446,HK,Hong Kong,中国香港,202.165.70.3,hk1.speedtest.gslnetworks.com,8080,GSL Networks
-50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net,8080,Verizon
+42683,CA,United States,Los Angeles,74.81.44.94,speedtest-lax.perfectip.net,8080,PerfectIP.net
+54577,DE,Germany,Frankfurt,64.190.239.2,de-ffm1-ookla-01.wemacom.net,8080,WEMACOM Telekommunikation GmbH
+26654,SG,Singapore,Singapore,50.7.253.4,lg-sin.fdcservers.net,8080,fdcservers.net
+48446,HK,Hong Kong,Hong Kong,202.165.70.3,hk1.speedtest.gslnetworks.com,8080,GSL Networks
+50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net,8080,Verizon
