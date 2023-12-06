@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-54653,CA,United States,洛杉矶,161.188.143.250,speedtest-lax.dish-wireless.com,8080,Dish Wireless
-53257,DE,Germany,法兰克福,45.157.236.23,netservice01.fra02.lwlcom.net,8080,LWLcom GmbH
-7556,SG,Singapore,新加坡,111.95.246.34,sg-speedtest.fast.net.id,8080,PT FirstMedia
-22126,HK,Hong Kong,中国香港,43.239.139.213,hk.ap.speedtest.i3d.net,8080,i3D.net
-48463,JP,Japan,日本东京,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+54653,CA,United States,Los Angeles,161.188.143.250,speedtest-lax.dish-wireless.com,8080,Dish Wireless
+53257,DE,Germany,Frankfurt,45.157.236.23,netservice01.fra02.lwlcom.net,8080,LWLcom GmbH
+7556,SG,Singapore,Singapore,111.95.246.34,sg-speedtest.fast.net.id,8080,PT FirstMedia
+22126,HK,Hong Kong,Hong Kong,43.239.139.213,hk.ap.speedtest.i3d.net,8080,i3D.net
+48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
