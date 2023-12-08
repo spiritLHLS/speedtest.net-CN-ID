@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-54653,CA,United States,洛杉矶,161.188.143.250,speedtest-lax.dish-wireless.com,8080,Dish Wireless
-53257,DE,Germany,法兰克福,45.157.236.23,netservice01.fra02.lwlcom.net,8080,LWLcom GmbH
-7556,SG,Singapore,新加坡,111.95.246.34,sg-speedtest.fast.net.id,8080,PT FirstMedia
-22126,HK,Hong Kong,中国香港,43.239.139.213,hk.ap.speedtest.i3d.net,8080,i3D.net
-48463,JP,Japan,日本东京,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+17249,CA,United States,Los Angeles,199.195.213.181,laspeed.wiline.com,8080,Wiline Networks
+55190,DE,Germany,Frankfurt,194.58.33.17,sp-de.nuxt.cloud,8080,nuxt.cloud hosting provider
+4235,SG,Singapore,Singapore,203.116.3.14,co2dsvr03.speedtest.starhub.com,8080,StarHub Ltd
+58899,HK,Hong Kong,Hong Kong,23.147.232.224,ookla-server.hatsnet.io,8080,Hats Network Inc.
+50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com,8080,GSL Networks
