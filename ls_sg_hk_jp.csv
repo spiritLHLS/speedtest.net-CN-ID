@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-17249,CA,United States,洛杉矶,199.195.213.181,laspeed.wiline.com,8080,Wiline Networks
-55190,DE,Germany,法兰克福,194.58.33.17,sp-de.nuxt.cloud,8080,nuxt.cloud hosting provider
-4235,SG,Singapore,新加坡,203.116.3.14,co2dsvr03.speedtest.starhub.com,8080,StarHub Ltd
-58899,HK,Hong Kong,中国香港,23.147.232.224,ookla-server.hatsnet.io,8080,Hats Network Inc.
-50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com,8080,GSL Networks
+50081,CA,United States,Los Angeles,203.10.97.253,la2.speedtest.gslnetworks.com,8080,GSL Networks
+53105,DE,Germany,Frankfurt,45.157.234.19,speedtest2.esrv.center,8080,Davasto GmbH
+7311,SG,Singapore,Singapore,103.1.138.214,m1speedtest1.m1net.com.sg,8080,M1 Limited
+28912,HK,Hong Kong,Hong Kong,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
+21569,JP,Japan,Tokyo,103.194.167.213,jp.as.speedtest.i3d.net,8080,i3D.net
