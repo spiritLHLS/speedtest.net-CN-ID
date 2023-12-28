@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-50081,CA,United States,Los Angeles,203.10.97.253,la2.speedtest.gslnetworks.com,8080,GSL Networks
-53105,DE,Germany,Frankfurt,45.157.234.19,speedtest2.esrv.center,8080,Davasto GmbH
-7311,SG,Singapore,Singapore,103.1.138.214,m1speedtest1.m1net.com.sg,8080,M1 Limited
-28912,HK,Hong Kong,Hong Kong,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
-21569,JP,Japan,Tokyo,103.194.167.213,jp.as.speedtest.i3d.net,8080,i3D.net
+50081,CA,United States,洛杉矶,203.10.97.253,la2.speedtest.gslnetworks.com,8080,GSL Networks
+53105,DE,Germany,法兰克福,45.157.234.19,speedtest2.esrv.center,8080,Davasto GmbH
+7311,SG,Singapore,新加坡,103.1.138.214,m1speedtest1.m1net.com.sg,8080,M1 Limited
+28912,HK,Hong Kong,中国香港,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
+21569,JP,Japan,日本东京,103.194.167.213,jp.as.speedtest.i3d.net,8080,i3D.net
