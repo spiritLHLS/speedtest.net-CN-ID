@@ -1,6 +1,5 @@
 id,country_code,country,city,ip,host,port,supplier
 2327,TW,Taiwan,Taipei,211.77.43.1,spt1.seed.net.tw,8080,"Far Eastone Telecommunications Co., Ltd."
-7429,TW,Taiwan,Taipei,106.105.105.66,speedtest1.taipeinet.com.tw,8080,Taipeinet
 8968,TW,Taiwan,Kaohsiung,219.69.127.3,ks-speedtest.homeplus.net.tw,8080,Homeplus
 11702,TW,Taiwan,Taoyuan,60.199.147.65,sptty1.taiwanmobile.com,8080,Taiwan Mobile
 11703,TW,Taiwan,Taipei,60.199.147.177,spttp1.taiwanmobile.com,8080,Taiwan Mobile
@@ -12,10 +11,7 @@ id,country_code,country,city,ip,host,port,supplier
 11713,TW,Taiwan,Kaohsiung,203.105.224.22,sptkh2.taiwanmobile.com,8080,Taiwan Mobile
 12583,TW,Taiwan,New Taipei,60.199.137.193,sb-speedtest-1.twmbroadband.net,8080,TFN Media
 13506,TW,Taiwan,Taipei,103.31.196.221,speedtest.taifo.com.tw,8080,TAIFO Taiwan
-17185,TW,Taiwan,Miaoli City,211.77.43.22,fetml1.seed.net.tw,8080,FarEasTone Telecom
-17186,TW,Taiwan,Zhongli,211.77.43.20,fetzl1.seed.net.tw,8080,FarEasTone Telecom
 17189,TW,Taiwan,Nantou City,211.77.43.28,fetnt1.seed.net.tw,8080,FarEasTone Telecom
-17204,TW,Taiwan,Yuanlin City,211.77.43.25,fetyl1.seed.net.tw,8080,FarEasTone Telecom
 18445,TW,Taiwan,Taipei,111.71.227.33,tp1.chtm.hinet.net,8080,Chunghwa Mobile
 18447,TW,Taiwan,New Taipei,111.71.227.41,ntp1.chtm.hinet.net,8080,Chunghwa Mobile
 18450,TW,Taiwan,Hsinchu,111.71.228.41,hc1.chtm.hinet.net,8080,Chunghwa Mobile
@@ -60,6 +56,10 @@ id,country_code,country,city,ip,host,port,supplier
 59180,TW,Taiwan,Taipei City,103.186.118.247,ookla-speedtest.starverse.network,8080,Starverse Network
 59321,TW,Brazil,Formosa,177.67.136.88,sp1.nexotelecom.net,8080,NEXO TELECOM
 59395,TW,Brazil,Formosa,131.0.56.5,velocimetro-plt.lvnetwork.com.br,8080,Plug Fibra
+7429,TW,Taiwan,Taipei,106.105.105.66,speedtest1.taipeinet.com.tw,8080,Taipeinet
+17185,TW,Taiwan,Miaoli City,211.77.43.22,fetml1.seed.net.tw,8080,FarEasTone Telecom
+17186,TW,Taiwan,Zhongli,211.77.43.20,fetzl1.seed.net.tw,8080,FarEasTone Telecom
+17204,TW,Taiwan,Yuanlin City,211.77.43.25,fetyl1.seed.net.tw,8080,FarEasTone Telecom
 18422,TW,Taiwan,Banqiao,211.77.43.52,qw-ntpspt1.wifly.com.tw,8080,WiFly
 31648,TW,Taiwan,New Taipei,211.23.170.146,speedtest.sercomm.com,8080,Sercomm Corporation
 36634,TW,Taiwan,Taoyuan District,211.77.43.112,seednet-ty1.seed.net.tw,8080,SEEDNET
