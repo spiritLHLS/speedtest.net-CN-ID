@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-19230,CA,United States,洛杉矶,66.165.241.242,speedtest.lax.hivelocity.net,8080,Hivelocity
-50771,DE,Germany,法兰克福,203.23.178.65,fr5.speedtest.gslnetworks.com,8080,GSL Networks
-50406,SG,Singapore,新加坡,202.94.122.34,sgn-nperf.verizon.net,8080,Verizon
-37390,HK,Hong Kong,中国香港,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
-50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com,8080,GSL Networks
+19230,CA,United States,Los Angeles,66.165.241.242,speedtest.lax.hivelocity.net,8080,Hivelocity
+50771,DE,Germany,Frankfurt,203.23.178.65,fr5.speedtest.gslnetworks.com,8080,GSL Networks
+50406,SG,Singapore,Singapore,202.94.122.34,sgn-nperf.verizon.net,8080,Verizon
+37390,HK,Hong Kong,Hong Kong,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
+50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com,8080,GSL Networks
