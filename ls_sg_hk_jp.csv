@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-58378,CA,United States,洛杉矶,23.151.136.99,speedtest.sfinnov.com,8080,SF Innovations Inc
-44260,DE,Germany,法兰克福,178.215.228.109,ffm-01-ovpn.vpn.eseven.net,8080,ESEVEN DevOps GmbH
-50406,SG,Singapore,新加坡,202.94.122.34,sgn-nperf.verizon.net,8080,Verizon
-13538,HK,Hong Kong,中国香港,203.210.2.91,csl.hkspeedtest.com,8080,CSL
-50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com,8080,GSL Networks
+58378,CA,United States,Los Angeles,23.151.136.99,speedtest.sfinnov.com,8080,SF Innovations Inc
+44260,DE,Germany,Frankfurt,178.215.228.109,ffm-01-ovpn.vpn.eseven.net,8080,ESEVEN DevOps GmbH
+50406,SG,Singapore,Singapore,202.94.122.34,sgn-nperf.verizon.net,8080,Verizon
+13538,HK,Hong Kong,Hong Kong,203.210.2.91,csl.hkspeedtest.com,8080,CSL
+50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com,8080,GSL Networks
