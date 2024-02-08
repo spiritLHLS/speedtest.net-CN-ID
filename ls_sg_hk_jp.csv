@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-9916,CA,United States,Los Angeles,192.240.120.250,lg-lax.fdcservers.net,8080,fdcservers.net
-44477,DE,Germany,Frankfurt,207.89.104.242,speedtest.58243.as,8080,TELE AG
-13623,SG,Singapore,Singapore,165.21.70.1,speedtest.singnet.com.sg,8080,Singtel
-13538,HK,Hong Kong,Hong Kong,203.210.2.91,csl.hkspeedtest.com,8080,CSL
-56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+9916,CA,United States,洛杉矶,192.240.120.250,lg-lax.fdcservers.net,8080,fdcservers.net
+44477,DE,Germany,法兰克福,207.89.104.242,speedtest.58243.as,8080,TELE AG
+13623,SG,Singapore,新加坡,165.21.70.1,speedtest.singnet.com.sg,8080,Singtel
+13538,HK,Hong Kong,中国香港,203.210.2.91,csl.hkspeedtest.com,8080,CSL
+56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
