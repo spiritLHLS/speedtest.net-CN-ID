@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-21363,CA,United States,Los Angeles,194.124.244.6,speedtest-dc08.enzu.com,8080,Enzu.com
-53105,DE,Germany,Frankfurt,45.157.234.19,speedtest2.esrv.center,8080,Davasto GmbH
-7311,SG,Singapore,Singapore,103.1.138.214,m1speedtest1.m1net.com.sg,8080,M1 Limited
-60177,HK,Hong Kong,Hong Kong,203.210.2.92,hkt.hkspeedtest.com,8080,Club SIM by HKT
-62147,JP,Japan,Tokyo,203.160.66.182,tyospeed.chinaunicomglobal.com,8080,China Unicom Global Ltd
+21363,CA,United States,洛杉矶,194.124.244.6,speedtest-dc08.enzu.com,8080,Enzu.com
+53105,DE,Germany,法兰克福,45.157.234.19,speedtest2.esrv.center,8080,Davasto GmbH
+7311,SG,Singapore,新加坡,103.1.138.214,m1speedtest1.m1net.com.sg,8080,M1 Limited
+60177,HK,Hong Kong,中国香港,203.210.2.92,hkt.hkspeedtest.com,8080,Club SIM by HKT
+62147,JP,Japan,日本东京,203.160.66.182,tyospeed.chinaunicomglobal.com,8080,China Unicom Global Ltd
