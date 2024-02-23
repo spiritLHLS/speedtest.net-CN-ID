@@ -4,12 +4,14 @@ id,country_code,country,city,ip,host,port,supplier
 17265,CN,Taiwan,Zhonghe,211.77.43.18,fetsz1.seed.net.tw,8080,FarEasTone Telecom
 18941,CN,Brazil,Piên,186.249.218.138,speedtestpien.directwifi.com.br,8080,Direct Internet
 24447,CN,China,Shanghai,139.226.226.34,5g.shunicomtest.com,8088,China Unicom 5G
+26352,CN,China,Nanjing,115.169.22.22,5gnanjing.speedtest.jsinfo.net,8080,China Telecom JiangSu 5G
 28225,CN,China,Changsha,106.16.119.254,hntelecom5g.cn,8080,湖南电信5G
-36646,CN,China,Zhengzhou,123.6.78.67,5gtest.shangdu.com,8080,China Unicom HeNan 5G
 36663,CN,China,Zhenjiang,115.168.74.186,5gzhenjiang.speedtest.jsinfo.net,8080,China Telecom JiangSu 5G
+37235,CN,China,Shenyang,218.25.6.194,unicomspeedtest.com,8080,Unicom
 43752,CN,China,Beijing,124.65.21.31,beijing.unicomtest.com,8080,BJ Unicom
 54432,CN,China,三亚,221.11.157.169,hin-sanya1.netcute.com,8080,海南联通
 56354,CN,China,Fuzhou,36.250.1.90,upload1.testspeed.cdn16.com,8080,Unicom
 59386,CN,China,HangZhou,61.130.56.1,cesu-hz.zjtelecom.com.cn,8080,浙江电信
 59387,CN,China,NingBo,61.153.82.77,cesu-nb.zjtelecom.com.cn,8080,浙江电信
+62416,CN,China,XiNing,125.72.52.242,st.qhduhu.com,8080,XiNing Telecom
 5396,CN,China,Suzhou,115.169.22.130,4gsuzhou1.speedtest.jsinfo.net,8080,China Telecom JiangSu 5G
