@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-57329,CA,United States,Los Angeles,23.136.232.50,speed.lax-1.serverforge.org,8080,ServerForge LLC
-10010,DE,Germany,Frankfurt,50.7.156.162,lg-fra.fdcservers.net,8080,fdcservers.net
-56340,SG,Singapore,Singapore,103.172.34.131,speedtest16.lintas.net.id,8080,PT Lintas Jaringan Nusantara
-32155,HK,Hong Kong,Hong Kong,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
-24333,JP,Japan,Tokyo,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"
+57329,CA,United States,洛杉矶,23.136.232.50,speed.lax-1.serverforge.org,8080,ServerForge LLC
+10010,DE,Germany,法兰克福,50.7.156.162,lg-fra.fdcservers.net,8080,fdcservers.net
+56340,SG,Singapore,新加坡,103.172.34.131,speedtest16.lintas.net.id,8080,PT Lintas Jaringan Nusantara
+32155,HK,Hong Kong,中国香港,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
+24333,JP,Japan,日本东京,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"
