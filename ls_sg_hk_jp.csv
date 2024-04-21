@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-60392,CA,United States,洛杉矶,38.175.108.88,us-lax02.speed.misaka.one,8080,"Misaka Network, Inc."
-31120,DE,Germany,法兰克福,94.158.241.17,speedtest-fkt-eqx.retn.net.prod.hosts.ooklaserver.net,8080,RETN
-5935,SG,Singapore,新加坡,103.6.148.98,speedtest.myrepublic.com.sg.prod.hosts.ooklaserver.net,8080,MyRepublic Singapore
-37390,HK,Hong Kong,中国香港,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
-24333,JP,Japan,日本东京,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"
+60694,CA,United States,Los Angeles,45.8.22.37,speedtest-lax.advinservers.com.prod.hosts.ooklaserver.net,8080,Advin Servers
+61654,DE,Germany,Frankfurt,50.7.124.62,frankfurt-speedtest-1.hostingswift.com.prod.hosts.ooklaserver.net,8080,HostingSwift.Com
+63581,SG,Singapore,Singapore,103.118.175.11,speedtestsg.perwiramedia.co.id.prod.hosts.ooklaserver.net,8080,Perwira Media Solusi
+62191,HK,Hong Kong,Hong Kong,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
+21569,JP,Japan,Tokyo,103.194.167.213,jp.as.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
