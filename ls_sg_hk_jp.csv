@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-18229,CA,United States,洛杉矶,8.3.86.3,speedtest-server-lax.starry.com.prod.hosts.ooklaserver.net,8080,"Starry, Inc."
-53257,DE,Germany,法兰克福,45.157.236.23,netservice01.fra02.lwlcom.net.prod.hosts.ooklaserver.net,8080,LWLcom GmbH
-62216,SG,Singapore,新加坡,104.251.232.136,speedtest.sg220.sgp.sg.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-28912,HK,Hong Kong,中国香港,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+13516,CA,United States,Los Angeles,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
+46569,DE,Germany,Frankfurt,37.18.57.18,speed1.wirsnet.com.prod.hosts.ooklaserver.net,8080,wirsNET
+4235,SG,Singapore,Singapore,203.116.3.14,co2dsvr03.speedtest.starhub.com.prod.hosts.ooklaserver.net,8080,StarHub Ltd
+59303,HK,Hong Kong,Hong Kong,14.136.138.14,speedtest12.hkbn.net.prod.hosts.ooklaserver.net,8080,HKBN
+50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
