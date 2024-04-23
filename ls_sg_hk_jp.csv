@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-13516,CA,United States,Los Angeles,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
-46569,DE,Germany,Frankfurt,37.18.57.18,speed1.wirsnet.com.prod.hosts.ooklaserver.net,8080,wirsNET
-4235,SG,Singapore,Singapore,203.116.3.14,co2dsvr03.speedtest.starhub.com.prod.hosts.ooklaserver.net,8080,StarHub Ltd
-59303,HK,Hong Kong,Hong Kong,14.136.138.14,speedtest12.hkbn.net.prod.hosts.ooklaserver.net,8080,HKBN
-50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+13516,CA,United States,洛杉矶,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
+46569,DE,Germany,法兰克福,37.18.57.18,speed1.wirsnet.com.prod.hosts.ooklaserver.net,8080,wirsNET
+4235,SG,Singapore,新加坡,203.116.3.14,co2dsvr03.speedtest.starhub.com.prod.hosts.ooklaserver.net,8080,StarHub Ltd
+59303,HK,Hong Kong,中国香港,14.136.138.14,speedtest12.hkbn.net.prod.hosts.ooklaserver.net,8080,HKBN
+50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
