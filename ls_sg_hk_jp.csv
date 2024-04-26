@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-34840,CA,United States,洛杉矶,104.238.206.46,los-angeles-speedtest.reliablesite.net.prod.hosts.ooklaserver.net,8080,ReliableSite Hosting
-50771,DE,Germany,法兰克福,203.23.178.65,fr5.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-62530,SG,Singapore,新加坡,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL.
-22126,HK,Hong Kong,中国香港,43.239.139.213,hk.ap.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
-21569,JP,Japan,日本东京,103.194.167.213,jp.as.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
+18229,CA,United States,Los Angeles,8.3.86.3,speedtest-server-lax.starry.com.prod.hosts.ooklaserver.net,8080,"Starry, Inc."
+62064,DE,Germany,Frankfurt,212.68.55.3,fr.speedtest.comnet.com.tr.prod.hosts.ooklaserver.net,8080,Comnet Fiber Türkiye
+2054,SG,Singapore,Singapore,202.73.51.10,speedtest10.vqbn.com,8080,ViewQwest
+43356,HK,Hong Kong,Hong Kong,203.210.4.91,1010.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,1010
+48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
