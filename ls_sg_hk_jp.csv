@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-60433,CA,United States,Los Angeles,162.255.33.206,la-ookla.geolinks.com.prod.hosts.ooklaserver.net,8080,GeoLinks
-55190,DE,Germany,Frankfurt,194.58.33.17,sp-de.nuxt.cloud.prod.hosts.ooklaserver.net,8080,nuxt.cloud hosting provider
-28921,SG,Singapore,Singapore,131.153.76.66,speedsin.phoenixnap.com,8080,PhoenixNAP Global IT Services
-22126,HK,Hong Kong,Hong Kong,43.239.139.213,hk.ap.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
-24333,JP,Japan,Tokyo,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"
+60433,CA,United States,洛杉矶,162.255.33.206,la-ookla.geolinks.com.prod.hosts.ooklaserver.net,8080,GeoLinks
+55190,DE,Germany,法兰克福,194.58.33.17,sp-de.nuxt.cloud.prod.hosts.ooklaserver.net,8080,nuxt.cloud hosting provider
+28921,SG,Singapore,新加坡,131.153.76.66,speedsin.phoenixnap.com,8080,PhoenixNAP Global IT Services
+22126,HK,Hong Kong,中国香港,43.239.139.213,hk.ap.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
+24333,JP,Japan,日本东京,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"
