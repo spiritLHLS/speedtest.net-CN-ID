@@ -20,10 +20,12 @@ id,country_code,country,city,ip,host,port,supplier
 11709,TW,Taiwan,Changhua,203.105.239.18,sptch2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 11711,TW,Taiwan,Tainan,203.105.224.18,spttn2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 11713,TW,Taiwan,Kaohsiung,203.105.224.22,sptkh2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
+12000,TW,Taiwan,Taichung,123.240.255.26,custom.tbcnet.net.tw.prod.hosts.ooklaserver.net,8080,TBC
 12583,TW,Taiwan,New Taipei,60.199.137.193,sb-speedtest-1.twmbroadband.net.prod.hosts.ooklaserver.net,8080,TFN Media
 13506,TW,Taiwan,Taipei,103.31.196.221,speedtest.taifo.com.tw.prod.hosts.ooklaserver.net,8080,TAIFO Taiwan
 17186,TW,Taiwan,Zhongli,211.77.43.20,fetzl1.seed.net.tw.prod.hosts.ooklaserver.net,8080,FarEasTone Telecom
 17189,TW,Taiwan,Nantou City,211.77.43.28,fetnt1.seed.net.tw.prod.hosts.ooklaserver.net,8080,FarEasTone Telecom
+18445,TW,Taiwan,Taipei,111.71.227.33,tp1.chtm.hinet.net.prod.hosts.ooklaserver.net,8080,Chunghwa Mobile
 18447,TW,Taiwan,New Taipei,111.71.227.41,ntp1.chtm.hinet.net,8080,Chunghwa Mobile
 18450,TW,Taiwan,Hsinchu,111.71.228.41,hc1.chtm.hinet.net,8080,Chunghwa Mobile
 18452,TW,Taiwan,Taoyuan,111.71.228.33,ty1.chtm.hinet.net,8080,Chunghwa Mobile
@@ -44,9 +46,6 @@ id,country_code,country,city,ip,host,port,supplier
 27752,TW,Taiwan,Nantou,210.201.72.14,srv4.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
 29106,TW,Taiwan,New Taipei,210.201.72.74,srv5.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
 29107,TW,Taiwan,Taoyuan,210.201.72.16,srv6.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
-29108,TW,Taiwan,Yilan,210.201.78.16,srv7.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
-29109,TW,Taiwan,Hsinchu,210.201.72.18,srv8.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
-29110,TW,Taiwan,Changhua,210.201.78.18,srv9.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
 29253,TW,Taiwan,Kaohsiung Lingya,203.187.94.4,gd-speedtest.homeplus.net.tw,8080,Homeplus
 29283,TW,Taiwan,Shulin District,203.187.90.4,gh-speedtest.homeplus.net.tw,8080,Homeplus
 29284,TW,Taiwan,Tainan South District,203.187.93.4,sc-speedtest.homeplus.net.tw,8080,Homeplus
@@ -60,11 +59,10 @@ id,country_code,country,city,ip,host,port,supplier
 38059,TW,Taiwan,Kaohsiung,202.144.211.9,tstarkh1.vibo.net.tw.prod.hosts.ooklaserver.net,8080,"Taiwan Star Telecom Co., Ltd."
 40742,TW,Argentina,Formosa,45.175.140.18,speedtest.bocarojasa.com.ar.prod.hosts.ooklaserver.net,8080,Boca Roja SA
 41191,TW,Taiwan,Chiayi,203.105.224.14,sptcy2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
+4120041191,TW,Taiwan,Chiayi,203.105.224.14,sptcy2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 42192,TW,Taiwan,New Taipei,103.129.168.8,speedtest.host.com.tw.prod.hosts.ooklaserver.net,8080,Yuan-Jhen Info
 43206,TW,Taiwan,New Taipei,61.216.9.49,askeycsit.dyndns-ip.com.prod.hosts.ooklaserver.net,8080,AKENR
 44603,TW,Taiwan,Taipei,103.147.22.134,speedtest.twds.com.tw.prod.hosts.ooklaserver.net,8080,Taiwan Digital Streaming Co.
-45357,TW,Taiwan,Kaohsiung,210.201.78.20,srv10.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
-45633,TW,Taiwan,Taitung,210.201.78.22,srv11.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
 55261,TW,Taiwan,Taichung,61.60.226.2,speedtest.tinp.net.tw,8080,Tinp
 55674,TW,Taiwan,Banqiao District,60.199.147.49,sptkh1.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 56277,TW,Taiwan,Miaoli City,203.105.239.22,sptdl2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
@@ -75,3 +73,4 @@ id,country_code,country,city,ip,host,port,supplier
 61517,TW,Taiwan,Changhua,103.69.52.249,chg.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 61556,TW,Taiwan,New Taipei,103.137.63.187,ntp.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 61560,TW,Taiwan,Taichung,103.127.218.248,tcg.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
+64034,TW,Argentina,Formosa,45.188.160.232,speedtest.cvcformosa.com.ar.prod.hosts.ooklaserver.net,8080,CR s.r.l - CVC Formosa
