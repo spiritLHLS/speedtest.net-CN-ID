@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-18401,CA,United States,Los Angeles,184.81.200.187,la02.speedtest.windstream.net,8080,Windstream
-40094,DE,Germany,Frankfurt,45.148.5.61,speedtestde.pvdatanet.com.prod.hosts.ooklaserver.net,8080,PVDataNet
-63375,SG,Singapore,Singapore,113.192.10.2,speedtest.sg.hsp.net.id.prod.hosts.ooklaserver.net,8080,HSPNet
-44745,HK,Hong Kong,Hong Kong,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
-48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+18401,CA,United States,洛杉矶,184.81.200.187,la02.speedtest.windstream.net,8080,Windstream
+40094,DE,Germany,法兰克福,45.148.5.61,speedtestde.pvdatanet.com.prod.hosts.ooklaserver.net,8080,PVDataNet
+63375,SG,Singapore,新加坡,113.192.10.2,speedtest.sg.hsp.net.id.prod.hosts.ooklaserver.net,8080,HSPNet
+44745,HK,Hong Kong,中国香港,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
+48463,JP,Japan,日本东京,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
