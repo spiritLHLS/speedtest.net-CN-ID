@@ -1,13 +1,12 @@
 id,country_code,country,city,ip,host,port,supplier
 5396,CN,China,Suzhou,115.169.22.130,4gsuzhou1.speedtest.jsinfo.net.prod.hosts.ooklaserver.net,8080,China Telecom JiangSu 5G
-5530,CN,China,Chongqing,117.59.115.2,speedtest1.cqccn.com.prod.hosts.ooklaserver.net,8080,CCN
 17145,CN,China,Hefei,61.191.111.11,speedtest1.ah163.com.prod.hosts.ooklaserver.net,8080,China Telecom AnHui 5G
 17265,CN,Taiwan,Zhonghe,211.77.43.18,fetsz1.seed.net.tw.prod.hosts.ooklaserver.net,8080,FarEasTone Telecom
 18941,CN,Brazil,Piên,186.249.218.138,speedtestpien.directwifi.com.br.prod.hosts.ooklaserver.net,8080,Direct Internet
 24447,CN,China,Shanghai,139.226.226.34,5g.shunicomtest.com.prod.hosts.ooklaserver.net,8088,China Unicom 5G
 25858,CN,China,Beijing,111.13.111.229,speedtest.bmcc.com.cn.prod.hosts.ooklaserver.net,8080,China Mobile Group Beijing Co.Ltd
 33451,CN,Brazil,Uraí,170.244.176.3,speedtest.urainet.com.br,8080,URAINET - 43 3541-1770
-36663,CN,China,Zhenjiang,115.168.74.186,5gzhenjiang.speedtest.jsinfo.net.prod.hosts.ooklaserver.net,8080,China Telecom JiangSu 5G
+36663,CN,China,Zhenjiang,,5gzhenjiang.speedtest.jsinfo.net.prod.hosts.ooklaserver.net,8080,China Telecom JiangSu 5G
 45170,CN,China,Wu Xi,153.35.187.2,speedtest2.niutk.com.prod.hosts.ooklaserver.net,8080,China Unicom
 54312,CN,China,Hangzhou,112.15.227.70,speedtest.139play.com.prod.hosts.ooklaserver.net,8080,China Mobile Zhejiang 5G
 54432,CN,China,三亚,221.11.157.169,hin-sanya1.netcute.com.prod.hosts.ooklaserver.net,8080,海南联通
