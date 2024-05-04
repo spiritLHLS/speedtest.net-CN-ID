@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-9916,CA,United States,Los Angeles,192.240.120.250,lg-lax.fdcservers.net,8080,fdcservers.net
-23095,DE,Germany,Frankfurt,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
-62267,SG,Singapore,Singapore,91.243.81.97,net.0ms.dev,8080,0ms Group
-1536,HK,Hong Kong,Hong Kong,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
-56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+9916,CA,United States,洛杉矶,192.240.120.250,lg-lax.fdcservers.net,8080,fdcservers.net
+23095,DE,Germany,法兰克福,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
+62267,SG,Singapore,新加坡,91.243.81.97,net.0ms.dev,8080,0ms Group
+1536,HK,Hong Kong,中国香港,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
+56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
