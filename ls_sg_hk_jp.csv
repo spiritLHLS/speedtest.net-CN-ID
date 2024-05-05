@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-9916,CA,United States,洛杉矶,192.240.120.250,lg-lax.fdcservers.net,8080,fdcservers.net
-23095,DE,Germany,法兰克福,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
-62267,SG,Singapore,新加坡,91.243.81.97,net.0ms.dev,8080,0ms Group
-1536,HK,Hong Kong,中国香港,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+61596,CA,United States,Los Angeles,66.146.103.162,speedtest.uia.net,8080,"Ultimate Internet Access, Inc."
+62064,DE,Germany,Frankfurt,212.68.55.3,fr.speedtest.comnet.com.tr.prod.hosts.ooklaserver.net,8080,Comnet Fiber Türkiye
+56340,SG,Singapore,Singapore,103.172.34.131,speedtest16.lintas.net.id.prod.hosts.ooklaserver.net,8080,PT Lintas Jaringan Nusantara
+63143,HK,Hong Kong,Hong Kong,218.102.20.42,hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net,8080,Netvigator
+24333,JP,Japan,Tokyo,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"
