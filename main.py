@@ -90,6 +90,8 @@ with open('HK.csv', 'r') as file:
 for row in data:
     if row[3] == "city":
         continue
+    if row[2] != "Hong Kong":
+        continue
     if row[3] != 'Hong Kong':
         row[3] = "香港HongKong"
     if len(replace_all(row[7])) <= 11:
@@ -98,6 +100,42 @@ for row in data:
         row[3] = "香港HongKong"
 
 with open('HK.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerows(data)
+
+# JP文件处理
+with open('JP.csv', 'r') as file:
+    reader = csv.reader(file)
+    data = [row for row in reader]
+
+for row in data:
+    if row[3] == "city":
+        continue
+    if row[2] != "Japan":
+        continue
+    if row[3] == 'Tokyo':
+        row[3] = "日本Tokyo"
+    else:
+        row[3] = "日本"+row[3]
+
+with open('JP.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerows(data)
+
+# SG文件处理
+with open('SG.csv', 'r') as file:
+    reader = csv.reader(file)
+    data = [row for row in reader]
+
+for row in data:
+    if row[3] == "city":
+        continue
+    if row[2] != "Singapore":
+        continue
+    if row[3] == 'Singapore':
+        row[3] = "新加坡"
+
+with open('SG.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerows(data)
 
