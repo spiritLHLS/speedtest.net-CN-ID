@@ -14,7 +14,10 @@ def get_pingyin(string):
     return ''.join(lazy_pinyin(string)).lower()
 
 def replace_all(string):
-    replacements = {".net": "", ".com": "", ", Inc.": "", "China Mobile ": "", "Network": "", "Networks": "", "Network": "", " Telecom": "", "Hong Kong": "", " ": ""}
+    replacements = {".net": "", ".com": "", ", Inc.": "", "China Mobile ": "", "Network": "", "Networks": "", 
+                    "Network": "", " Telecom": "", "Hong Kong": "", ".jp": "", "Capital Corporation": "", 
+                    "Corporation": "", "Japan": "", "International Pte Ltd (Telin Singapore)": "", 
+                    "Singapore": "", "Global Ltd": "", " ": ""}
     for old, new in replacements.items():
         string = string.replace(old, new)
     return string
@@ -114,7 +117,11 @@ for row in data:
     if row[2] != "Japan":
         row[2] = "Japan"
     if row[3] == 'Tokyo':
-        row[3] = "日本Tokyo"
+        row[3] = "东京"+replace_all(row[7])
+    elif row[3] == 'Kochi':
+        row[3] = "高知"+replace_all(row[7]) 
+    elif row[3] == 'Okinawa':
+        row[3] = "冲绳"+replace_all(row[7]) 
     else:
         row[3] = "日本"+row[3]
 
@@ -133,7 +140,7 @@ for row in data:
     if row[2] != "Singapore":
         row[2] = "Singapore"
     if row[3] == 'Singapore':
-        row[3] = "新加坡"
+        row[3] = "新加坡"+replace_all(row[7]) 
 
 with open('SG.csv', 'w', newline='') as file:
     writer = csv.writer(file)
