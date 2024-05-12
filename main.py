@@ -87,8 +87,10 @@ with open('HK.csv', 'r') as file:
     reader = csv.reader(file)
     data = [row for row in reader]
 
+tempRowList = []
 for row in data:
     if row[3] == "city":
+        tempRowList.append(row)
         continue
     if row[2] != "Hong Kong":
         continue
@@ -98,18 +100,21 @@ for row in data:
         row[3] = "香港" + replace_all(row[7])
     elif row[3] == 'Hong Kong':
         row[3] = "香港HongKong"
+    tempRowList.append(row)
 
 with open('HK.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerows(data)
+    writer.writerows(tempRowList)
 
 # JP文件处理
 with open('JP.csv', 'r') as file:
     reader = csv.reader(file)
     data = [row for row in reader]
 
+tempRowList = []
 for row in data:
     if row[3] == "city":
+        tempRowList.append(row)
         continue
     if row[2] != "Japan":
         continue
@@ -117,27 +122,31 @@ for row in data:
         row[3] = "日本Tokyo"
     else:
         row[3] = "日本"+row[3]
+    tempRowList.append(row)
 
 with open('JP.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerows(data)
+    writer.writerows(tempRowList)
 
 # SG文件处理
 with open('SG.csv', 'r') as file:
     reader = csv.reader(file)
     data = [row for row in reader]
 
+tempRowList = []
 for row in data:
     if row[3] == "city":
+        tempRowList.append(row)
         continue
     if row[2] != "Singapore":
         continue
     if row[3] == 'Singapore':
         row[3] = "新加坡"
+    tempRowList.append(row)
 
 with open('SG.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerows(data)
+    writer.writerows(tempRowList)
 
 # ls_sg_hk_jp.csv 文件处理
 with open('ls_sg_hk_jp.csv', 'r') as file:
