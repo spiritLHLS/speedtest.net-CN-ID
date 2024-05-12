@@ -17,7 +17,8 @@ def replace_all(string):
     replacements = {".net": "", ".com": "", ", Inc.": "", "China Mobile ": "", "Network": "", "Networks": "", 
                     "Network": "", " Telecom": "", "Hong Kong": "", ".jp": "", "Capital Corporation": "", 
                     "Corporation": "", "Japan": "", "International Pte Ltd (Telin Singapore)": "", 
-                    "Singapore": "", "Global Ltd": "", " ": ""}
+                    "Singapore": "", "Global Ltd": "", "Capital Corp.": "", "Global IT Services": "", 
+                    "Indonesia": "", " PCL.": "", " ": ""}
     for old, new in replacements.items():
         string = string.replace(old, new)
     return string
