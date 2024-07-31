@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-34840,CA,United States,洛杉矶,104.238.206.46,los-angeles-speedtest.reliablesite.net.prod.hosts.ooklaserver.net,8080,ReliableSite Hosting
-55462,DE,Germany,法兰克福,5.75.172.144,speedtest.twerion.net.prod.hosts.ooklaserver.net,8080,Twerion.net | Minecraft Server
-45345,SG,Singapore,新加坡,5.44.249.3,speedtest-sin.melbicom.net,8080,Melbikomas UAB
-43356,HK,Hong Kong,中国香港,203.210.4.91,1010.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,1010
-65414,JP,Japan,日本东京,45.142.106.103,speedtest.ty7.macarne.com.prod.hosts.ooklaserver.net,8080,Macarne LLC
+19230,CA,United States,Los Angeles,66.165.241.242,speedtest.lax.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
+54504,DE,Germany,Frankfurt,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
+31293,SG,Singapore,Singapore,45.117.189.2,speedtest2.pacificinternet.com.prod.hosts.ooklaserver.net,8080,Pacific Internet (S)
+33414,HK,Hong Kong,Hong Kong,124.217.179.181,speedtest.three.com.hk,8080,Hutchison HK
+65414,JP,Japan,Tokyo,45.142.106.103,speedtest.ty7.macarne.com.prod.hosts.ooklaserver.net,8080,Macarne LLC
