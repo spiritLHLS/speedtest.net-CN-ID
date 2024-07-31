@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-19230,CA,United States,Los Angeles,66.165.241.242,speedtest.lax.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
-54504,DE,Germany,Frankfurt,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
-31293,SG,Singapore,Singapore,45.117.189.2,speedtest2.pacificinternet.com.prod.hosts.ooklaserver.net,8080,Pacific Internet (S)
-33414,HK,Hong Kong,Hong Kong,124.217.179.181,speedtest.three.com.hk,8080,Hutchison HK
-65414,JP,Japan,Tokyo,45.142.106.103,speedtest.ty7.macarne.com.prod.hosts.ooklaserver.net,8080,Macarne LLC
+19230,CA,United States,洛杉矶,66.165.241.242,speedtest.lax.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
+54504,DE,Germany,法兰克福,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
+31293,SG,Singapore,新加坡,45.117.189.2,speedtest2.pacificinternet.com.prod.hosts.ooklaserver.net,8080,Pacific Internet (S)
+33414,HK,Hong Kong,中国香港,124.217.179.181,speedtest.three.com.hk,8080,Hutchison HK
+65414,JP,Japan,日本东京,45.142.106.103,speedtest.ty7.macarne.com.prod.hosts.ooklaserver.net,8080,Macarne LLC
