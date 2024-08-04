@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-57329,CA,United States,Los Angeles,23.136.232.50,speed.lax-1.serverforge.org.prod.hosts.ooklaserver.net,8080,ServerForge LLC
-44477,DE,Germany,Frankfurt,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
-13058,SG,Singapore,Singapore,114.4.41.30,speedtest1.indosatooredoo.com.prod.hosts.ooklaserver.net,8080,PT Indosat Tbk
-61296,HK,Hong Kong,Hong Kong,202.45.189.2,speedtest1c.hkix.net.prod.hosts.ooklaserver.net,8080,HKIX
-21569,JP,Japan,Tokyo,103.194.167.213,jp.as.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
+57329,CA,United States,洛杉矶,23.136.232.50,speed.lax-1.serverforge.org.prod.hosts.ooklaserver.net,8080,ServerForge LLC
+44477,DE,Germany,法兰克福,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
+13058,SG,Singapore,新加坡,114.4.41.30,speedtest1.indosatooredoo.com.prod.hosts.ooklaserver.net,8080,PT Indosat Tbk
+61296,HK,Hong Kong,中国香港,202.45.189.2,speedtest1c.hkix.net.prod.hosts.ooklaserver.net,8080,HKIX
+21569,JP,Japan,日本东京,103.194.167.213,jp.as.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
