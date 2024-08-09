@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-61657,CA,United States,洛杉矶,198.255.74.12,la-speedtest-1.hostingswift.com.prod.hosts.ooklaserver.net,8080,HostingSwift.Com
-63028,DE,Germany,法兰克福,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
-56066,SG,Singapore,新加坡,202.70.133.12,speedtest.herza.cloud.prod.hosts.ooklaserver.net,8080,PT Herza Digital Indonesia
-37390,HK,Hong Kong,中国香港,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
-65101,JP,Japan,日本东京,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
+21363,CA,United States,Los Angeles,194.124.244.6,speedtest-dc08.enzu.com.prod.hosts.ooklaserver.net,8080,Enzu.com
+10010,DE,Germany,Frankfurt,50.7.156.162,lg-fra.fdcservers.net,8080,fdcservers.net
+31293,SG,Singapore,Singapore,45.117.189.2,speedtest2.pacificinternet.com.prod.hosts.ooklaserver.net,8080,Pacific Internet (S)
+43356,HK,Hong Kong,Hong Kong,203.210.4.91,1010.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,1010
+48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G

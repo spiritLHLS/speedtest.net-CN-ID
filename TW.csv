@@ -3,7 +3,6 @@ id,country_code,country,city,ip,host,port,supplier
 4413,TW,Taiwan,Tainan,210.61.132.33,tnv3-1.speedtest.idv.tw,8080,Chief Telecom
 4505,TW,Taiwan,New Taipei,210.61.132.18,ntpv3-1.speedtest.idv.tw,8080,Chief Telecom
 4938,TW,Taiwan,Taoyuan,210.61.132.19,tyv3-1.speedtest.idv.tw,8080,Chief Telecom
-4940,TW,Taiwan,Taichung,210.61.132.25,tcv3-1.speedtest.idv.tw,8080,Chief Telecom
 4946,TW,Taiwan,Pingtung,210.61.132.36,ptv3-1.speedtest.idv.tw,8080,Chief Telecom
 4947,TW,Taiwan,Yilan,210.61.132.21,ylv3-1.speedtest.idv.tw,8080,Chief Telecom
 4948,TW,Taiwan,Hualien,210.61.132.26,hlv3-1.speedtest.idv.tw,8080,Chief Telecom
@@ -56,6 +55,7 @@ id,country_code,country,city,ip,host,port,supplier
 36122,TW,Taiwan,Tainan,123.205.190.221,speedtestookla.hya.tw.prod.hosts.ooklaserver.net,8080,HYA
 36634,TW,Taiwan,Taoyuan District,211.77.43.112,seednet-ty1.seed.net.tw.prod.hosts.ooklaserver.net,8080,SEEDNET
 38059,TW,Taiwan,Kaohsiung,202.144.211.9,tstarkh1.vibo.net.tw.prod.hosts.ooklaserver.net,8080,"Taiwan Star Telecom Co., Ltd."
+40742,TW,Argentina,Formosa,45.175.140.18,speedtest.bocarojasa.com.ar.prod.hosts.ooklaserver.net,8080,Boca Roja SA
 41191,TW,Taiwan,Chiayi,203.105.224.14,sptcy2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 42192,TW,Taiwan,New Taipei,103.129.168.8,speedtest.host.com.tw.prod.hosts.ooklaserver.net,8080,Yuan-Jhen Info
 43206,TW,Taiwan,New Taipei,61.216.9.49,askeycsit.dyndns-ip.com.prod.hosts.ooklaserver.net,8080,AKENR
