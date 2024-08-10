@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-21363,CA,United States,洛杉矶,194.124.244.6,speedtest-dc08.enzu.com.prod.hosts.ooklaserver.net,8080,Enzu.com
-10010,DE,Germany,法兰克福,50.7.156.162,lg-fra.fdcservers.net,8080,fdcservers.net
-31293,SG,Singapore,新加坡,45.117.189.2,speedtest2.pacificinternet.com.prod.hosts.ooklaserver.net,8080,Pacific Internet (S)
-43356,HK,Hong Kong,中国香港,203.210.4.91,1010.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,1010
-48463,JP,Japan,日本东京,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+18229,CA,United States,Los Angeles,8.3.86.3,speedtest-server-lax.starry.com.prod.hosts.ooklaserver.net,8080,"Starry, Inc."
+52770,DE,Germany,Frankfurt,213.68.130.82,ipl3pt.fft.ops.eu.uu.net.prod.hosts.ooklaserver.net,8080,Verizon.com
+41358,SG,Singapore,Singapore,103.164.55.91,sin.speedtest.contabo.net,8080,Contabo
+28912,HK,Hong Kong,Hong Kong,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
+60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
