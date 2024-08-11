@@ -52,6 +52,7 @@ id,country_code,country,city,ip,host,port,supplier
 31940,TW,Brazil,Formosa,45.186.64.9,speed.powerconnect.net.br,8080,Power Connect
 32062,TW,Brazil,Formosa,181.191.120.6,velocimetro.cxbtelecom.com.br.prod.hosts.ooklaserver.net,8080,C. X. B. Telecom
 32319,TW,Taiwan,Tainan,120.116.1.43,tnookla.tn.edu.tw,8080,TNIC
+36071,TW,Taiwan,Taipei,103.246.219.98,speedtest.imcloud.tw.prod.hosts.ooklaserver.net,8080,"Sky Digital Co., Ltd"
 36122,TW,Taiwan,Tainan,123.205.190.221,speedtestookla.hya.tw.prod.hosts.ooklaserver.net,8080,HYA
 36634,TW,Taiwan,Taoyuan District,211.77.43.112,seednet-ty1.seed.net.tw.prod.hosts.ooklaserver.net,8080,SEEDNET
 38059,TW,Taiwan,Kaohsiung,202.144.211.9,tstarkh1.vibo.net.tw.prod.hosts.ooklaserver.net,8080,"Taiwan Star Telecom Co., Ltd."
