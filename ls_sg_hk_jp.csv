@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-64487,CA,United States,Los Angeles,104.251.238.142,speedtest.us310.lax.us.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-17312,DE,Germany,Frankfurt,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
-367,SG,Singapore,Singapore,202.150.221.170,speedtest.com.sg.prod.hosts.ooklaserver.net,8080,NewMedia Express
-65463,HK,Hong Kong,Hong Kong,203.185.10.2,speedtest21.hkbn.net.prod.hosts.ooklaserver.net,8080,HKBN
-60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
+64487,CA,United States,洛杉矶,104.251.238.142,speedtest.us310.lax.us.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+17312,DE,Germany,法兰克福,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
+367,SG,Singapore,新加坡,202.150.221.170,speedtest.com.sg.prod.hosts.ooklaserver.net,8080,NewMedia Express
+65463,HK,Hong Kong,中国香港,203.185.10.2,speedtest21.hkbn.net.prod.hosts.ooklaserver.net,8080,HKBN
+60324,JP,Japan,日本东京,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
