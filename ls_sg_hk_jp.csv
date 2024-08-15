@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-33893,CA,United States,Los Angeles,209.172.13.4,speedtest.airlink.network.prod.hosts.ooklaserver.net,8080,Airlink Internet Inc
-8040,DE,Germany,Frankfurt,185.245.99.75,speedtest.ip-projects.de,8080,IP-Projects GmbH & Co. KG
-62530,SG,Singapore,Singapore,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL
-33414,HK,Hong Kong,Hong Kong,124.217.143.7,speedtest.three.com.hk,8080,Hutchison HK
-60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
+33893,CA,United States,洛杉矶,209.172.13.4,speedtest.airlink.network.prod.hosts.ooklaserver.net,8080,Airlink Internet Inc
+8040,DE,Germany,法兰克福,185.245.99.75,speedtest.ip-projects.de,8080,IP-Projects GmbH & Co. KG
+62530,SG,Singapore,新加坡,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL
+33414,HK,Hong Kong,中国香港,124.217.143.7,speedtest.three.com.hk,8080,Hutchison HK
+60324,JP,Japan,日本东京,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
