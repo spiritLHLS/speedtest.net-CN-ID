@@ -70,6 +70,5 @@ id,country_code,country,city,ip,host,port,supplier
 59395,TW,Brazil,Formosa,131.0.56.5,velocimetro-plt.lvnetwork.com.br,8080,Plug Fibra
 61136,TW,Taiwan,Taipei,103.127.218.249,tpe.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 61560,TW,Taiwan,Taichung,103.127.218.248,tcg.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
-63474,TW,Taiwan,Taipei,211.20.1.22,pegasqa.ddns.net.prod.hosts.ooklaserver.net,8080,PEGATRON
 64034,TW,Argentina,Formosa,45.188.160.232,speedtest.cvcformosa.com.ar.prod.hosts.ooklaserver.net,8080,CR s.r.l - CVC Formosa
 64385,TW,Taiwan,Taipei,198.176.51.254,tpe01.speedtest.rfchost.com.prod.hosts.ooklaserver.net,8080,"Jinx Co., Limited"
