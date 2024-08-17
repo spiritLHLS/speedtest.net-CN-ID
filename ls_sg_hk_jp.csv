@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-50081,CA,United States,Los Angeles,203.10.97.253,la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-61654,DE,Germany,Frankfurt,50.7.124.62,frankfurt-speedtest-1.hostingswift.com.prod.hosts.ooklaserver.net,8080,HostingSwift.Com
-59016,SG,Singapore,Singapore,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
-61371,HK,Hong Kong,Hong Kong,89.185.28.247,hytron-hk.hytron.io.prod.hosts.ooklaserver.net,8080,HYTRON NETWORK
-60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
+50081,CA,United States,洛杉矶,203.10.97.253,la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+61654,DE,Germany,法兰克福,50.7.124.62,frankfurt-speedtest-1.hostingswift.com.prod.hosts.ooklaserver.net,8080,HostingSwift.Com
+59016,SG,Singapore,新加坡,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
+61371,HK,Hong Kong,中国香港,89.185.28.247,hytron-hk.hytron.io.prod.hosts.ooklaserver.net,8080,HYTRON NETWORK
+60324,JP,Japan,日本东京,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
