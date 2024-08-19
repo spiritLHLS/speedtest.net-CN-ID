@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-18401,CA,United States,Los Angeles,184.81.200.187,la02.speedtest.windstream.net,8080,Windstream
-62064,DE,Germany,Frankfurt,212.68.55.3,fr.speedtest.comnet.com.tr.prod.hosts.ooklaserver.net,8080,Comnet Fiber Türkiye
-45345,SG,Singapore,Singapore,5.44.249.3,speedtest-sin.melbicom.net,8080,Melbikomas UAB
-32155,HK,Hong Kong,Hong Kong,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
-50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+18401,CA,United States,洛杉矶,184.81.200.187,la02.speedtest.windstream.net,8080,Windstream
+62064,DE,Germany,法兰克福,212.68.55.3,fr.speedtest.comnet.com.tr.prod.hosts.ooklaserver.net,8080,Comnet Fiber Türkiye
+45345,SG,Singapore,新加坡,5.44.249.3,speedtest-sin.melbicom.net,8080,Melbikomas UAB
+32155,HK,Hong Kong,中国香港,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
+50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
