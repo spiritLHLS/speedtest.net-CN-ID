@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-50165,CA,United States,洛杉矶,23.130.129.165,speedtest-la.getonward.com.prod.hosts.ooklaserver.net,8080,Onward
-61654,DE,Germany,法兰克福,50.7.124.62,frankfurt-speedtest-1.hostingswift.com.prod.hosts.ooklaserver.net,8080,HostingSwift.Com
-59186,SG,Singapore,新加坡,203.123.48.1,speedtest.dcs1.biz.prod.hosts.ooklaserver.net,8080,DCS1 Pte Ltd
-44745,HK,Hong Kong,中国香港,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
-21569,JP,Japan,日本东京,103.194.167.213,jp.as.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
+18401,CA,United States,Los Angeles,184.81.200.187,la02.speedtest.windstream.net,8080,Windstream
+62064,DE,Germany,Frankfurt,212.68.55.3,fr.speedtest.comnet.com.tr.prod.hosts.ooklaserver.net,8080,Comnet Fiber Türkiye
+45345,SG,Singapore,Singapore,5.44.249.3,speedtest-sin.melbicom.net,8080,Melbikomas UAB
+32155,HK,Hong Kong,Hong Kong,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
+50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks

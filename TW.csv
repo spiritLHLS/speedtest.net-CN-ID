@@ -28,7 +28,6 @@ id,country_code,country,city,ip,host,port,supplier
 18452,TW,Taiwan,Taoyuan,111.71.228.33,ty1.chtm.hinet.net,8080,Chunghwa Mobile
 18456,TW,Taiwan,Taichung,111.71.229.33,tc1.chtm.hinet.net,8080,Chunghwa Mobile
 18458,TW,Taiwan,Kaohsiung,111.71.230.33,kh1.chtm.hinet.net,8080,Chunghwa Mobile
-18475,TW,Taiwan,Keelung,210.61.132.22,klv3-1.speedtest.idv.tw,8080,Chief Telecom
 18476,TW,Taiwan,Miaoli,210.61.132.28,mlv3-1.speedtest.idv.tw,8080,Chief Telecom
 18477,TW,Taiwan,Nantou,210.61.132.29,ntv3-1.speedtest.idv.tw,8080,Chief Telecom
 18478,TW,Taiwan,Douliu,210.61.132.30,dlv3-1.speedtest.idv.tw,8080,Chief Telecom
@@ -61,12 +60,10 @@ id,country_code,country,city,ip,host,port,supplier
 42192,TW,Taiwan,New Taipei,103.129.168.8,speedtest.host.com.tw.prod.hosts.ooklaserver.net,8080,Yuan-Jhen Info
 43206,TW,Taiwan,New Taipei,61.216.9.49,askeycsit.dyndns-ip.com.prod.hosts.ooklaserver.net,8080,AKENR
 44603,TW,Taiwan,Taipei,103.147.22.134,speedtest.twds.com.tw.prod.hosts.ooklaserver.net,8080,Taiwan Digital Streaming Co.
-47427,TW,Brazil,Formosa,177.73.88.4,speedtest.netviatelecom.com.br.prod.hosts.ooklaserver.net,8080,Netvia
 55261,TW,Taiwan,Taichung,61.60.226.2,speedtest.tinp.net.tw,8080,Tinp
 55674,TW,Taiwan,Banqiao District,60.199.147.49,sptkh1.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 56277,TW,Taiwan,Miaoli City,203.105.239.22,sptdl2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 59180,TW,Taiwan,Taipei City,103.186.118.247,ookla-speedtest.starverse.network.prod.hosts.ooklaserver.net,8080,Starverse Network
-59321,TW,Brazil,Formosa,177.67.136.88,sp1.nexotelecom.net.prod.hosts.ooklaserver.net,8080,NEXO TELECOM
 59395,TW,Brazil,Formosa,131.0.56.5,velocimetro-plt.lvnetwork.com.br,8080,Plug Fibra
 61136,TW,Taiwan,Taipei,103.127.218.249,tpe.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 61517,TW,Taiwan,Changhua,103.127.218.249,chg.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
