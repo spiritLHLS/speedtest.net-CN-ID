@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-33893,CA,United States,Los Angeles,209.172.13.4,speedtest.airlink.network.prod.hosts.ooklaserver.net,8080,Airlink Internet Inc
-54504,DE,Germany,Frankfurt,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
-13623,SG,Singapore,Singapore,165.21.70.1,speedtest.singnet.com.sg,8080,Singtel
-62193,HK,Hong Kong,Hong Kong,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
+33893,CA,United States,洛杉矶,209.172.13.4,speedtest.airlink.network.prod.hosts.ooklaserver.net,8080,Airlink Internet Inc
+54504,DE,Germany,法兰克福,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
+13623,SG,Singapore,新加坡,165.21.70.1,speedtest.singnet.com.sg,8080,Singtel
+62193,HK,Hong Kong,中国香港,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+65101,JP,Japan,日本东京,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
