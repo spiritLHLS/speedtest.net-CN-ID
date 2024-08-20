@@ -28,6 +28,7 @@ id,country_code,country,city,ip,host,port,supplier
 18452,TW,Taiwan,Taoyuan,111.71.228.33,ty1.chtm.hinet.net,8080,Chunghwa Mobile
 18456,TW,Taiwan,Taichung,111.71.229.33,tc1.chtm.hinet.net,8080,Chunghwa Mobile
 18458,TW,Taiwan,Kaohsiung,111.71.230.33,kh1.chtm.hinet.net,8080,Chunghwa Mobile
+18475,TW,Taiwan,Keelung,210.61.132.22,klv3-1.speedtest.idv.tw,8080,Chief Telecom
 18476,TW,Taiwan,Miaoli,210.61.132.28,mlv3-1.speedtest.idv.tw,8080,Chief Telecom
 18477,TW,Taiwan,Nantou,210.61.132.29,ntv3-1.speedtest.idv.tw,8080,Chief Telecom
 18478,TW,Taiwan,Douliu,210.61.132.30,dlv3-1.speedtest.idv.tw,8080,Chief Telecom
@@ -47,7 +48,6 @@ id,country_code,country,city,ip,host,port,supplier
 29284,TW,Taiwan,Tainan South District,203.187.93.4,sc-speedtest.homeplus.net.tw,8080,Homeplus
 29288,TW,Taiwan,Daan District,203.187.82.4,wd-speedtest.homeplus.net.tw,8080,Homeplus
 29862,TW,Taiwan,Taichung,203.217.97.225,speedtest.vee.com.tw.prod.hosts.ooklaserver.net,8080,VeeTIME Corp
-31648,TW,Taiwan,New Taipei,211.23.170.146,speedtest.sercomm.com.prod.hosts.ooklaserver.net,8080,Sercomm Corporation
 31940,TW,Brazil,Formosa,45.186.64.9,speed.powerconnect.net.br,8080,Power Connect
 32062,TW,Brazil,Formosa,181.191.120.6,velocimetro.cxbtelecom.com.br.prod.hosts.ooklaserver.net,8080,C. X. B. Telecom
 32319,TW,Taiwan,Tainan,120.116.1.43,tnookla.tn.edu.tw,8080,TNIC
@@ -64,6 +64,7 @@ id,country_code,country,city,ip,host,port,supplier
 55674,TW,Taiwan,Banqiao District,60.199.147.49,sptkh1.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 56277,TW,Taiwan,Miaoli City,203.105.239.22,sptdl2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 59180,TW,Taiwan,Taipei City,103.186.118.247,ookla-speedtest.starverse.network.prod.hosts.ooklaserver.net,8080,Starverse Network
+59321,TW,Brazil,Formosa,177.67.136.88,sp1.nexotelecom.net.prod.hosts.ooklaserver.net,8080,NEXO TELECOM
 59395,TW,Brazil,Formosa,131.0.56.5,velocimetro-plt.lvnetwork.com.br,8080,Plug Fibra
 61136,TW,Taiwan,Taipei,103.127.218.249,tpe.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 61517,TW,Taiwan,Changhua,103.127.218.249,chg.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
