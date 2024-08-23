@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-52470,CA,United States,Los Angeles,185.45.195.40,speedtest-la.hostsailor.com.prod.hosts.ooklaserver.net,8080,Host Sailor Ltd
-63742,DE,Germany,Frankfurt,195.90.212.222,speedtest.baanthaispa.eu.prod.hosts.ooklaserver.net,8080,BaanThaiSpa
-44817,SG,Singapore,Singapore,61.16.64.58,speedtest.sptel.com.prod.hosts.ooklaserver.net,8080,SPTEL PTE. LTD.
-61296,HK,Hong Kong,Hong Kong,202.45.189.2,speedtest1c.hkix.net.prod.hosts.ooklaserver.net,8080,HKIX
-28910,JP,Japan,Tokyo,50.7.159.4,lg-tok.fdcservers.net,8080,fdcservers.net
+52470,CA,United States,洛杉矶,185.45.195.40,speedtest-la.hostsailor.com.prod.hosts.ooklaserver.net,8080,Host Sailor Ltd
+63742,DE,Germany,法兰克福,195.90.212.222,speedtest.baanthaispa.eu.prod.hosts.ooklaserver.net,8080,BaanThaiSpa
+44817,SG,Singapore,新加坡,61.16.64.58,speedtest.sptel.com.prod.hosts.ooklaserver.net,8080,SPTEL PTE. LTD.
+61296,HK,Hong Kong,中国香港,202.45.189.2,speedtest1c.hkix.net.prod.hosts.ooklaserver.net,8080,HKIX
+28910,JP,Japan,日本东京,50.7.159.4,lg-tok.fdcservers.net,8080,fdcservers.net
