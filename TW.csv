@@ -32,6 +32,7 @@ id,country_code,country,city,ip,host,port,supplier
 18476,TW,Taiwan,Miaoli,210.61.132.28,mlv3-1.speedtest.idv.tw,8080,Chief Telecom
 18477,TW,Taiwan,Nantou,210.61.132.29,ntv3-1.speedtest.idv.tw,8080,Chief Telecom
 18478,TW,Taiwan,Douliu,210.61.132.30,dlv3-1.speedtest.idv.tw,8080,Chief Telecom
+18479,TW,Taiwan,Chiayi,210.61.132.37,cyv3-1.speedtest.idv.tw,8080,Chief Telecom
 18480,TW,Taiwan,Taitung,210.61.132.38,ttv3-1.speedtest.idv.tw,8080,Chief Telecom
 18607,TW,Taiwan,Tainan,111.71.230.41,tn1.chtm.hinet.net,8080,Chunghwa Mobile
 18611,TW,Taiwan,Changhua,111.71.229.41,ch1.chtm.hinet.net,8080,Chunghwa Mobile
