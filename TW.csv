@@ -35,7 +35,7 @@ id,country_code,country,city,ip,host,port,supplier
 18479,TW,Taiwan,Chiayi,210.61.132.37,cyv3-1.speedtest.idv.tw,8080,Chief Telecom
 18480,TW,Taiwan,Taitung,210.61.132.38,ttv3-1.speedtest.idv.tw,8080,Chief Telecom
 18607,TW,Taiwan,Tainan,111.71.230.41,tn1.chtm.hinet.net,8080,Chunghwa Mobile
-18611,TW,Taiwan,Changhua,111.71.229.41,ch1.chtm.hinet.net,8080,Chunghwa Mobile
+24377,TW,Taiwan,Tainan,115.43.192.133,tn-speedtest.homeplus.net.tw,8080,Homeplus
 24429,TW,Taiwan,Taipei,115.43.115.15,tp-speedtest.homeplus.net.tw,8080,Homeplus
 24460,TW,Taiwan,New Taipei,115.43.128.130,ntp-speedtest.homeplus.net.tw,8080,Homeplus
 24461,TW,Taiwan,Banqiao,219.68.164.18,sky-speedtest.homeplus.net.tw,8080,Homeplus
@@ -69,6 +69,5 @@ id,country_code,country,city,ip,host,port,supplier
 61136,TW,Taiwan,Taipei,103.127.218.249,tpe.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 61517,TW,Taiwan,Changhua,103.127.218.249,chg.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 61560,TW,Taiwan,Taichung,103.127.218.248,tcg.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
-63474,TW,Taiwan,Taipei,211.20.1.22,pegasqa.ddns.net.prod.hosts.ooklaserver.net,8080,PEGATRON
 64034,TW,Argentina,Formosa,45.188.160.232,speedtest.cvcformosa.com.ar.prod.hosts.ooklaserver.net,8080,CR s.r.l - CVC Formosa
 64385,TW,Taiwan,Taipei,198.176.51.254,tpe01.speedtest.rfchost.com.prod.hosts.ooklaserver.net,8080,"Jinx Co., Limited"
