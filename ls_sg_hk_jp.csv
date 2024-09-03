@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-18229,CA,United States,Los Angeles,8.3.86.3,speedtest-server-lax.starry.com.prod.hosts.ooklaserver.net,8080,"Starry, Inc."
-62064,DE,Germany,Frankfurt,212.68.55.3,fr.speedtest.comnet.com.tr.prod.hosts.ooklaserver.net,8080,Comnet Fiber Türkiye
-41358,SG,Singapore,Singapore,103.164.55.91,sin.speedtest.contabo.net,8080,Contabo
-1536,HK,Hong Kong,Hong Kong,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
-65414,JP,Japan,Tokyo,45.142.106.103,speedtest.ty7.macarne.com.prod.hosts.ooklaserver.net,8080,Macarne LLC
+18229,CA,United States,洛杉矶,8.3.86.3,speedtest-server-lax.starry.com.prod.hosts.ooklaserver.net,8080,"Starry, Inc."
+62064,DE,Germany,法兰克福,212.68.55.3,fr.speedtest.comnet.com.tr.prod.hosts.ooklaserver.net,8080,Comnet Fiber Türkiye
+41358,SG,Singapore,新加坡,103.164.55.91,sin.speedtest.contabo.net,8080,Contabo
+1536,HK,Hong Kong,中国香港,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
+65414,JP,Japan,日本东京,45.142.106.103,speedtest.ty7.macarne.com.prod.hosts.ooklaserver.net,8080,Macarne LLC
