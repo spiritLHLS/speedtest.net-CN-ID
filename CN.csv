@@ -3,6 +3,7 @@ id,country_code,country,city,ip,host,port,supplier
 5530,CN,China,Chongqing,117.59.115.2,speedtest1.cqccn.com.prod.hosts.ooklaserver.net,8080,CCN
 13403,CN,Colombia,Chía,181.189.24.35,speed.evernet.net.co.prod.hosts.ooklaserver.net,8080,Evernet
 18941,CN,Brazil,Piên,186.249.218.138,speedtestpien.directwifi.com.br,8080,Direct Internet
+24447,CN,China,Shanghai,139.226.226.34,5g.shunicomtest.com.prod.hosts.ooklaserver.net,8088,China Unicom 5G
 36663,CN,China,Zhenjiang,115.168.74.186,5gzhenjiang.speedtest.jsinfo.net.prod.hosts.ooklaserver.net,8080,China Telecom JiangSu 5G
 45170,CN,China,Wu Xi,153.35.187.2,speedtest2.niutk.com.prod.hosts.ooklaserver.net,8080,China Unicom
 59386,CN,China,HangZhou,61.130.56.1,cesu-hz.zjtelecom.com.cn.prod.hosts.ooklaserver.net,8080,浙江电信
