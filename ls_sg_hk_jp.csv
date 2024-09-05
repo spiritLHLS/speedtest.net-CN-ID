@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-54653,CA,United States,Los Angeles,161.188.143.250,speedtest-lax.dish-wireless.com.prod.hosts.ooklaserver.net,8080,Dish Wireless
-54577,DE,Germany,Frankfurt,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
-50406,SG,Singapore,Singapore,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
-44745,HK,Hong Kong,Hong Kong,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
-62217,JP,Japan,Tokyo,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+54653,CA,United States,洛杉矶,161.188.143.250,speedtest-lax.dish-wireless.com.prod.hosts.ooklaserver.net,8080,Dish Wireless
+54577,DE,Germany,法兰克福,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
+50406,SG,Singapore,新加坡,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+44745,HK,Hong Kong,中国香港,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
+62217,JP,Japan,日本东京,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
