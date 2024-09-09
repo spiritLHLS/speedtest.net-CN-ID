@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-50081,CA,United States,Los Angeles,203.10.97.253,la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-17312,DE,Germany,Frankfurt,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
-13623,SG,Singapore,Singapore,165.21.70.1,speedtest.singnet.com.sg,8080,Singtel
-62193,HK,Hong Kong,Hong Kong,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-28910,JP,Japan,Tokyo,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
+50081,CA,United States,洛杉矶,203.10.97.253,la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+17312,DE,Germany,法兰克福,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
+13623,SG,Singapore,新加坡,165.21.70.1,speedtest.singnet.com.sg,8080,Singtel
+62193,HK,Hong Kong,中国香港,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+28910,JP,Japan,日本东京,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
