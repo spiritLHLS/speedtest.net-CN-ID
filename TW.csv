@@ -1,6 +1,8 @@
 id,country_code,country,city,ip,host,port,supplier
 3967,TW,Taiwan,Taipei,210.61.132.17,tpv3-1.speedtest.idv.tw,8080,Chief Telecom
 4413,TW,Taiwan,Tainan,210.61.132.33,tnv3-1.speedtest.idv.tw,8080,Chief Telecom
+4505,TW,Taiwan,New Taipei,210.61.132.18,ntpv3-1.speedtest.idv.tw,8080,Chief Telecom
+4938,TW,Taiwan,Taoyuan,210.61.132.19,tyv3-1.speedtest.idv.tw,8080,Chief Telecom
 4940,TW,Taiwan,Taichung,210.61.132.25,tcv3-1.speedtest.idv.tw,8080,Chief Telecom
 4946,TW,Taiwan,Pingtung,210.61.132.36,ptv3-1.speedtest.idv.tw,8080,Chief Telecom
 4947,TW,Taiwan,Yilan,210.61.132.21,ylv3-1.speedtest.idv.tw,8080,Chief Telecom
@@ -29,7 +31,6 @@ id,country_code,country,city,ip,host,port,supplier
 18475,TW,Taiwan,Keelung,210.61.132.22,klv3-1.speedtest.idv.tw,8080,Chief Telecom
 18476,TW,Taiwan,Miaoli,210.61.132.28,mlv3-1.speedtest.idv.tw,8080,Chief Telecom
 18477,TW,Taiwan,Nantou,210.61.132.29,ntv3-1.speedtest.idv.tw,8080,Chief Telecom
-18478,TW,Taiwan,Douliu,210.61.132.30,dlv3-1.speedtest.idv.tw,8080,Chief Telecom
 18479,TW,Taiwan,Chiayi,210.61.132.37,cyv3-1.speedtest.idv.tw,8080,Chief Telecom
 18480,TW,Taiwan,Taitung,210.61.132.38,ttv3-1.speedtest.idv.tw,8080,Chief Telecom
 18607,TW,Taiwan,Tainan,111.71.230.41,tn1.chtm.hinet.net,8080,Chunghwa Mobile
@@ -39,7 +40,6 @@ id,country_code,country,city,ip,host,port,supplier
 24460,TW,Taiwan,New Taipei,115.43.128.130,ntp-speedtest.homeplus.net.tw,8080,Homeplus
 24461,TW,Taiwan,Banqiao,219.68.164.18,sky-speedtest.homeplus.net.tw,8080,Homeplus
 27752,TW,Taiwan,Nantou,210.201.72.14,srv4.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
-29106,TW,Taiwan,New Taipei,210.201.72.74,srv5.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
 29107,TW,Taiwan,Taoyuan,210.201.72.16,srv6.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
 29253,TW,Taiwan,Kaohsiung Lingya,203.187.94.4,gd-speedtest.homeplus.net.tw,8080,Homeplus
 29283,TW,Taiwan,Shulin District,203.187.90.4,gh-speedtest.homeplus.net.tw,8080,Homeplus
@@ -47,7 +47,7 @@ id,country_code,country,city,ip,host,port,supplier
 29288,TW,Taiwan,Daan District,203.187.82.4,wd-speedtest.homeplus.net.tw,8080,Homeplus
 29862,TW,Taiwan,Taichung,203.217.97.225,speedtest.vee.com.tw.prod.hosts.ooklaserver.net,8080,VeeTIME Corp
 31940,TW,Brazil,Formosa,45.186.64.9,speed.powerconnect.net.br,8080,Power Connect
-32062,TW,Brazil,Formosa,181.191.120.6,velocimetro.cxbtelecom.com.br.prod.hosts.ooklaserver.net,8080,C. X. B. Telecom
+32319,TW,Taiwan,Tainan,120.116.1.43,tnookla.tn.edu.tw,8080,TNIC
 36071,TW,Taiwan,Taipei,103.246.219.98,speedtest.imcloud.tw.prod.hosts.ooklaserver.net,8080,"Sky Digital Co., Ltd"
 36122,TW,Taiwan,Tainan,123.205.190.221,speedtestookla.hya.tw.prod.hosts.ooklaserver.net,8080,HYA
 38059,TW,Taiwan,Kaohsiung,202.144.211.9,tstarkh1.vibo.net.tw.prod.hosts.ooklaserver.net,8080,"Taiwan Star Telecom Co., Ltd."
