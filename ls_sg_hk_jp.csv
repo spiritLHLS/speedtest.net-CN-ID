@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-50165,CA,United States,洛杉矶,23.130.129.165,speedtest-la.getonward.com.prod.hosts.ooklaserver.net,8080,Onward
-37748,DE,Germany,法兰克福,31.25.152.30,speedtest.ropa.de.prod.hosts.ooklaserver.net,8080,ropa GmbH & Co. KG
-63375,SG,Singapore,新加坡,113.192.10.2,speedtest.sg.hsp.net.id.prod.hosts.ooklaserver.net,8080,HSPNet
-1536,HK,Hong Kong,中国香港,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
-50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+34840,CA,United States,Los Angeles,104.238.206.46,los-angeles-speedtest.reliablesite.net.prod.hosts.ooklaserver.net,8080,ReliableSite Hosting
+50771,DE,Germany,Frankfurt,203.23.178.65,fr5.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+31180,SG,Singapore,Singapore,103.113.185.66,sp1.campanaworks.com.prod.hosts.ooklaserver.net,8080,Campana
+44340,HK,Hong Kong,Hong Kong,210.57.36.162,hkthspeedtest02.telstraglobal.net.prod.hosts.ooklaserver.net,8080,Telstra International
+21569,JP,Japan,Tokyo,103.194.167.213,jp.as.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
