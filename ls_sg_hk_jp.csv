@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-34840,CA,United States,洛杉矶,104.238.206.46,los-angeles-speedtest.reliablesite.net.prod.hosts.ooklaserver.net,8080,ReliableSite Hosting
-50771,DE,Germany,法兰克福,203.23.178.65,fr5.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-31180,SG,Singapore,新加坡,103.113.185.66,sp1.campanaworks.com.prod.hosts.ooklaserver.net,8080,Campana
-44340,HK,Hong Kong,中国香港,210.57.36.162,hkthspeedtest02.telstraglobal.net.prod.hosts.ooklaserver.net,8080,Telstra International
-21569,JP,Japan,日本东京,103.194.167.213,jp.as.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
+54653,CA,United States,Los Angeles,161.188.143.250,speedtest-lax.dish-wireless.com.prod.hosts.ooklaserver.net,8080,Dish Wireless
+17312,DE,Germany,Frankfurt,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
+7311,SG,Singapore,Singapore,103.1.138.214,m1speedtest1.m1net.com.sg,8080,M1 Limited
+22126,HK,Hong Kong,Hong Kong,43.239.139.213,hk.ap.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
+50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
