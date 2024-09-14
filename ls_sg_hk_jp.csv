@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-50081,CA,United States,Los Angeles,203.10.97.253,la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-54577,DE,Germany,Frankfurt,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
-31293,SG,Singapore,Singapore,45.117.189.2,speedtest2.pacificinternet.com.prod.hosts.ooklaserver.net,8080,Pacific Internet (S)
-1536,HK,Hong Kong,Hong Kong,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
-28910,JP,Japan,Tokyo,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
+50081,CA,United States,洛杉矶,203.10.97.253,la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+54577,DE,Germany,法兰克福,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
+31293,SG,Singapore,新加坡,45.117.189.2,speedtest2.pacificinternet.com.prod.hosts.ooklaserver.net,8080,Pacific Internet (S)
+1536,HK,Hong Kong,中国香港,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
+28910,JP,Japan,日本东京,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
