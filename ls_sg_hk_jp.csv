@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-7190,CA,United States,洛杉矶,64.32.16.6,ookla.la.ca.sharktech.net.prod.hosts.ooklaserver.net,8080,Sharktech Inc.
-40094,DE,Germany,法兰克福,45.148.5.61,speedtestde.pvdatanet.com.prod.hosts.ooklaserver.net,8080,PVDataNet
-14863,SG,Singapore,新加坡,178.128.103.220,speedtest.smapasundan8bdg.sch.id,8080,SMA PASUNDAN 8 BANDUNG
-22126,HK,Hong Kong,中国香港,43.239.139.213,hk.ap.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
-65414,JP,Japan,日本东京,45.142.106.103,speedtest.ty7.macarne.com.prod.hosts.ooklaserver.net,8080,Macarne LLC
+60694,CA,United States,Los Angeles,45.8.22.37,speedtest-lax.advinservers.com.prod.hosts.ooklaserver.net,8080,Advin Servers
+63028,DE,Germany,Frankfurt,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
+367,SG,Singapore,Singapore,202.150.221.170,speedtest.com.sg.prod.hosts.ooklaserver.net,8080,NewMedia Express
+32155,HK,Hong Kong,Hong Kong,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
+60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
