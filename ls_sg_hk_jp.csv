@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-14236,CA,United States,Los Angeles,172.102.123.253,losangeles.ca.speedtest.frontier.com,8080,Frontier
-44477,DE,Germany,Frankfurt,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
-45345,SG,Singapore,Singapore,5.44.249.3,speedtest-sin.melbicom.net,8080,Melbikomas UAB
-1536,HK,Hong Kong,Hong Kong,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
-65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
+14236,CA,United States,洛杉矶,172.102.123.253,losangeles.ca.speedtest.frontier.com,8080,Frontier
+44477,DE,Germany,法兰克福,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
+45345,SG,Singapore,新加坡,5.44.249.3,speedtest-sin.melbicom.net,8080,Melbikomas UAB
+1536,HK,Hong Kong,中国香港,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
+65101,JP,Japan,日本东京,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
