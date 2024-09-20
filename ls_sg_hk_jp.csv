@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-64122,CA,United States,Los Angeles,199.195.213.182,laxla0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net,8080,WiLine Networks
-55462,DE,Germany,Frankfurt,5.75.172.144,speedtest.twerion.net.prod.hosts.ooklaserver.net,8080,Twerion.net | Minecraft Server
-13623,SG,Singapore,Singapore,165.21.70.1,speedtest.singnet.com.sg,8080,Singtel
-44745,HK,Hong Kong,Hong Kong,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
-50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+64122,CA,United States,洛杉矶,199.195.213.182,laxla0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net,8080,WiLine Networks
+55462,DE,Germany,法兰克福,5.75.172.144,speedtest.twerion.net.prod.hosts.ooklaserver.net,8080,Twerion.net | Minecraft Server
+13623,SG,Singapore,新加坡,165.21.70.1,speedtest.singnet.com.sg,8080,Singtel
+44745,HK,Hong Kong,中国香港,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
+50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
