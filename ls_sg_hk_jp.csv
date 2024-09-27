@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-56370,CA,United States,洛杉矶,66.114.152.44,speedtest.la2.gigabitnow.com.prod.hosts.ooklaserver.net,8080,GigabitNow
-63742,DE,Germany,法兰克福,195.90.212.222,speedtest.baanthaispa.eu.prod.hosts.ooklaserver.net,8080,BaanThaiSpa
-56066,SG,Singapore,新加坡,202.70.133.12,speedtest.herza.cloud.prod.hosts.ooklaserver.net,8080,PT Herza Digital Indonesia
-44340,HK,Hong Kong,中国香港,210.57.36.162,hkthspeedtest02.telstraglobal.net.prod.hosts.ooklaserver.net,8080,Telstra International
-62217,JP,Japan,日本东京,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+13516,CA,United States,Los Angeles,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
+37748,DE,Germany,Frankfurt,31.25.152.30,speedtest.ropa.de.prod.hosts.ooklaserver.net,8080,ropa GmbH & Co. KG
+56340,SG,Singapore,Singapore,103.172.34.131,speedtest16.lintas.net.id.prod.hosts.ooklaserver.net,8080,PT Lintas Jaringan Nusantara
+37639,HK,Hong Kong,Hong Kong,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,CMHK Broadband
+60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
