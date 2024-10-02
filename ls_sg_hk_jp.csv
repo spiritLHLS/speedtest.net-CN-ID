@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-57329,CA,United States,Los Angeles,23.136.232.50,speed.lax-1.serverforge.org.prod.hosts.ooklaserver.net,8080,ServerForge LLC
-40094,DE,Germany,Frankfurt,45.148.5.61,speedtestde.pvdatanet.com.prod.hosts.ooklaserver.net,8080,PVDataNet
-367,SG,Singapore,Singapore,202.150.221.170,speedtest.com.sg.prod.hosts.ooklaserver.net,8080,NewMedia Express
-37639,HK,Hong Kong,Hong Kong,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,CMHK Broadband
-65414,JP,Japan,Tokyo,45.142.106.103,speedtest.ty7.macarne.com.prod.hosts.ooklaserver.net,8080,Macarne LLC
+57329,CA,United States,洛杉矶,23.136.232.50,speed.lax-1.serverforge.org.prod.hosts.ooklaserver.net,8080,ServerForge LLC
+40094,DE,Germany,法兰克福,45.148.5.61,speedtestde.pvdatanet.com.prod.hosts.ooklaserver.net,8080,PVDataNet
+367,SG,Singapore,新加坡,202.150.221.170,speedtest.com.sg.prod.hosts.ooklaserver.net,8080,NewMedia Express
+37639,HK,Hong Kong,中国香港,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,CMHK Broadband
+65414,JP,Japan,日本东京,45.142.106.103,speedtest.ty7.macarne.com.prod.hosts.ooklaserver.net,8080,Macarne LLC
