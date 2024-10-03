@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-57329,CA,United States,洛杉矶,23.136.232.50,speed.lax-1.serverforge.org.prod.hosts.ooklaserver.net,8080,ServerForge LLC
-40094,DE,Germany,法兰克福,45.148.5.61,speedtestde.pvdatanet.com.prod.hosts.ooklaserver.net,8080,PVDataNet
-367,SG,Singapore,新加坡,202.150.221.170,speedtest.com.sg.prod.hosts.ooklaserver.net,8080,NewMedia Express
-37639,HK,Hong Kong,中国香港,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,CMHK Broadband
-65414,JP,Japan,日本东京,45.142.106.103,speedtest.ty7.macarne.com.prod.hosts.ooklaserver.net,8080,Macarne LLC
+64487,CA,United States,Los Angeles,104.251.238.142,speedtest.us310.lax.us.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+52770,DE,Germany,Frankfurt,213.68.130.82,ipl3pt.fft.ops.eu.uu.net.prod.hosts.ooklaserver.net,8080,Verizon.com
+45345,SG,Singapore,Singapore,5.44.249.3,speedtest-sin.melbicom.net,8080,Melbikomas UAB
+60177,HK,Hong Kong,Hong Kong,203.210.2.92,hkt.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Club SIM by HKT
+60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
