@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-64122,CA,United States,洛杉矶,199.195.213.182,laxla0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net,8080,WiLine Networks
-52770,DE,Germany,法兰克福,213.68.130.82,ipl3pt.fft.ops.eu.uu.net.prod.hosts.ooklaserver.net,8080,Verizon.com
-47713,SG,Singapore,新加坡,202.43.176.90,sig-speedtest.moratelindo.io.prod.hosts.ooklaserver.net,8080,PT. Mora Telematika Indonesia
-62191,HK,Hong Kong,中国香港,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
-50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+17527,CA,United States,Los Angeles,72.34.114.65,speedtest.race.com,8080,Race Communications
+53105,DE,Germany,Frankfurt,45.157.234.19,speedtest2.esrv.center.prod.hosts.ooklaserver.net,8080,Davasto GmbH
+56066,SG,Singapore,Singapore,202.70.133.12,speedtest.herza.cloud.prod.hosts.ooklaserver.net,8080,PT Herza Digital Indonesia
+62191,HK,Hong Kong,Hong Kong,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
+56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
