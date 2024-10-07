@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-64122,CA,United States,洛杉矶,199.195.213.182,laxla0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net,8080,WiLine Networks
-55462,DE,Germany,法兰克福,5.75.172.144,speedtest.twerion.net.prod.hosts.ooklaserver.net,8080,Twerion.net | Minecraft Server
-59186,SG,Singapore,新加坡,203.123.48.1,speedtest.dcs1.biz.prod.hosts.ooklaserver.net,8080,DCS1 Pte Ltd
-43356,HK,Hong Kong,中国香港,203.210.4.91,1010.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,1010
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+57329,CA,United States,Los Angeles,23.136.232.50,speed.lax-1.serverforge.org.prod.hosts.ooklaserver.net,8080,ServerForge LLC
+52770,DE,Germany,Frankfurt,213.68.130.82,ipl3pt.fft.ops.eu.uu.net.prod.hosts.ooklaserver.net,8080,Verizon.com
+26654,SG,Singapore,Singapore,50.7.253.4,lg-sin.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
+62191,HK,Hong Kong,Hong Kong,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
+65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
