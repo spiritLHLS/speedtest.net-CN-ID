@@ -1,6 +1,5 @@
 id,country_code,country,city,ip,host,port,supplier
 5396,CN,China,Suzhou,115.169.22.130,4gsuzhou1.speedtest.jsinfo.net.prod.hosts.ooklaserver.net,8080,China Telecom JiangSu 5G
-5530,CN,China,Chongqing,117.59.115.2,speedtest1.cqccn.com.prod.hosts.ooklaserver.net,8080,CCN
 13403,CN,Colombia,Chía,181.189.24.35,speed.evernet.net.co.prod.hosts.ooklaserver.net,8080,Evernet
 16204,CN,China,Suzhou,36.156.46.51,speedtest.jsqiuying.com,8080,jsqiuying
 18941,CN,Brazil,Piên,186.249.218.138,speedtestpien.directwifi.com.br,8080,Direct Internet
