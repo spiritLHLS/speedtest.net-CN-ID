@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-21363,CA,United States,洛杉矶,194.124.244.6,speedtest-dc08.enzu.com.prod.hosts.ooklaserver.net,8080,Enzu.com
-23095,DE,Germany,法兰克福,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
-41801,SG,Singapore,新加坡,103.29.57.19,speedtest-eqx-sg1.ixtelecom.net.prod.hosts.ooklaserver.net,8080,IX Telecom
-63143,HK,Hong Kong,中国香港,218.102.20.42,hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net,8080,Netvigator
-62217,JP,Japan,日本东京,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+21363,CA,United States,Los Angeles,194.124.244.6,speedtest-dc08.enzu.com.prod.hosts.ooklaserver.net,8080,Enzu.com
+44477,DE,Germany,Frankfurt,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
+62530,SG,Singapore,Singapore,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL
+60178,HK,Hong Kong,Hong Kong,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
+60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp

@@ -29,13 +29,13 @@ id,country_code,country,city,ip,host,port,supplier
 24461,TW,Taiwan,Banqiao,219.68.164.18,sky-speedtest.homeplus.net.tw,8080,Homeplus
 27752,TW,Taiwan,Nantou,210.201.72.14,srv4.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
 29106,TW,Taiwan,New Taipei,210.201.72.74,srv5.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
+29107,TW,Taiwan,Taoyuan,210.201.72.16,srv6.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
 29253,TW,Taiwan,Kaohsiung Lingya,203.187.94.4,gd-speedtest.homeplus.net.tw,8080,Homeplus
 29283,TW,Taiwan,Shulin District,203.187.90.4,gh-speedtest.homeplus.net.tw,8080,Homeplus
 29284,TW,Taiwan,Tainan South District,203.187.93.4,sc-speedtest.homeplus.net.tw,8080,Homeplus
 29288,TW,Taiwan,Daan District,203.187.82.4,wd-speedtest.homeplus.net.tw,8080,Homeplus
 29862,TW,Taiwan,Taichung,203.217.97.225,speedtest.vee.com.tw.prod.hosts.ooklaserver.net,8080,VeeTIME Corp
 31940,TW,Brazil,Formosa,45.186.64.9,speed.powerconnect.net.br,8080,Power Connect
-32319,TW,Taiwan,Tainan,120.116.1.43,tnookla.tn.edu.tw,8080,TNIC
 36071,TW,Taiwan,Taipei,103.246.219.98,speedtest.imcloud.tw.prod.hosts.ooklaserver.net,8080,"Sky Digital Co., Ltd"
 36122,TW,Taiwan,Tainan,123.205.190.221,speedtestookla.hya.tw.prod.hosts.ooklaserver.net,8080,HYA
 40742,TW,Argentina,Formosa,45.175.140.18,speedtest.bocarojasa.com.ar.prod.hosts.ooklaserver.net,8080,Boca Roja SA
@@ -45,7 +45,6 @@ id,country_code,country,city,ip,host,port,supplier
 44603,TW,Taiwan,Taipei,103.147.22.134,speedtest.twds.com.tw.prod.hosts.ooklaserver.net,8080,Taiwan Digital Streaming Co.
 47427,TW,Brazil,Formosa,177.73.88.4,speedtest.netviatelecom.com.br.prod.hosts.ooklaserver.net,8080,Netvia
 55261,TW,Taiwan,Taichung,61.60.226.2,speedtest.tinp.net.tw,8080,Tinp
-55674,TW,Taiwan,Banqiao District,60.199.147.49,sptkh1.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 56277,TW,Taiwan,Miaoli City,203.105.239.22,sptdl2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 59180,TW,Taiwan,Taipei City,103.186.118.247,ookla-speedtest.starverse.network.prod.hosts.ooklaserver.net,8080,Starverse Network
 59321,TW,Brazil,Formosa,177.67.136.88,sp1.nexotelecom.net.prod.hosts.ooklaserver.net,8080,NEXO TELECOM
