@@ -27,7 +27,6 @@ id,country_code,country,city,ip,host,port,supplier
 24429,TW,Taiwan,Taipei,115.43.115.15,tp-speedtest.homeplus.net.tw,8080,Homeplus
 24460,TW,Taiwan,New Taipei,115.43.128.130,ntp-speedtest.homeplus.net.tw,8080,Homeplus
 24461,TW,Taiwan,Banqiao,219.68.164.18,sky-speedtest.homeplus.net.tw,8080,Homeplus
-27752,TW,Taiwan,Nantou,210.201.72.14,srv4.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
 29106,TW,Taiwan,New Taipei,210.201.72.74,srv5.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
 29107,TW,Taiwan,Taoyuan,210.201.72.16,srv6.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
 29253,TW,Taiwan,Kaohsiung Lingya,203.187.94.4,gd-speedtest.homeplus.net.tw,8080,Homeplus
@@ -36,6 +35,7 @@ id,country_code,country,city,ip,host,port,supplier
 29288,TW,Taiwan,Daan District,203.187.82.4,wd-speedtest.homeplus.net.tw,8080,Homeplus
 29862,TW,Taiwan,Taichung,203.217.97.225,speedtest.vee.com.tw.prod.hosts.ooklaserver.net,8080,VeeTIME Corp
 31940,TW,Brazil,Formosa,45.186.64.9,speed.powerconnect.net.br,8080,Power Connect
+32319,TW,Taiwan,Tainan,120.116.1.43,tnookla.tn.edu.tw,8080,TNIC
 36071,TW,Taiwan,Taipei,103.246.219.98,speedtest.imcloud.tw.prod.hosts.ooklaserver.net,8080,"Sky Digital Co., Ltd"
 36122,TW,Taiwan,Tainan,123.205.190.221,speedtestookla.hya.tw.prod.hosts.ooklaserver.net,8080,HYA
 40742,TW,Argentina,Formosa,45.175.140.18,speedtest.bocarojasa.com.ar.prod.hosts.ooklaserver.net,8080,Boca Roja SA
@@ -52,4 +52,5 @@ id,country_code,country,city,ip,host,port,supplier
 61136,TW,Taiwan,Taipei,103.127.218.249,tpe.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 61560,TW,Taiwan,Taichung,103.127.218.248,tcg.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 64034,TW,Argentina,Formosa,45.188.160.232,speedtest.cvcformosa.com.ar.prod.hosts.ooklaserver.net,8080,CR s.r.l - CVC Formosa
+64385,TW,Taiwan,Taipei,198.176.51.254,tpe01.speedtest.rfchost.com.prod.hosts.ooklaserver.net,8080,"Jinx Co., Limited"
 65092,TW,Taiwan,Taipei,206.148.22.75,tpe.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
