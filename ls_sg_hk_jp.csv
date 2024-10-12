@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-54653,CA,United States,洛杉矶,161.188.143.250,speedtest-lax.dish-wireless.com.prod.hosts.ooklaserver.net,8080,Dish Wireless
-62943,DE,Germany,法兰克福,212.113.116.5,lg-ffm.aeza.net.prod.hosts.ooklaserver.net,8080,Aeza.net
-44817,SG,Singapore,新加坡,61.16.64.58,speedtest.sptel.com.prod.hosts.ooklaserver.net,8080,SPTEL PTE. LTD.
-35791,HK,Hong Kong,中国香港,203.78.41.10,kami.smartone.com.prod.hosts.ooklaserver.net,8080,SmarTone
-28910,JP,Japan,日本东京,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
+34840,CA,United States,Los Angeles,104.238.206.46,los-angeles-speedtest.reliablesite.net.prod.hosts.ooklaserver.net,8080,ReliableSite Hosting
+63028,DE,Germany,Frankfurt,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
+31180,SG,Singapore,Singapore,103.113.185.66,sp1.campanaworks.com.prod.hosts.ooklaserver.net,8080,Campana
+35791,HK,Hong Kong,Hong Kong,203.78.41.10,kami.smartone.com.prod.hosts.ooklaserver.net,8080,SmarTone
+60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
