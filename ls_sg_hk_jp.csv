@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-62638,CA,United States,洛杉矶,192.189.157.21,speedtest.la.macarne.com.prod.hosts.ooklaserver.net,8080,Macarne LLC
-17312,DE,Germany,法兰克福,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
-62530,SG,Singapore,新加坡,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL
-37390,HK,Hong Kong,中国香港,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+21001,CA,United States,Los Angeles,162.255.183.26,speedtest.5x5tele.com.prod.hosts.ooklaserver.net,8080,5x5 Telecom
+53105,DE,Germany,Frankfurt,45.157.234.19,speedtest2.esrv.center.prod.hosts.ooklaserver.net,8080,Davasto GmbH
+59016,SG,Singapore,Singapore,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
+60178,HK,Hong Kong,Hong Kong,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
+50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
