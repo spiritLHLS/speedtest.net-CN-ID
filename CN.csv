@@ -1,14 +1,13 @@
 id,country_code,country,city,ip,host,port,supplier
 5396,CN,China,Suzhou,115.169.22.130,4gsuzhou1.speedtest.jsinfo.net.prod.hosts.ooklaserver.net,8080,China Telecom JiangSu 5G
-5530,CN,China,Chongqing,117.59.115.2,speedtest1.cqccn.com.prod.hosts.ooklaserver.net,8080,CCN
 13403,CN,Colombia,Chía,181.189.24.35,speed.evernet.net.co.prod.hosts.ooklaserver.net,8080,Evernet
-16204,CN,China,Suzhou,36.156.46.51,speedtest.jsqiuying.com,8080,jsqiuying
+16204,CN,China,Suzhou,36.156.46.51,speedtest.jsqiuying.com,8080,China Mobile Suzhou 5G
 18941,CN,Brazil,Piên,186.249.218.138,speedtestpien.directwifi.com.br,8080,Direct Internet
-25858,CN,China,Beijing,111.13.111.224,speedtest.bmcc.com.cn.prod.hosts.ooklaserver.net,8080,China Mobile Group Beijing Co.Ltd
+25858,CN,China,Beijing,111.13.111.230,speedtest.bmcc.com.cn.prod.hosts.ooklaserver.net,8080,China Mobile Group Beijing Co.Ltd
 30852,CN,China,Kunshan,180.208.59.230,speedtest.dukekunshan.edu.cn,8080,Duke Kunshan University
 36663,CN,China,Zhenjiang,115.168.74.186,5gzhenjiang.speedtest.jsinfo.net.prod.hosts.ooklaserver.net,8080,China Telecom JiangSu 5G
 45170,CN,China,Wu Xi,153.35.187.2,speedtest2.niutk.com.prod.hosts.ooklaserver.net,8080,China Unicom
-54312,CN,China,Hangzhou,112.15.227.70,speedtest.139play.com.prod.hosts.ooklaserver.net,8080,China Mobile Zhejiang 5G
+54312,CN,China,Hangzhou,112.15.227.66,speedtest.139play.com.prod.hosts.ooklaserver.net,8080,China Mobile Zhejiang 5G
 59386,CN,China,HangZhou,61.130.56.1,cesu-hz.zjtelecom.com.cn.prod.hosts.ooklaserver.net,8080,浙江电信
 59387,CN,China,NingBo,61.153.82.77,cesu-nb.zjtelecom.com.cn.prod.hosts.ooklaserver.net,8080,浙江电信
 64314,CN,China,Chengdu,175.153.189.102,cuscspeed.169ol.com.prod.hosts.ooklaserver.net,8080,ChinaUnicom Sichuan

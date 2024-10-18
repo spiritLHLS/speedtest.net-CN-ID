@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-21001,CA,United States,洛杉矶,162.255.183.26,speedtest.5x5tele.com.prod.hosts.ooklaserver.net,8080,5x5 Telecom
-53105,DE,Germany,法兰克福,45.157.234.19,speedtest2.esrv.center.prod.hosts.ooklaserver.net,8080,Davasto GmbH
-59016,SG,Singapore,新加坡,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
-60178,HK,Hong Kong,中国香港,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
-50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+50081,CA,United States,Los Angeles,203.10.97.253,la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+50771,DE,Germany,Frankfurt,203.23.178.65,fr5.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+40508,SG,Singapore,Singapore,213.179.201.213,sg.as.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
+37639,HK,Hong Kong,Hong Kong,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,CMHK Broadband
+65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
