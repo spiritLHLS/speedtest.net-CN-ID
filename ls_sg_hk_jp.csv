@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-14236,CA,United States,洛杉矶,172.102.123.3,losangeles.ca.speedtest.frontier.com,8080,Frontier
-54504,DE,Germany,法兰克福,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
-42688,SG,Singapore,新加坡,112.215.198.21,speedtest-intl.xl.co.id.prod.hosts.ooklaserver.net,8080,PT XL Axiata Tbk
-44745,HK,Hong Kong,中国香港,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
-50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+62638,CA,United States,Los Angeles,192.189.157.21,speedtest.la.macarne.com.prod.hosts.ooklaserver.net,8080,Macarne LLC
+40094,DE,Germany,Frankfurt,45.148.5.61,speedtestde.pvdatanet.com.prod.hosts.ooklaserver.net,8080,PVDataNet
+26654,SG,Singapore,Singapore,50.7.253.4,lg-sin.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
+61371,HK,Hong Kong,Hong Kong,89.185.28.247,hytron-hk.hytron.io.prod.hosts.ooklaserver.net,8080,HYTRON NETWORK
+28910,JP,Japan,Tokyo,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
