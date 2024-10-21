@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-62638,CA,United States,洛杉矶,192.189.157.21,speedtest.la.macarne.com.prod.hosts.ooklaserver.net,8080,Macarne LLC
-40094,DE,Germany,法兰克福,45.148.5.61,speedtestde.pvdatanet.com.prod.hosts.ooklaserver.net,8080,PVDataNet
-26654,SG,Singapore,新加坡,50.7.253.4,lg-sin.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
-61371,HK,Hong Kong,中国香港,89.185.28.247,hytron-hk.hytron.io.prod.hosts.ooklaserver.net,8080,HYTRON NETWORK
-28910,JP,Japan,日本东京,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
+18229,CA,United States,Los Angeles,8.3.86.3,speedtest-server-lax.starry.com.prod.hosts.ooklaserver.net,8080,"Starry, Inc."
+62943,DE,Germany,Frankfurt,212.113.116.5,lg-ffm.aeza.net.prod.hosts.ooklaserver.net,8080,Aeza.net
+56066,SG,Singapore,Singapore,202.70.133.12,speedtest.herza.cloud.prod.hosts.ooklaserver.net,8080,PT Herza Digital Indonesia
+62193,HK,Hong Kong,Hong Kong,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
