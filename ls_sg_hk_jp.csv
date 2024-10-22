@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-12191,CA,United States,Los Angeles,45.61.24.162,speedtest.lax1.nitelusa.net.prod.hosts.ooklaserver.net,8080,Nitel
-54504,DE,Germany,Frankfurt,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
-54359,SG,Singapore,Singapore,115.146.113.46,speedtest-sg.napinfo.co.id.prod.hosts.ooklaserver.net,8080,Matrix NAP Info
-60178,HK,Hong Kong,Hong Kong,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
-50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+12191,CA,United States,洛杉矶,45.61.24.162,speedtest.lax1.nitelusa.net.prod.hosts.ooklaserver.net,8080,Nitel
+54504,DE,Germany,法兰克福,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
+54359,SG,Singapore,新加坡,115.146.113.46,speedtest-sg.napinfo.co.id.prod.hosts.ooklaserver.net,8080,Matrix NAP Info
+60178,HK,Hong Kong,中国香港,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
+50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
