@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-42683,CA,United States,洛杉矶,74.81.44.94,speedtest-lax.perfectip.net,8080,PerfectIP.net
-17312,DE,Germany,法兰克福,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
-59186,SG,Singapore,新加坡,203.123.48.1,speedtest.dcs1.biz.prod.hosts.ooklaserver.net,8080,DCS1 Pte Ltd
-60178,HK,Hong Kong,中国香港,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
-62217,JP,Japan,日本东京,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+50081,CA,United States,Los Angeles,203.10.97.253,la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+50771,DE,Germany,Frankfurt,203.23.178.65,fr5.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+13058,SG,Singapore,Singapore,114.4.41.30,speedtest1.indosatooredoo.com.prod.hosts.ooklaserver.net,8080,PT Indosat Tbk
+60178,HK,Hong Kong,Hong Kong,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
+50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
