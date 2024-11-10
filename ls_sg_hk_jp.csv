@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-61318,CA,United States,洛杉矶,102.219.127.229,losangeles.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net,8080,Angola Cables
-54577,DE,Germany,法兰克福,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
-54359,SG,Singapore,新加坡,115.146.113.46,speedtest-sg.napinfo.co.id.prod.hosts.ooklaserver.net,8080,Matrix NAP Info
-22126,HK,Hong Kong,中国香港,43.239.139.213,hk.ap.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
-28910,JP,Japan,日本东京,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
+21001,CA,United States,Los Angeles,162.255.183.26,speedtest.5x5tele.com.prod.hosts.ooklaserver.net,8080,5x5 Telecom
+63742,DE,Germany,Frankfurt,195.90.212.222,speedtest.baanthaispa.eu.prod.hosts.ooklaserver.net,8080,BaanThaiSpa
+61320,SG,Singapore,Singapore,102.219.127.27,singapura.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net,8080,Angola Cables
+1536,HK,Hong Kong,Hong Kong,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
+50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
