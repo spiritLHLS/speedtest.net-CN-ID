@@ -4,11 +4,7 @@ id,country_code,country,city,ip,host,port,supplier
 11702,TW,Taiwan,Taoyuan,60.199.147.65,sptty1.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 11703,TW,Taiwan,Taipei,60.199.147.177,spttp1.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 11705,TW,Taiwan,Hsinchu,60.199.147.81,spthc1.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
-11707,TW,Taiwan,Taichung,203.105.239.14,spttc2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 11708,TW,Taiwan,Hualien,60.199.137.33,spthl1.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
-11709,TW,Taiwan,Changhua,203.105.239.18,sptch2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
-11711,TW,Taiwan,Tainan,203.105.224.18,spttn2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
-11713,TW,Taiwan,Kaohsiung,203.105.224.22,sptkh2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 12000,TW,Taiwan,Taichung,123.240.255.26,custom.tbcnet.net.tw.prod.hosts.ooklaserver.net,8080,TBC
 12583,TW,Taiwan,New Taipei,60.199.137.193,sb-speedtest-1.twmbroadband.net.prod.hosts.ooklaserver.net,8080,TFN Media
 13506,TW,Taiwan,Taipei,103.31.196.221,speedtest.taifo.com.tw.prod.hosts.ooklaserver.net,8080,TAIFO Taiwan
@@ -40,12 +36,10 @@ id,country_code,country,city,ip,host,port,supplier
 36071,TW,Taiwan,Taipei,103.246.219.98,speedtest.imcloud.tw.prod.hosts.ooklaserver.net,8080,"Sky Digital Co., Ltd"
 36122,TW,Taiwan,Tainan,123.205.190.221,speedtestookla.hya.tw.prod.hosts.ooklaserver.net,8080,HYA
 40742,TW,Argentina,Formosa,45.175.140.18,speedtest.bocarojasa.com.ar.prod.hosts.ooklaserver.net,8080,Boca Roja SA
-41191,TW,Taiwan,Chiayi,203.105.224.14,sptcy2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 43206,TW,Taiwan,New Taipei,61.216.9.49,askeycsit.dyndns-ip.com.prod.hosts.ooklaserver.net,8080,AKENR
 44603,TW,Taiwan,Taipei,103.147.22.134,speedtest.twds.com.tw.prod.hosts.ooklaserver.net,8080,Taiwan Digital Streaming Co.
 47427,TW,Brazil,Formosa,177.73.88.4,speedtest.netviatelecom.com.br.prod.hosts.ooklaserver.net,8080,Netvia
 55261,TW,Taiwan,Taichung,61.60.226.2,speedtest.tinp.net.tw,8080,Tinp
-56277,TW,Taiwan,Miaoli City,203.105.239.22,sptdl2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 59180,TW,Taiwan,Taipei City,103.186.118.247,ookla-speedtest.starverse.network.prod.hosts.ooklaserver.net,8080,Starverse Network
 59321,TW,Brazil,Formosa,177.67.136.88,sp1.nexotelecom.net.prod.hosts.ooklaserver.net,8080,NEXO TELECOM
 59395,TW,Brazil,Formosa,131.0.56.5,velocimetro-plt.lvnetwork.com.br,8080,Plug Fibra
