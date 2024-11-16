@@ -8,6 +8,7 @@ id,country_code,country,city,ip,host,port,supplier
 12000,TW,Taiwan,Taichung,123.240.255.26,custom.tbcnet.net.tw.prod.hosts.ooklaserver.net,8080,TBC
 12583,TW,Taiwan,New Taipei,60.199.137.193,sb-speedtest-1.twmbroadband.net.prod.hosts.ooklaserver.net,8080,TFN Media
 13506,TW,Taiwan,Taipei,103.31.196.221,speedtest.taifo.com.tw.prod.hosts.ooklaserver.net,8080,TAIFO Taiwan
+17186,TW,Taiwan,Zhongli,211.77.43.20,fetzl1.seed.net.tw.prod.hosts.ooklaserver.net,8080,FarEasTone Telecom
 18445,TW,Taiwan,Taipei,111.71.227.33,tp1.chtm.hinet.net.prod.hosts.ooklaserver.net,8080,Chunghwa Mobile
 18447,TW,Taiwan,New Taipei,111.71.227.41,ntp1.chtm.hinet.net,8080,Chunghwa Mobile
 18450,TW,Taiwan,Hsinchu,111.71.228.41,hc1.chtm.hinet.net,8080,Chunghwa Mobile
@@ -27,7 +28,6 @@ id,country_code,country,city,ip,host,port,supplier
 29107,TW,Taiwan,Taoyuan,210.201.72.16,srv6.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
 29253,TW,Taiwan,Kaohsiung Lingya,203.187.94.4,gd-speedtest.homeplus.net.tw,8080,Homeplus
 29283,TW,Taiwan,Shulin District,203.187.90.4,gh-speedtest.homeplus.net.tw,8080,Homeplus
-29284,TW,Taiwan,Tainan South District,203.187.93.4,sc-speedtest.homeplus.net.tw,8080,Homeplus
 29288,TW,Taiwan,Daan District,203.187.82.4,wd-speedtest.homeplus.net.tw,8080,Homeplus
 29862,TW,Taiwan,Taichung,203.217.97.225,speedtest.vee.com.tw.prod.hosts.ooklaserver.net,8080,VeeTIME Corp
 31648,TW,Taiwan,New Taipei,211.23.170.146,speedtest.sercomm.com,8080,Sercomm Corporation
