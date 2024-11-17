@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-63568,CA,United States,Los Angeles,198.44.223.66,speedtest.baiconnect.com.prod.hosts.ooklaserver.net,8080,BAICONNECT
-50771,DE,Germany,Frankfurt,203.23.178.65,fr5.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-45345,SG,Singapore,Singapore,5.44.249.3,speedtest-sin.melbicom.net,8080,Melbikomas UAB
-44745,HK,Hong Kong,Hong Kong,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
-62217,JP,Japan,Tokyo,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+63568,CA,United States,洛杉矶,198.44.223.66,speedtest.baiconnect.com.prod.hosts.ooklaserver.net,8080,BAICONNECT
+50771,DE,Germany,法兰克福,203.23.178.65,fr5.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+45345,SG,Singapore,新加坡,5.44.249.3,speedtest-sin.melbicom.net,8080,Melbikomas UAB
+44745,HK,Hong Kong,中国香港,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
+62217,JP,Japan,日本东京,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
