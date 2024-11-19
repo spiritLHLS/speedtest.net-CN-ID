@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-35056,CA,United States,洛杉矶,77.247.126.223,la.speedtest.clouvider.net.prod.hosts.ooklaserver.net,8080,Clouvider Ltd
-63742,DE,Germany,法兰克福,195.90.212.222,speedtest.baanthaispa.eu.prod.hosts.ooklaserver.net,8080,BaanThaiSpa
-59186,SG,Singapore,新加坡,203.123.48.1,speedtest.dcs1.biz.prod.hosts.ooklaserver.net,8080,DCS1 Pte Ltd
-60178,HK,Hong Kong,中国香港,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
-65101,JP,Japan,日本东京,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
+50165,CA,United States,Los Angeles,23.130.129.165,speedtest-la.getonward.com.prod.hosts.ooklaserver.net,8080,Onward
+37748,DE,Germany,Frankfurt,31.25.152.30,speedtest.ropa.de.prod.hosts.ooklaserver.net,8080,ropa GmbH & Co. KG
+63900,SG,Singapore,Singapore,182.23.168.253,speedtest-sg.cni.net.id,8080,PT Cyber Network Indonesia
+22126,HK,Hong Kong,Hong Kong,43.239.139.213,hk.ap.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
+60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
