@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-19230,CA,United States,洛杉矶,66.165.241.242,speedtest.lax.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
-62064,DE,Germany,法兰克福,212.68.55.3,fr.speedtest.comnet.com.tr.prod.hosts.ooklaserver.net,8080,Comnet Fiber Türkiye
-62216,SG,Singapore,新加坡,104.251.232.136,speedtest.sg220.sgp.sg.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-13538,HK,Hong Kong,中国香港,203.210.2.91,csl.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,CSL
-65414,JP,Japan,日本东京,45.142.106.103,speedtest.ty7.macarne.com.prod.hosts.ooklaserver.net,8080,Macarne LLC
+64122,CA,United States,Los Angeles,199.195.213.182,laxla0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net,8080,WiLine Networks
+55462,DE,Germany,Frankfurt,5.75.172.144,speedtest.twerion.net.prod.hosts.ooklaserver.net,8080,Twerion.net | Minecraft Server
+50344,SG,Singapore,Singapore,203.27.107.253,sg3.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+63143,HK,Hong Kong,Hong Kong,218.102.20.42,hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net,8080,Netvigator
+65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
