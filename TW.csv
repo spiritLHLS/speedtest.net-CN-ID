@@ -34,6 +34,7 @@ id,country_code,country,city,ip,host,port,supplier
 29283,TW,Taiwan,Shulin District,203.187.90.4,gh-speedtest.homeplus.net.tw,8080,Homeplus
 29288,TW,Taiwan,Daan District,203.187.82.4,wd-speedtest.homeplus.net.tw,8080,Homeplus
 29862,TW,Taiwan,Taichung,203.217.97.225,speedtest.vee.com.tw.prod.hosts.ooklaserver.net,8080,VeeTIME Corp
+30916,TW,Brazil,Formosa,131.0.56.5,speedtest.plugfibra.com.br.prod.hosts.ooklaserver.net,8080,Plug Fibra
 31648,TW,Taiwan,New Taipei,211.23.170.146,speedtest.sercomm.com,8080,Sercomm Corporation
 31940,TW,Brazil,Formosa,45.186.64.9,speed.powerconnect.net.br,8080,Power Connect
 32319,TW,Taiwan,Tainan,120.116.1.43,tnookla.tn.edu.tw,8080,TNIC
@@ -51,6 +52,5 @@ id,country_code,country,city,ip,host,port,supplier
 59321,TW,Brazil,Formosa,177.67.136.88,sp1.nexotelecom.net.prod.hosts.ooklaserver.net,8080,NEXO TELECOM
 61136,TW,Taiwan,Taipei,103.127.218.249,tpe.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 61560,TW,Taiwan,Taichung,103.127.218.248,tcg.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
-64034,TW,Argentina,Formosa,45.188.160.232,speedtest.cvcformosa.com.ar.prod.hosts.ooklaserver.net,8080,CR s.r.l - CVC Formosa
 64385,TW,Taiwan,Taipei,198.176.51.254,tpe01.speedtest.rfchost.com.prod.hosts.ooklaserver.net,8080,"Jinx Co., Limited"
 65092,TW,Taiwan,Taipei,206.148.22.75,tpe.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
