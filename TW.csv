@@ -1,5 +1,4 @@
 id,country_code,country,city,ip,host,port,supplier
-5334,TW,Taiwan,Taipei,60.199.147.33,server-5334.prod.hosts.ooklaserver.net,8080,"Taiwan Star Telecom Co., Ltd."
 7429,TW,Taiwan,Taipei,106.105.105.66,speedtest1.taipeinet.com.tw.prod.hosts.ooklaserver.net,8080,Taipeinet
 8968,TW,Taiwan,Kaohsiung,219.69.127.3,ks-speedtest.homeplus.net.tw,8080,Homeplus
 11702,TW,Taiwan,Taoyuan,60.199.147.65,sptty1.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
@@ -32,6 +31,7 @@ id,country_code,country,city,ip,host,port,supplier
 29107,TW,Taiwan,Taoyuan,210.201.72.16,srv6.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
 29253,TW,Taiwan,Kaohsiung Lingya,203.187.94.4,gd-speedtest.homeplus.net.tw,8080,Homeplus
 29283,TW,Taiwan,Shulin District,203.187.90.4,gh-speedtest.homeplus.net.tw,8080,Homeplus
+29284,TW,Taiwan,Tainan South District,203.187.93.4,sc-speedtest.homeplus.net.tw,8080,Homeplus
 29288,TW,Taiwan,Daan District,203.187.82.4,wd-speedtest.homeplus.net.tw,8080,Homeplus
 29862,TW,Taiwan,Taichung,203.217.97.225,speedtest.vee.com.tw.prod.hosts.ooklaserver.net,8080,VeeTIME Corp
 30916,TW,Brazil,Formosa,131.0.56.5,speedtest.plugfibra.com.br.prod.hosts.ooklaserver.net,8080,Plug Fibra
