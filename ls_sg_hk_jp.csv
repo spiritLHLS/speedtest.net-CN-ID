@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-61029,CA,United States,洛杉矶,107.155.99.134,postapps.com.prod.hosts.ooklaserver.net,8080,AtlasDigital
-62064,DE,Germany,法兰克福,212.68.55.3,fr.speedtest.comnet.com.tr.prod.hosts.ooklaserver.net,8080,Comnet Fiber Türkiye
-61320,SG,Singapore,新加坡,102.219.127.27,singapura.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net,8080,Angola Cables
-62193,HK,Hong Kong,中国香港,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-62217,JP,Japan,日本东京,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+57329,CA,United States,Los Angeles,23.136.232.50,speed.lax-1.serverforge.org.prod.hosts.ooklaserver.net,8080,ServerForge LLC
+54577,DE,Germany,Frankfurt,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
+50406,SG,Singapore,Singapore,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+37390,HK,Hong Kong,Hong Kong,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
+48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
