@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-57329,CA,United States,洛杉矶,23.136.232.50,speed.lax-1.serverforge.org.prod.hosts.ooklaserver.net,8080,ServerForge LLC
-54577,DE,Germany,法兰克福,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
-50406,SG,Singapore,新加坡,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
-37390,HK,Hong Kong,中国香港,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
-48463,JP,Japan,日本东京,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+19230,CA,United States,Los Angeles,66.165.241.242,speedtest.lax.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
+62943,DE,Germany,Frankfurt,212.113.116.5,lg-ffm.aeza.net.prod.hosts.ooklaserver.net,8080,Aeza.net
+13623,SG,Singapore,Singapore,165.21.70.1,speedtest.singnet.com.sg,8080,Singtel
+13538,HK,Hong Kong,Hong Kong,203.210.2.91,csl.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,CSL
+48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
