@@ -1,4 +1,5 @@
 id,country_code,country,city,ip,host,port,supplier
+7429,TW,Taiwan,Taipei,106.105.105.66,speedtest1.taipeinet.com.tw.prod.hosts.ooklaserver.net,8080,Taipeinet
 8968,TW,Taiwan,Kaohsiung,219.69.127.3,ks-speedtest.homeplus.net.tw,8080,Homeplus
 11702,TW,Taiwan,Taoyuan,60.199.147.65,sptty1.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 11703,TW,Taiwan,Taipei,60.199.147.177,spttp1.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
@@ -19,7 +20,6 @@ id,country_code,country,city,ip,host,port,supplier
 18458,TW,Taiwan,Kaohsiung,111.71.230.33,kh1.chtm.hinet.net,8080,Chunghwa Mobile
 18475,TW,Taiwan,Keelung,210.61.132.22,klv3-1.speedtest.idv.tw,8080,Chief Telecom
 18478,TW,Taiwan,Douliu,210.61.132.30,dlv3-1.speedtest.idv.tw,8080,Chief Telecom
-18480,TW,Taiwan,Taitung,210.61.132.38,ttv3-1.speedtest.idv.tw,8080,Chief Telecom
 18607,TW,Taiwan,Tainan,111.71.230.41,tn1.chtm.hinet.net,8080,Chunghwa Mobile
 18611,TW,Taiwan,Changhua,111.71.229.41,ch1.chtm.hinet.net,8080,Chunghwa Mobile
 24377,TW,Taiwan,Tainan,115.43.192.133,tn-speedtest.homeplus.net.tw,8080,Homeplus
