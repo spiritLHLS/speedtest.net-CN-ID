@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-63568,CA,United States,Los Angeles,198.44.223.66,speedtest.baiconnect.com.prod.hosts.ooklaserver.net,8080,BAICONNECT
-55462,DE,Germany,Frankfurt,5.75.172.144,speedtest.twerion.net.prod.hosts.ooklaserver.net,8080,Twerion.net | Minecraft Server
-4235,SG,Singapore,Singapore,203.116.3.14,co2dsvr03.speedtest.starhub.com.prod.hosts.ooklaserver.net,8080,StarHub Ltd
-62191,HK,Hong Kong,Hong Kong,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
-50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+63568,CA,United States,洛杉矶,198.44.223.66,speedtest.baiconnect.com.prod.hosts.ooklaserver.net,8080,BAICONNECT
+55462,DE,Germany,法兰克福,5.75.172.144,speedtest.twerion.net.prod.hosts.ooklaserver.net,8080,Twerion.net | Minecraft Server
+4235,SG,Singapore,新加坡,203.116.3.14,co2dsvr03.speedtest.starhub.com.prod.hosts.ooklaserver.net,8080,StarHub Ltd
+62191,HK,Hong Kong,中国香港,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
+50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
