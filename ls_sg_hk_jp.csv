@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-14236,CA,United States,洛杉矶,172.102.123.3,losangeles.ca.speedtest.frontier.com,8080,Frontier
-62064,DE,Germany,法兰克福,212.68.55.3,fr.speedtest.comnet.com.tr.prod.hosts.ooklaserver.net,8080,Comnet Fiber Türkiye
-44817,SG,Singapore,新加坡,61.16.64.58,speedtest.sptel.com.prod.hosts.ooklaserver.net,8080,SPTEL PTE. LTD.
-63143,HK,Hong Kong,中国香港,218.102.20.42,hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net,8080,Netvigator
-48463,JP,Japan,日本东京,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+21001,CA,United States,Los Angeles,162.255.183.26,speedtest.5x5tele.com.prod.hosts.ooklaserver.net,8080,5x5 Telecom
+55462,DE,Germany,Frankfurt,5.75.172.144,speedtest.twerion.net.prod.hosts.ooklaserver.net,8080,Twerion.net | Minecraft Server
+37744,SG,Singapore,Singapore,180.240.181.36,speedtest2.telin.sg.prod.hosts.ooklaserver.net,8080,Telekomunikasi Indonesia International Pte Ltd (Telin Singapore)
+60177,HK,Hong Kong,Hong Kong,203.210.2.92,hkt.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Club SIM by HKT
+48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
