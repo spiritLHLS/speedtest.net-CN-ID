@@ -1,20 +1,19 @@
 id,country_code,country,city,ip,host,port,supplier
-6405,JP,Japan,日本Misawa,27.0.31.50,sp3.atcc-gns.net.prod.hosts.ooklaserver.net,8080,Allied Telesis Capital Corporation
-7139,JP,Japan,日本Tsukuba,103.41.63.43,speedtest.softether.co.jp.prod.hosts.ooklaserver.net,8080,SoftEther Corporation
-8407,JP,Japan,日本Sagamihara,27.0.31.34,sp5.atcc-gns.net.prod.hosts.ooklaserver.net,8080,Allied Telesis Capital Corporation
-9022,JP,Japan,高知KingsBroadband,103.72.176.6,speedtest.kingsbroadband.net.prod.hosts.ooklaserver.net,8080,Kings Broadband
-10112,JP,Japan,高知Jio,49.45.64.214,kochooklaspeed1.jioconnect.com.prod.hosts.ooklaserver.net,8080,Jio
-14623,JP,Japan,日本Bunkyo,103.95.184.74,speed.coe.ad.jp.prod.hosts.ooklaserver.net,8080,IPA CyberLab
-21118,JP,Japan,日本Naha,103.13.250.27,speedtest-xg-oki.glbb.ne.jp.prod.hosts.ooklaserver.net,8080,GLBB Japan
-27628,JP,Japan,高知DensLtd,112.196.178.246,kochi1.denbroadband.in,8080,Den Networks Ltd
-28910,JP,Japan,东京fdcservers,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
-31181,JP,Japan,冲绳AlliedTelesis,27.0.31.66,sp7.atcc-gns.net.prod.hosts.ooklaserver.net,8080,Allied Telesis Capital Corp.
-48463,JP,Japan,东京IPACyberLab400G,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
-50467,JP,Japan,东京Verizon,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
-50686,JP,Japan,东京GSLs,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-56935,JP,Japan,东京Contabo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
-60324,JP,Japan,东京サーバーならDDPS,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
-61707,JP,Japan,高知BHARATSANCHARNIGAMLTD,117.250.238.209,bsnlooklaekm.mywire.org.prod.hosts.ooklaserver.net,8080,BHARAT SANCHAR NIGAM LTD
-62217,JP,Japan,东京CTCSCITECHLTD,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-65101,JP,Japan,东京7BULL,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
-65136,JP,Japan,日本Osaka,45.116.13.2,speedtest-kix.xtom.info.prod.hosts.ooklaserver.net,8080,xTom
+6405,JP,Japan,Misawa,27.0.31.50,sp3.atcc-gns.net.prod.hosts.ooklaserver.net,8080,Allied Telesis Capital Corporation
+7139,JP,Japan,Tsukuba,103.41.63.43,speedtest.softether.co.jp.prod.hosts.ooklaserver.net,8080,SoftEther Corporation
+8407,JP,Japan,Sagamihara,27.0.31.34,sp5.atcc-gns.net.prod.hosts.ooklaserver.net,8080,Allied Telesis Capital Corporation
+9022,JP,India,Kochi,103.72.176.6,speedtest.kingsbroadband.net.prod.hosts.ooklaserver.net,8080,Kings Broadband
+10112,JP,India,Kochi,49.45.64.214,kochooklaspeed1.jioconnect.com.prod.hosts.ooklaserver.net,8080,Jio
+14623,JP,Japan,Bunkyo,103.95.184.74,speed.coe.ad.jp.prod.hosts.ooklaserver.net,8080,IPA CyberLab
+21118,JP,Japan,Naha,103.13.250.27,speedtest-xg-oki.glbb.ne.jp.prod.hosts.ooklaserver.net,8080,GLBB Japan
+27628,JP,India,Kochi,112.196.178.246,kochi1.denbroadband.in,8080,Den Networks Ltd
+28910,JP,Japan,Tokyo,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
+31181,JP,Japan,Okinawa,27.0.31.66,sp7.atcc-gns.net.prod.hosts.ooklaserver.net,8080,Allied Telesis Capital Corp.
+48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
+61707,JP,India,Kochi,117.250.238.209,bsnlooklaekm.mywire.org.prod.hosts.ooklaserver.net,8080,BHARAT SANCHAR NIGAM LTD
+62217,JP,Japan,Tokyo,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
+65136,JP,Japan,Osaka,45.116.13.2,speedtest-kix.xtom.info.prod.hosts.ooklaserver.net,8080,xTom
