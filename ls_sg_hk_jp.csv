@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-61596,CA,United States,洛杉矶,66.146.103.162,speedtest.uia.net,8080,"Ultimate Internet Access, Inc."
-44477,DE,Germany,法兰克福,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
-5935,SG,Singapore,新加坡,103.6.148.98,speedtest.myrepublic.com.sg.prod.hosts.ooklaserver.net,8080,MyRepublic Singapore
-22126,HK,Hong Kong,中国香港,43.239.139.213,hk.ap.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
-50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+64487,CA,United States,Los Angeles,104.251.238.142,speedtest.us310.lax.us.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+62064,DE,Germany,Frankfurt,212.68.55.3,fr.speedtest.comnet.com.tr.prod.hosts.ooklaserver.net,8080,Comnet Fiber Türkiye
+59016,SG,Singapore,Singapore,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
+1536,HK,Hong Kong,Hong Kong,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
+48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
