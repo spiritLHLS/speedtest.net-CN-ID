@@ -1,22 +1,22 @@
 id,country_code,country,city,ip,host,port,supplier
-1536,HK,Hong Kong,香港STC,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
-13538,HK,Hong Kong,香港CSL,203.210.2.91,csl.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,CSL
-22126,HK,Hong Kong,香港i3D,43.239.139.213,hk.ap.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
-28912,HK,Hong Kong,香港fdcservers,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
-32155,HK,Hong Kong,香港HongKong,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
-33414,HK,Hong Kong,香港HutchisonHK,124.217.143.7,speedtest.three.com.hk,8080,Hutchison HK
-35791,HK,Hong Kong,香港SmarTone,203.78.41.10,kami.smartone.com.prod.hosts.ooklaserver.net,8080,SmarTone
-37390,HK,Hong Kong,香港HGC環電,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
-37639,HK,Hong Kong,香港HongKong,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,CMHK Broadband
-43356,HK,Hong Kong,香港1010,203.210.4.91,1010.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,1010
-44745,HK,Hong Kong,香港Misaka,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
-57779,HK,Hong Kong,香港ラタトスク,61.244.99.206,hoshiyomi.ratatoskr.org.prod.hosts.ooklaserver.net,8080,ラタトスク
-60177,HK,Hong Kong,香港HongKong,203.210.2.92,hkt.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Club SIM by HKT
-60178,HK,Hong Kong,香港SunMobile,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
-61296,HK,Hong Kong,香港HKIX,202.45.189.2,speedtest1c.hkix.net.prod.hosts.ooklaserver.net,8080,HKIX
-62167,HK,Hong Kong,香港HongKong,178.173.224.254,speedtest.hk212.hkg.cn.nerocloud.io.prod.hosts.ooklaserver.net,8080,NEROCLOUD LTD
-62191,HK,Hong Kong,香港HongKong,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
-62193,HK,Hong Kong,香港HongKong,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-63143,HK,Hong Kong,香港Netvigator,218.102.20.42,hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net,8080,Netvigator
-65463,HK,Hong Kong,香港HKBN,203.185.10.2,speedtest21.hkbn.net.prod.hosts.ooklaserver.net,8080,HKBN
-67826,HK,Hong Kong,香港FPT,1.52.247.4,speedtesthkg.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
+1536,HK,Hong Kong,Hong Kong,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
+13538,HK,Hong Kong,Hong Kong,203.210.2.91,csl.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,CSL
+22126,HK,Hong Kong,Hong Kong,43.239.139.213,hk.ap.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
+28912,HK,Hong Kong,Hong Kong,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
+32155,HK,Hong Kong,Hong Kong,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
+33414,HK,Hong Kong,Hong Kong,124.217.179.183,speedtest.three.com.hk,8080,Hutchison HK
+35791,HK,Hong Kong,Hong Kong,203.78.41.10,kami.smartone.com.prod.hosts.ooklaserver.net,8080,SmarTone
+37390,HK,Hong Kong,Hong Kong,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
+37639,HK,Hong Kong,Hong Kong,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,CMHK Broadband
+43356,HK,Hong Kong,Hong Kong,203.210.4.91,1010.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,1010
+44745,HK,Hong Kong,Hong Kong,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
+57779,HK,Hong Kong,Hong Kong,61.244.99.206,hoshiyomi.ratatoskr.org.prod.hosts.ooklaserver.net,8080,ラタトスク
+60177,HK,Hong Kong,Hong Kong,203.210.2.92,hkt.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Club SIM by HKT
+60178,HK,Hong Kong,Hong Kong,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
+61296,HK,Hong Kong,Hong Kong,202.45.189.2,speedtest1c.hkix.net.prod.hosts.ooklaserver.net,8080,HKIX
+62167,HK,Hong Kong,Hong Kong,178.173.224.254,speedtest.hk212.hkg.cn.nerocloud.io.prod.hosts.ooklaserver.net,8080,NEROCLOUD LTD
+62191,HK,Hong Kong,Hong Kong,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
+62193,HK,Hong Kong,Hong Kong,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+63143,HK,Hong Kong,Hong Kong,218.102.20.42,hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net,8080,Netvigator
+65463,HK,Hong Kong,Hong Kong,203.185.10.2,speedtest21.hkbn.net.prod.hosts.ooklaserver.net,8080,HKBN
+67826,HK,Hong Kong,Hong Kong,1.52.247.4,speedtesthkg.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
