@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-33893,CA,United States,洛杉矶,209.172.13.4,speedtest.airlink.network.prod.hosts.ooklaserver.net,8080,Airlink Internet Inc
-17312,DE,Germany,法兰克福,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
-56340,SG,Singapore,新加坡,103.172.34.131,speedtest16.lintas.net.id.prod.hosts.ooklaserver.net,8080,PT Lintas Jaringan Nusantara
-35791,HK,Hong Kong,中国香港,203.78.41.10,kami.smartone.com.prod.hosts.ooklaserver.net,8080,SmarTone
-28910,JP,Japan,日本东京,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
+64487,CA,United States,Los Angeles,104.251.238.142,speedtest.us310.lax.us.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+23095,DE,Germany,Frankfurt,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
+50406,SG,Singapore,Singapore,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+32155,HK,Hong Kong,Hong Kong,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
+28910,JP,Japan,Tokyo,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
