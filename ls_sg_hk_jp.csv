@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-19230,CA,United States,Los Angeles,66.165.241.242,speedtest.lax.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
-31120,DE,Germany,Frankfurt,94.158.241.17,speedtest-fkt-eqx.retn.net.prod.hosts.ooklaserver.net,8080,RETN
-62020,SG,Singapore,Singapore,209.146.43.37,speedtest.axclusive.com.sg.prod.hosts.ooklaserver.net,8080,Axclusive Pte Ltd
-32155,HK,Hong Kong,Hong Kong,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
-60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
+19230,CA,United States,洛杉矶,66.165.241.242,speedtest.lax.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
+31120,DE,Germany,法兰克福,94.158.241.17,speedtest-fkt-eqx.retn.net.prod.hosts.ooklaserver.net,8080,RETN
+62020,SG,Singapore,新加坡,209.146.43.37,speedtest.axclusive.com.sg.prod.hosts.ooklaserver.net,8080,Axclusive Pte Ltd
+32155,HK,Hong Kong,中国香港,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
+60324,JP,Japan,日本东京,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
