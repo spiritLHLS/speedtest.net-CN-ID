@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-48044,CA,United States,Los Angeles,88.210.36.42,speedtest-lax.melbicom.net,8080,Melbicom
-17312,DE,Germany,Frankfurt,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
-44817,SG,Singapore,Singapore,61.16.64.58,speedtest.sptel.com.prod.hosts.ooklaserver.net,8080,SPTEL PTE. LTD.
-62193,HK,Hong Kong,Hong Kong,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+48044,CA,United States,洛杉矶,88.210.36.42,speedtest-lax.melbicom.net,8080,Melbicom
+17312,DE,Germany,法兰克福,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
+44817,SG,Singapore,新加坡,61.16.64.58,speedtest.sptel.com.prod.hosts.ooklaserver.net,8080,SPTEL PTE. LTD.
+62193,HK,Hong Kong,中国香港,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+48463,JP,Japan,日本东京,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
