@@ -41,6 +41,7 @@ id,country_code,country,city,ip,host,port,supplier
 32319,TW,Taiwan,Tainan,120.116.1.43,tnookla.tn.edu.tw,8080,TNIC
 36071,TW,Taiwan,Taipei,103.246.219.98,speedtest.imcloud.tw.prod.hosts.ooklaserver.net,8080,"Sky Digital Co., Ltd"
 36122,TW,Taiwan,Tainan,123.205.190.221,speedtestookla.hya.tw.prod.hosts.ooklaserver.net,8080,HYA
+36634,TW,Taiwan,Taoyuan District,211.77.43.112,seednet-ty1.seed.net.tw.prod.hosts.ooklaserver.net,8080,SEEDNET
 41191,TW,Taiwan,Chiayi,203.105.224.14,sptcy2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 42192,TW,Taiwan,New Taipei,103.129.168.8,speedtest.host.com.tw.prod.hosts.ooklaserver.net,8080,Yuan-Jhen Info
 43206,TW,Taiwan,New Taipei,61.216.9.49,askeycsit.dyndns-ip.com.prod.hosts.ooklaserver.net,8080,AKENR
@@ -49,6 +50,6 @@ id,country_code,country,city,ip,host,port,supplier
 55261,TW,Taiwan,Taichung,61.60.226.2,speedtest.tinp.net.tw,8080,Tinp
 56277,TW,Taiwan,Miaoli City,203.105.239.22,sptdl2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 59180,TW,Taiwan,Taipei City,103.186.118.247,ookla-speedtest.starverse.network.prod.hosts.ooklaserver.net,8080,Starverse Network
-59321,TW,Brazil,Formosa,177.67.136.88,sp1.nexotelecom.net.prod.hosts.ooklaserver.net,8080,NEXO TELECOM
 61136,TW,Taiwan,Taipei,103.127.218.249,tpe.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 61560,TW,Taiwan,Taichung,103.127.218.248,tcg.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
+65092,TW,Taiwan,Taipei,206.148.22.75,tpe.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
