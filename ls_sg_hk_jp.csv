@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-50081,CA,United States,洛杉矶,203.10.97.253,la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-25633,DE,Germany,法兰克福,185.53.218.24,speedtest3.dacor.de.prod.hosts.ooklaserver.net,8080,suec//dacor GmbH
-5935,SG,Singapore,新加坡,103.6.148.98,speedtest.myrepublic.com.sg.prod.hosts.ooklaserver.net,8080,MyRepublic Singapore
-22126,HK,Hong Kong,中国香港,43.239.139.213,hk.ap.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
-50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+14236,CA,United States,Los Angeles,172.102.123.253,losangeles.ca.speedtest.frontier.com,8080,Frontier
+23095,DE,Germany,Frankfurt,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
+23467,SG,Singapore,Singapore,103.111.59.250,speedtest-sg.iconpln.net.id.prod.hosts.ooklaserver.net,8080,PT. Indonesia Comnets Plus
+62167,HK,Hong Kong,Hong Kong,178.173.224.254,speedtest.hk212.hkg.cn.nerocloud.io.prod.hosts.ooklaserver.net,8080,NEROCLOUD LTD
+62217,JP,Japan,Tokyo,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
