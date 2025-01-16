@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-14236,CA,United States,Los Angeles,172.102.123.253,losangeles.ca.speedtest.frontier.com,8080,Frontier
-37748,DE,Germany,Frankfurt,31.25.152.30,speedtest.ropa.de.prod.hosts.ooklaserver.net,8080,ropa GmbH & Co. KG
-4235,SG,Singapore,Singapore,203.116.3.14,co2dsvr03.speedtest.starhub.com.prod.hosts.ooklaserver.net,8080,StarHub Ltd
-33414,HK,Hong Kong,Hong Kong,124.217.142.7,speedtest.three.com.hk,8080,Hutchison HK
-60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
+14236,CA,United States,洛杉矶,172.102.123.253,losangeles.ca.speedtest.frontier.com,8080,Frontier
+37748,DE,Germany,法兰克福,31.25.152.30,speedtest.ropa.de.prod.hosts.ooklaserver.net,8080,ropa GmbH & Co. KG
+4235,SG,Singapore,新加坡,203.116.3.14,co2dsvr03.speedtest.starhub.com.prod.hosts.ooklaserver.net,8080,StarHub Ltd
+33414,HK,Hong Kong,中国香港,124.217.142.7,speedtest.three.com.hk,8080,Hutchison HK
+60324,JP,Japan,日本东京,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
