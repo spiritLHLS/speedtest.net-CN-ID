@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-61318,CA,United States,Los Angeles,102.219.127.229,losangeles.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net,8080,Angola Cables
-63028,DE,Germany,Frankfurt,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
-26654,SG,Singapore,Singapore,50.7.253.4,lg-sin.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
-22126,HK,Hong Kong,Hong Kong,43.239.139.213,hk.ap.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
-56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+61318,CA,United States,洛杉矶,102.219.127.229,losangeles.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net,8080,Angola Cables
+63028,DE,Germany,法兰克福,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
+26654,SG,Singapore,新加坡,50.7.253.4,lg-sin.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
+22126,HK,Hong Kong,中国香港,43.239.139.213,hk.ap.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
+56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
