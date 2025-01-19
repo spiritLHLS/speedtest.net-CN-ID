@@ -46,13 +46,17 @@ bash <(wget -qO- --no-check-certificate https://ghproxy.com/https://raw.githubus
 
 ## 交流
 
-admin@spiritlhl.net
+https://t.me/spiritlhl_bot
 
 # 免责声明
 
 * 本仓库仅供学习
 * 不可用于商业以及非法目的，使用本仓库代码产生的一切后果, 作者不承担任何责任.
 * 本仓库链接仅网络收集，侵权告知必删，使用相关链接产生的一切后果，作者不承担任何责任。
+
+## 广告
+
+[<img src="https://api.gitsponsors.com/api/badge/img?id=619166407" height="20">](https://api.gitsponsors.com/api/badge/link?p=4oLCs10Pt2wpvkeCKx5Z2qGtCL5/vFWcmDcy6bjorSQN0qc3/Riw/9RVfVJ7QItX)
 
 ## Special statement:
 
