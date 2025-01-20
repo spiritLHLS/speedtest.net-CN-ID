@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-61318,CA,United States,洛杉矶,102.219.127.229,losangeles.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net,8080,Angola Cables
-63028,DE,Germany,法兰克福,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
-26654,SG,Singapore,新加坡,50.7.253.4,lg-sin.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
-22126,HK,Hong Kong,中国香港,43.239.139.213,hk.ap.speedtest.i3d.net.prod.hosts.ooklaserver.net,8080,i3D.net
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+35056,CA,United States,Los Angeles,77.247.126.223,la.speedtest.clouvider.net.prod.hosts.ooklaserver.net,8080,Clouvider Ltd
+17312,DE,Germany,Frankfurt,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
+63375,SG,Singapore,Singapore,113.192.10.2,speedtest.sg.hsp.net.id.prod.hosts.ooklaserver.net,8080,ION Network
+61296,HK,Hong Kong,Hong Kong,202.45.189.2,speedtest1c.hkix.net.prod.hosts.ooklaserver.net,8080,HKIX
+48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
