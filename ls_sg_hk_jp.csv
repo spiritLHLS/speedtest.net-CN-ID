@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-56370,CA,United States,洛杉矶,66.114.152.44,speedtest.la2.gigabitnow.com.prod.hosts.ooklaserver.net,8080,GigabitNow
-54504,DE,Germany,法兰克福,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
-12687,SG,Singapore,新加坡,210.10.78.220,speedtest-sg1.simba.sg,8080,SIMBA Telecom
-65463,HK,Hong Kong,中国香港,203.185.10.2,speedtest21.hkbn.net.prod.hosts.ooklaserver.net,8080,HKBN
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+61417,CA,United States,Los Angeles,118.26.149.86,laspeed.chinaunicomglobal.com,8080,China Unicom Global Ltd
+40094,DE,Germany,Frankfurt,45.148.5.61,speedtestde.pvdatanet.com.prod.hosts.ooklaserver.net,8080,PVDataNet
+4235,SG,Singapore,Singapore,203.116.3.14,co2dsvr03.speedtest.starhub.com.prod.hosts.ooklaserver.net,8080,StarHub Ltd
+1536,HK,Hong Kong,Hong Kong,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
+62217,JP,Japan,Tokyo,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
