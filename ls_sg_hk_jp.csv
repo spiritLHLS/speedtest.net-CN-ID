@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-14236,CA,United States,洛杉矶,172.102.123.3,losangeles.ca.speedtest.frontier.com,8080,Frontier
-55462,DE,Germany,法兰克福,5.75.172.144,speedtest.twerion.net.prod.hosts.ooklaserver.net,8080,Twerion.net | Minecraft Server
-50344,SG,Singapore,新加坡,203.27.107.253,sg3.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-37695,HK,Hong Kong,中国香港,203.160.94.124,cugspeed.chinaunicomglobal.com,8080,China Unicom Global Ltd
-50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+12191,CA,United States,Los Angeles,45.61.24.162,speedtest.lax1.nitelusa.net.prod.hosts.ooklaserver.net,8080,Nitel
+63742,DE,Germany,Frankfurt,195.90.212.222,speedtest.baanthaispa.eu.prod.hosts.ooklaserver.net,8080,BaanThaiSpa
+56066,SG,Singapore,Singapore,202.70.133.12,speedtest.herza.cloud.prod.hosts.ooklaserver.net,8080,PT Herza Digital Indonesia
+37390,HK,Hong Kong,Hong Kong,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
+48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
