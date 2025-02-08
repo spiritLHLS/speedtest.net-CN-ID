@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-61029,CA,United States,洛杉矶,107.155.99.134,postapps.com.prod.hosts.ooklaserver.net,8080,AtlasDigital
-25633,DE,Germany,法兰克福,185.53.218.24,speedtest3.dacor.de.prod.hosts.ooklaserver.net,8080,suec//dacor GmbH
-23467,SG,Singapore,新加坡,103.111.59.250,speedtest-sg.iconpln.net.id.prod.hosts.ooklaserver.net,8080,PT. Indonesia Comnets Plus
-37695,HK,Hong Kong,中国香港,203.160.94.124,cugspeed.chinaunicomglobal.com,8080,China Unicom Global Ltd
-50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+60694,CA,United States,Los Angeles,45.8.22.37,speedtest-lax.advinservers.com.prod.hosts.ooklaserver.net,8080,Advin Servers
+63742,DE,Germany,Frankfurt,195.90.212.222,speedtest.baanthaispa.eu.prod.hosts.ooklaserver.net,8080,BaanThaiSpa
+62020,SG,Singapore,Singapore,209.146.43.37,speedtest.axclusive.com.sg.prod.hosts.ooklaserver.net,8080,Axclusive Pte Ltd
+62191,HK,Hong Kong,Hong Kong,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
+65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
