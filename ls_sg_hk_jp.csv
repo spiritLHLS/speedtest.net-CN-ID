@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-68329,CA,United States,洛杉矶,76.72.161.54,spt-lax1.edgeuno.com.prod.hosts.ooklaserver.net,8080,EdgeUno
-17312,DE,Germany,法兰克福,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
-50344,SG,Singapore,新加坡,203.27.107.253,sg3.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-14333,HK,Hong Kong,中国香港,45.196.236.226,speedtesthk1.sakuraclouds.com.prod.hosts.ooklaserver.net,8080,Sakura Clouds LLC
-50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+54653,CA,United States,Los Angeles,35.33.183.250,speedtest-lax.dish-wireless.com.prod.hosts.ooklaserver.net,8080,Boost Mobile
+44477,DE,Germany,Frankfurt,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
+56066,SG,Singapore,Singapore,202.70.133.12,speedtest.herza.cloud.prod.hosts.ooklaserver.net,8080,PT Herza Digital Indonesia
+1536,HK,Hong Kong,Hong Kong,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
+65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
