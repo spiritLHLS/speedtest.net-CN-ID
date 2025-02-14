@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-5905,CA,United States,Los Angeles,66.55.88.26,speedtest.lax.gigenet.com.prod.hosts.ooklaserver.net,8080,GigeNET
-25633,DE,Germany,Frankfurt,185.53.218.24,speedtest3.dacor.de.prod.hosts.ooklaserver.net,8080,suec//dacor GmbH
-62216,SG,Singapore,Singapore,104.251.232.136,speedtest.sg220.sgp.sg.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-35791,HK,Hong Kong,Hong Kong,203.78.41.10,kami.smartone.com.prod.hosts.ooklaserver.net,8080,SmarTone
-48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+5905,CA,United States,洛杉矶,66.55.88.26,speedtest.lax.gigenet.com.prod.hosts.ooklaserver.net,8080,GigeNET
+25633,DE,Germany,法兰克福,185.53.218.24,speedtest3.dacor.de.prod.hosts.ooklaserver.net,8080,suec//dacor GmbH
+62216,SG,Singapore,新加坡,104.251.232.136,speedtest.sg220.sgp.sg.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+35791,HK,Hong Kong,中国香港,203.78.41.10,kami.smartone.com.prod.hosts.ooklaserver.net,8080,SmarTone
+48463,JP,Japan,日本东京,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
