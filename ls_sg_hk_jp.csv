@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-9916,CA,United States,洛杉矶,192.240.120.250,lg-lax.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
-54504,DE,Germany,法兰克福,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
-62530,SG,Singapore,新加坡,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL
-62193,HK,Hong Kong,中国香港,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+50081,CA,United States,Los Angeles,203.10.97.253,la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+37748,DE,Germany,Frankfurt,31.25.152.30,speedtest.ropa.de.prod.hosts.ooklaserver.net,8080,ropa GmbH & Co. KG
+44817,SG,Singapore,Singapore,61.16.64.58,speedtest.sptel.com.prod.hosts.ooklaserver.net,8080,SPTEL PTE. LTD.
+60178,HK,Hong Kong,Hong Kong,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
+65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
