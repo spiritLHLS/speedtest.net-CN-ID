@@ -1,7 +1,7 @@
 id,country_code,country,city,ip,host,port,supplier
 4575,CN,China,Chengdu,112.45.112.82,speedtest1.sc.chinamobile.com,8080,China Mobile Group Sichuan
 5396,CN,China,Suzhou,115.169.22.130,4gsuzhou1.speedtest.jsinfo.net.prod.hosts.ooklaserver.net,8080,China Telecom JiangSu 5G
-16204,CN,China,Suzhou,36.156.46.51,speedtest.jsqiuying.com,8080,JSQY - Suzhou
+16204,CN,China,Suzhou,36.156.46.53,speedtest.jsqiuying.com,8080,JSQY - Suzhou
 24447,CN,China,Shanghai,139.226.226.34,mobile.shunicomtest.com.prod.hosts.ooklaserver.net,8080,China Unicom 5G
 30852,CN,China,Kunshan,180.208.59.230,speedtest.dukekunshan.edu.cn,8080,Duke Kunshan University
 36663,CN,China,Zhenjiang,115.168.74.186,5gzhenjiang.speedtest.jsinfo.net.prod.hosts.ooklaserver.net,8080,China Telecom JiangSu 5G
@@ -10,3 +10,4 @@ id,country_code,country,city,ip,host,port,supplier
 59387,CN,China,NingBo,61.153.82.77,cesu-nb.zjtelecom.com.cn.prod.hosts.ooklaserver.net,8080,浙江电信
 60584,CN,China,ShenZhen,221.179.46.222,speedtest1.dpdfsd.com.prod.hosts.ooklaserver.net,8080,ShenZhen-5G
 60794,CN,China,Guangzhou,221.179.46.218,speedtest2.dpdfsd.com.prod.hosts.ooklaserver.net,8080,GuangZhou-5G
+64314,CN,China,Chengdu,175.153.189.102,cuscspeed.169ol.com.prod.hosts.ooklaserver.net,8080,ChinaUnicom Sichuan

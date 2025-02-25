@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-57682,CA,United States,洛杉矶,142.129.0.67,lsanca-speedtest-ookla-02.st.charter.com,8080,Spectrum
-23095,DE,Germany,法兰克福,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
-45345,SG,Singapore,新加坡,5.44.249.3,speedtest-sin.melbicom.net,8080,Melbikomas UAB
-60178,HK,Hong Kong,中国香港,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
-65101,JP,Japan,日本东京,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
+5905,CA,United States,Los Angeles,66.55.88.26,speedtest.lax.gigenet.com.prod.hosts.ooklaserver.net,8080,GigeNET
+63028,DE,Germany,Frankfurt,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
+63375,SG,Singapore,Singapore,113.192.10.2,speedtest.sg.hsp.net.id.prod.hosts.ooklaserver.net,8080,ION Network
+61296,HK,Hong Kong,Hong Kong,202.45.189.2,speedtest1c.hkix.net.prod.hosts.ooklaserver.net,8080,HKIX
+62217,JP,Japan,Tokyo,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
