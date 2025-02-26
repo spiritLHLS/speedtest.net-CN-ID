@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-5905,CA,United States,洛杉矶,66.55.88.26,speedtest.lax.gigenet.com.prod.hosts.ooklaserver.net,8080,GigeNET
-63028,DE,Germany,法兰克福,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
-63375,SG,Singapore,新加坡,113.192.10.2,speedtest.sg.hsp.net.id.prod.hosts.ooklaserver.net,8080,ION Network
-61296,HK,Hong Kong,中国香港,202.45.189.2,speedtest1c.hkix.net.prod.hosts.ooklaserver.net,8080,HKIX
-62217,JP,Japan,日本东京,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+13516,CA,United States,Los Angeles,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
+31120,DE,Germany,Frankfurt,94.158.241.17,speedtest-fkt-eqx.retn.net.prod.hosts.ooklaserver.net,8080,RETN
+50406,SG,Singapore,Singapore,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+65463,HK,Hong Kong,Hong Kong,203.185.10.2,speedtest21.hkbn.net.prod.hosts.ooklaserver.net,8080,HKBN
+28910,JP,Japan,Tokyo,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
