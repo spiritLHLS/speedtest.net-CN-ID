@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-13516,CA,United States,洛杉矶,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
-31120,DE,Germany,法兰克福,94.158.241.17,speedtest-fkt-eqx.retn.net.prod.hosts.ooklaserver.net,8080,RETN
-50406,SG,Singapore,新加坡,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
-65463,HK,Hong Kong,中国香港,203.185.10.2,speedtest21.hkbn.net.prod.hosts.ooklaserver.net,8080,HKBN
-28910,JP,Japan,日本东京,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
+42683,CA,United States,Los Angeles,74.81.44.94,speedtest-lax.perfectip.net,8080,PerfectIP.net
+64841,DE,Germany,Frankfurt,95.210.91.11,fra1speedtest01.skylogic.com,8080,EUTELSAT COMMUNICATIONS SA
+4235,SG,Singapore,Singapore,203.116.3.14,co2dsvr03.speedtest.starhub.com.prod.hosts.ooklaserver.net,8080,StarHub Ltd
+62167,HK,Hong Kong,Hong Kong,178.173.224.254,speedtest.hk212.hkg.cn.nerocloud.io.prod.hosts.ooklaserver.net,8080,NEROCLOUD LTD
+56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
