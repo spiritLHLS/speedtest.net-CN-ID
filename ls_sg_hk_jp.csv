@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-42683,CA,United States,洛杉矶,74.81.44.94,speedtest-lax.perfectip.net,8080,PerfectIP.net
-64841,DE,Germany,法兰克福,95.210.91.11,fra1speedtest01.skylogic.com,8080,EUTELSAT COMMUNICATIONS SA
-4235,SG,Singapore,新加坡,203.116.3.14,co2dsvr03.speedtest.starhub.com.prod.hosts.ooklaserver.net,8080,StarHub Ltd
-62167,HK,Hong Kong,中国香港,178.173.224.254,speedtest.hk212.hkg.cn.nerocloud.io.prod.hosts.ooklaserver.net,8080,NEROCLOUD LTD
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+54653,CA,United States,Los Angeles,35.33.183.250,speedtest-lax.dish-wireless.com.prod.hosts.ooklaserver.net,8080,Boost Mobile
+25633,DE,Germany,Frankfurt,185.53.218.24,speedtest3.dacor.de.prod.hosts.ooklaserver.net,8080,suec//dacor GmbH
+51839,SG,Singapore,Singapore,103.225.148.3,speedtest.singapore.globalxtreme.net.prod.hosts.ooklaserver.net,8080,GlobalXtreme
+60177,HK,Hong Kong,Hong Kong,203.210.2.92,hkt.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Club SIM by HKT
+28910,JP,Japan,Tokyo,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
