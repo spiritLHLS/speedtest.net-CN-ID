@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-50081,CA,United States,洛杉矶,203.10.97.253,la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-25633,DE,Germany,法兰克福,185.53.218.24,speedtest3.dacor.de.prod.hosts.ooklaserver.net,8080,suec//dacor GmbH
-62216,SG,Singapore,新加坡,104.251.232.136,speedtest.sg220.sgp.sg.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-61296,HK,Hong Kong,中国香港,202.45.189.2,speedtest1c.hkix.net.prod.hosts.ooklaserver.net,8080,HKIX
-50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+52470,CA,United States,Los Angeles,185.45.195.40,speedtest-la.hostsailor.com.prod.hosts.ooklaserver.net,8080,Host Sailor Ltd
+18667,DE,Germany,Frankfurt,185.37.147.2,speedtest.meerfarbig.net.prod.hosts.ooklaserver.net,8080,meerfarbig GmbH & Co. KG
+62530,SG,Singapore,Singapore,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL
+62191,HK,Hong Kong,Hong Kong,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
+50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
