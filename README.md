@@ -2,7 +2,7 @@
 
 [![Update](https://github.com/spiritLHLS/speedtest.net-CN-ID/actions/workflows/main.yml/badge.svg)](https://github.com/spiritLHLS/speedtest.net-CN-ID/actions/workflows/main.yml)
 
-[<img src="https://api.gitsponsors.com/api/badge/img?id=619166407" height="20">](https://api.gitsponsors.com/api/badge/link?p=4oLCs10Pt2wpvkeCKx5Z2kdiFGSjh7gF0kI3/4y0cnzUdpGWvz972eVqiBWBQGD0vvgWtZJg3NPEK1ZhlAK+UpZ/QQ24Vf7/8QpiP4qX/69PF0KlldRnyXnQ0aHJAdzOsZjQNquUA+Kgb+gmanNZIw==)
+
 
 ## 说明
 
