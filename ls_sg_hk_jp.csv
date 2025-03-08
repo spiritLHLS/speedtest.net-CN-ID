@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-52470,CA,United States,Los Angeles,185.45.195.40,speedtest-la.hostsailor.com.prod.hosts.ooklaserver.net,8080,Host Sailor Ltd
-54577,DE,Germany,Frankfurt,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
-54359,SG,Singapore,Singapore,115.146.113.46,speedtest-sg.napinfo.co.id.prod.hosts.ooklaserver.net,8080,Matrix NAP Info
-68983,HK,Hong Kong,Hong Kong,103.194.237.34,speedtest-hkg.retn.net.prod.hosts.ooklaserver.net,8080,RETN
-50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+52470,CA,United States,洛杉矶,185.45.195.40,speedtest-la.hostsailor.com.prod.hosts.ooklaserver.net,8080,Host Sailor Ltd
+54577,DE,Germany,法兰克福,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
+54359,SG,Singapore,新加坡,115.146.113.46,speedtest-sg.napinfo.co.id.prod.hosts.ooklaserver.net,8080,Matrix NAP Info
+68983,HK,Hong Kong,中国香港,103.194.237.34,speedtest-hkg.retn.net.prod.hosts.ooklaserver.net,8080,RETN
+50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
