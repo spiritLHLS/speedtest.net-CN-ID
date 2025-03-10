@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-13516,CA,United States,Los Angeles,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
-62943,DE,Germany,Frankfurt,212.113.116.5,lg-ffm.aeza.net.prod.hosts.ooklaserver.net,8080,Aeza.net
-50406,SG,Singapore,Singapore,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
-37695,HK,Hong Kong,Hong Kong,203.160.94.124,cugspeed.chinaunicomglobal.com,8080,China Unicom Global Ltd
-28910,JP,Japan,Tokyo,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
+13516,CA,United States,洛杉矶,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
+62943,DE,Germany,法兰克福,212.113.116.5,lg-ffm.aeza.net.prod.hosts.ooklaserver.net,8080,Aeza.net
+50406,SG,Singapore,新加坡,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+37695,HK,Hong Kong,中国香港,203.160.94.124,cugspeed.chinaunicomglobal.com,8080,China Unicom Global Ltd
+28910,JP,Japan,日本东京,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
