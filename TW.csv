@@ -18,7 +18,6 @@ id,country_code,country,city,ip,host,port,supplier
 18452,TW,Taiwan,Taoyuan,111.71.228.33,ty1.chtm.hinet.net.prod.hosts.ooklaserver.net,8080,Chunghwa Mobile
 18456,TW,Taiwan,Taichung,111.71.229.33,tc1.chtm.hinet.net,8080,Chunghwa Mobile
 18458,TW,Taiwan,Kaohsiung,111.71.230.33,kh1.chtm.hinet.net,8080,Chunghwa Mobile
-18475,TW,Taiwan,Keelung,210.61.132.22,klv3-1.speedtest.idv.tw,8080,Chief Telecom
 18478,TW,Taiwan,Douliu,210.61.132.30,dlv3-1.speedtest.idv.tw,8080,Chief Telecom
 18480,TW,Taiwan,Taitung,210.61.132.38,ttv3-1.speedtest.idv.tw,8080,Chief Telecom
 18607,TW,Taiwan,Tainan,111.71.230.41,tn1.chtm.hinet.net,8080,Chunghwa Mobile
@@ -36,6 +35,7 @@ id,country_code,country,city,ip,host,port,supplier
 29862,TW,Taiwan,Taichung,203.217.97.225,speedtest.vee.com.tw.prod.hosts.ooklaserver.net,8080,VeeTIME Corp
 31648,TW,Taiwan,New Taipei,211.23.170.146,speedtest.sercomm.com,8080,Sercomm Corporation
 31940,TW,Brazil,Formosa,45.186.64.9,speed.powerconnect.net.br,8080,Power Connect
+32319,TW,Taiwan,Tainan,120.116.1.43,tnookla.tn.edu.tw,8080,TNIC
 36071,TW,Taiwan,Taipei,103.246.219.98,speedtest.imcloud.tw.prod.hosts.ooklaserver.net,8080,"Sky Digital Co., Ltd"
 36122,TW,Taiwan,Tainan,123.205.190.221,speedtestookla.hya.tw.prod.hosts.ooklaserver.net,8080,HYA
 40742,TW,Argentina,Formosa,45.175.140.18,speedtest.bocarojasa.com.ar.prod.hosts.ooklaserver.net,8080,Boca Roja SA
