@@ -13,7 +13,6 @@ id,country_code,country,city,ip,host,port,supplier
 12583,TW,Taiwan,New Taipei,60.199.137.193,sb-speedtest-1.twmbroadband.net.prod.hosts.ooklaserver.net,8080,TFN Media
 13506,TW,Taiwan,Taipei,103.31.196.221,speedtest.taifo.com.tw.prod.hosts.ooklaserver.net,8080,TAIFO Taiwan
 18445,TW,Taiwan,Taipei,111.71.227.33,tp1.chtm.hinet.net.prod.hosts.ooklaserver.net,8080,Chunghwa Mobile
-18447,TW,Taiwan,New Taipei,111.71.227.41,ntp1.chtm.hinet.net,8080,Chunghwa Mobile
 18450,TW,Taiwan,Hsinchu,111.71.228.41,hc1.chtm.hinet.net,8080,Chunghwa Mobile
 18452,TW,Taiwan,Taoyuan,111.71.228.33,ty1.chtm.hinet.net.prod.hosts.ooklaserver.net,8080,Chunghwa Mobile
 18456,TW,Taiwan,Taichung,111.71.229.33,tc1.chtm.hinet.net,8080,Chunghwa Mobile
@@ -48,4 +47,3 @@ id,country_code,country,city,ip,host,port,supplier
 59180,TW,Taiwan,Taipei City,103.186.118.247,ookla-speedtest.starverse.network.prod.hosts.ooklaserver.net,8080,Starverse Network
 61136,TW,Taiwan,Taipei,103.127.218.249,tpe.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 61560,TW,Taiwan,Taichung,103.127.218.248,tcg.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
-65092,TW,Taiwan,Taipei,206.148.22.75,tpe.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
