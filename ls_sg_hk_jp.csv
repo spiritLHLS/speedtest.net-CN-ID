@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-64122,CA,United States,洛杉矶,199.195.213.182,laxla0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net,8080,WiLine Networks
-44477,DE,Germany,法兰克福,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
-45345,SG,Singapore,新加坡,5.44.249.3,speedtest-sin.melbicom.net,8080,Melbikomas UAB
-62191,HK,Hong Kong,中国香港,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
-50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+56370,CA,United States,Los Angeles,66.114.152.44,speedtest.la2.gigabitnow.com.prod.hosts.ooklaserver.net,8080,GigabitNow
+62943,DE,Germany,Frankfurt,212.113.116.5,lg-ffm.aeza.net.prod.hosts.ooklaserver.net,8080,Aeza.net
+13623,SG,Singapore,Singapore,165.21.70.1,speedtest.singnet.com.sg,8080,Singtel
+62167,HK,Hong Kong,Hong Kong,178.173.224.254,speedtest.hk212.hkg.cn.nerocloud.io.prod.hosts.ooklaserver.net,8080,NEROCLOUD LTD
+28910,JP,Japan,Tokyo,50.7.159.4,lg-tok.fdcservers.net.prod.hosts.ooklaserver.net,8080,fdcservers.net
