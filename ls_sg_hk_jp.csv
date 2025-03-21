@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-57682,CA,United States,Los Angeles,142.129.0.67,lsanca-speedtest-ookla-02.st.charter.com,8080,Spectrum
-31120,DE,Germany,Frankfurt,94.158.241.17,speedtest-fkt-eqx.retn.net.prod.hosts.ooklaserver.net,8080,RETN
-50406,SG,Singapore,Singapore,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
-63143,HK,Hong Kong,Hong Kong,218.102.20.42,hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net,8080,Netvigator
-50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+57682,CA,United States,洛杉矶,142.129.0.67,lsanca-speedtest-ookla-02.st.charter.com,8080,Spectrum
+31120,DE,Germany,法兰克福,94.158.241.17,speedtest-fkt-eqx.retn.net.prod.hosts.ooklaserver.net,8080,RETN
+50406,SG,Singapore,新加坡,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+63143,HK,Hong Kong,中国香港,218.102.20.42,hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net,8080,Netvigator
+50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
