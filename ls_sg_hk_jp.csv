@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-21001,CA,United States,洛杉矶,162.255.183.26,speedtest.5x5tele.com.prod.hosts.ooklaserver.net,8080,5x5 Telecom
-54504,DE,Germany,法兰克福,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
-54359,SG,Singapore,新加坡,115.146.113.46,speedtest-sg.napinfo.co.id.prod.hosts.ooklaserver.net,8080,Matrix NAP Info
-37639,HK,Hong Kong,中国香港,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,CMHK Broadband
-50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+52311,CA,United States,Los Angeles,164.68.254.15,speedtestla.gethotwired.com.prod.hosts.ooklaserver.net,8080,Hotwire Fision
+31120,DE,Germany,Frankfurt,94.158.241.17,speedtest-fkt-eqx.retn.net.prod.hosts.ooklaserver.net,8080,RETN
+44817,SG,Singapore,Singapore,61.16.64.58,speedtest.sptel.com.prod.hosts.ooklaserver.net,8080,SPTEL PTE. LTD.
+68983,HK,Hong Kong,Hong Kong,103.194.237.34,speedtest-hkg.retn.net.prod.hosts.ooklaserver.net,8080,RETN
+62217,JP,Japan,Tokyo,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
