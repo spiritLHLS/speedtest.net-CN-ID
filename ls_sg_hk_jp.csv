@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-69314,CA,United States,洛杉矶,23.134.124.64,spt2.valexcloud.com,8080,Valex Cloud LLC
-54577,DE,Germany,法兰克福,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
-4235,SG,Singapore,新加坡,203.116.3.14,co2dsvr03.speedtest.starhub.com.prod.hosts.ooklaserver.net,8080,StarHub Ltd
-62193,HK,Hong Kong,中国香港,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-62217,JP,Japan,日本东京,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+18229,CA,United States,Los Angeles,8.3.86.3,speedtest-server-lax.starry.com.prod.hosts.ooklaserver.net,8080,"Starry, Inc."
+68177,DE,United Germany,Frankfurt,66.206.25.57,speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
+63375,SG,Singapore,Singapore,113.192.10.2,speedtest.sg.hsp.net.id.prod.hosts.ooklaserver.net,8080,ION Network
+32155,HK,Hong Kong,Hong Kong,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
+50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
