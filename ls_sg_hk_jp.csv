@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-69314,CA,United States,Los Angeles,23.134.124.64,spt2.valexcloud.com,8080,Valex Cloud LLC
-54504,DE,Germany,Frankfurt,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
-42688,SG,Singapore,Singapore,112.215.198.21,speedtest-intl.xl.co.id.prod.hosts.ooklaserver.net,8080,PT XL Axiata Tbk
-43356,HK,Hong Kong,Hong Kong,203.210.4.91,1010.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,1010
-50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+69314,CA,United States,洛杉矶,23.134.124.64,spt2.valexcloud.com,8080,Valex Cloud LLC
+54504,DE,Germany,法兰克福,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
+42688,SG,Singapore,新加坡,112.215.198.21,speedtest-intl.xl.co.id.prod.hosts.ooklaserver.net,8080,PT XL Axiata Tbk
+43356,HK,Hong Kong,中国香港,203.210.4.91,1010.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,1010
+50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
