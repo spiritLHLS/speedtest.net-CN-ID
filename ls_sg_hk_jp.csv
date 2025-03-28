@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-69314,CA,United States,洛杉矶,23.134.124.64,spt2.valexcloud.com,8080,Valex Cloud LLC
-54504,DE,Germany,法兰克福,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
-42688,SG,Singapore,新加坡,112.215.198.21,speedtest-intl.xl.co.id.prod.hosts.ooklaserver.net,8080,PT XL Axiata Tbk
-43356,HK,Hong Kong,中国香港,203.210.4.91,1010.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,1010
-50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+35056,CA,United States,Los Angeles,77.247.126.223,la.speedtest.clouvider.net.prod.hosts.ooklaserver.net,8080,Clouvider Ltd
+37492,DE,Germany,Frankfurt,92.119.89.90,speedtest-fra.melbicom.net,8080,Melbicom
+67827,SG,Singapore,Singapore,1.52.247.12,speedtestsgp.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
+62167,HK,Hong Kong,Hong Kong,178.173.224.254,speedtest.hk212.hkg.cn.nerocloud.io.prod.hosts.ooklaserver.net,8080,NEROCLOUD LTD
+56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
