@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-13516,CA,United States,Los Angeles,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
-37492,DE,Germany,Frankfurt,92.119.89.90,speedtest-fra.melbicom.net,8080,Melbicom
-4235,SG,Singapore,Singapore,203.116.3.14,co2dsvr03.speedtest.starhub.com.prod.hosts.ooklaserver.net,8080,StarHub Ltd
-69119,HK,Hong Kong,Hong Kong,198.176.54.23,speedtest.rfchost.net.prod.hosts.ooklaserver.net,8080,RFCHOST
-65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
+13516,CA,United States,洛杉矶,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
+37492,DE,Germany,法兰克福,92.119.89.90,speedtest-fra.melbicom.net,8080,Melbicom
+4235,SG,Singapore,新加坡,203.116.3.14,co2dsvr03.speedtest.starhub.com.prod.hosts.ooklaserver.net,8080,StarHub Ltd
+69119,HK,Hong Kong,中国香港,198.176.54.23,speedtest.rfchost.net.prod.hosts.ooklaserver.net,8080,RFCHOST
+65101,JP,Japan,日本东京,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
