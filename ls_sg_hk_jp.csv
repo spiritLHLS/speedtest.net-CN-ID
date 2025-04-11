@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-68329,CA,United States,Los Angeles,76.72.161.54,spt-lax1.edgeuno.com.prod.hosts.ooklaserver.net,8080,EdgeUno
-63028,DE,Germany,Frankfurt,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
-31180,SG,Singapore,Singapore,103.113.185.66,sp1.campanaworks.com.prod.hosts.ooklaserver.net,8080,Campana
-65463,HK,Hong Kong,Hong Kong,203.185.10.2,speedtest21.hkbn.net.prod.hosts.ooklaserver.net,8080,HKBN
-62217,JP,Japan,Tokyo,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+68329,CA,United States,洛杉矶,76.72.161.54,spt-lax1.edgeuno.com.prod.hosts.ooklaserver.net,8080,EdgeUno
+63028,DE,Germany,法兰克福,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
+31180,SG,Singapore,新加坡,103.113.185.66,sp1.campanaworks.com.prod.hosts.ooklaserver.net,8080,Campana
+65463,HK,Hong Kong,中国香港,203.185.10.2,speedtest21.hkbn.net.prod.hosts.ooklaserver.net,8080,HKBN
+62217,JP,Japan,日本东京,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
