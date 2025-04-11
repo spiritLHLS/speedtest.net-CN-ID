@@ -1,7 +1,9 @@
 id,country_code,country,city,ip,host,port,supplier
 4575,CN,China,Chengdu,112.45.112.82,speedtest1.sc.chinamobile.com,8080,China Mobile Group Sichuan
 5396,CN,China,Suzhou,115.169.22.130,4gsuzhou1.speedtest.jsinfo.net.prod.hosts.ooklaserver.net,8080,China Telecom JiangSu 5G
-16204,CN,China,Suzhou,36.156.46.51,speedtest.jsqiuying.com,8080,JSQY - Suzhou
+13403,CN,Colombia,Chía,181.189.24.35,speed.evernet.net.co.prod.hosts.ooklaserver.net,8080,Evernet
+16204,CN,China,Suzhou,36.156.46.53,speedtest.jsqiuying.com,8080,JSQY - Suzhou
+17634,CN,China,Fujian,112.50.215.254,csfw.fj.chinamobile.com.prod.hosts.ooklaserver.net,8080,China Mobile
 18941,CN,Brazil,Piên,186.249.218.138,speedtestpien.directwifi.com.br,8080,Direct Internet
 24447,CN,China,Shanghai,139.226.226.34,mobile.shunicomtest.com.prod.hosts.ooklaserver.net,8080,China Unicom 5G
 30852,CN,China,Kunshan,180.208.59.230,speedtest.dukekunshan.edu.cn,8080,Duke Kunshan University
