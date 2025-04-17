@@ -19,7 +19,6 @@ id,country_code,country,city,ip,host,port,supplier
 18452,TW,Taiwan,Taoyuan,111.71.228.33,ty1.chtm.hinet.net.prod.hosts.ooklaserver.net,8080,Chunghwa Mobile
 18456,TW,Taiwan,Taichung,111.71.229.33,tc1.chtm.hinet.net,8080,Chunghwa Mobile
 18458,TW,Taiwan,Kaohsiung,111.71.230.33,kh1.chtm.hinet.net,8080,Chunghwa Mobile
-18475,TW,Taiwan,Keelung,210.61.132.22,klv3-1.speedtest.idv.tw,8080,Chief Telecom
 18478,TW,Taiwan,Douliu,210.61.132.30,dlv3-1.speedtest.idv.tw,8080,Chief Telecom
 18480,TW,Taiwan,Taitung,210.61.132.38,ttv3-1.speedtest.idv.tw,8080,Chief Telecom
 18607,TW,Taiwan,Tainan,111.71.230.41,tn1.chtm.hinet.net,8080,Chunghwa Mobile
@@ -36,6 +35,7 @@ id,country_code,country,city,ip,host,port,supplier
 29288,TW,Taiwan,Daan District,203.187.82.4,wd-speedtest.homeplus.net.tw,8080,Homeplus
 29862,TW,Taiwan,Taichung,203.217.97.225,speedtest.vee.com.tw.prod.hosts.ooklaserver.net,8080,VeeTIME Corp
 30916,TW,Brazil,Formosa,131.0.56.5,speedtest.plugfibra.com.br.prod.hosts.ooklaserver.net,8080,Plug Fibra
+31648,TW,Taiwan,New Taipei,211.23.170.146,speedtest.sercomm.com,8080,Sercomm Corporation
 31940,TW,Brazil,Formosa,45.186.64.9,speed.powerconnect.net.br,8080,Power Connect
 32319,TW,Taiwan,Tainan,120.116.1.43,tnookla.tn.edu.tw,8080,TNIC
 36071,TW,Taiwan,Taipei,103.246.219.98,speedtest.imcloud.tw.prod.hosts.ooklaserver.net,8080,"Sky Digital Co., Ltd"
@@ -51,4 +51,4 @@ id,country_code,country,city,ip,host,port,supplier
 61136,TW,Taiwan,Taipei,103.127.218.249,tpe.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 61560,TW,Taiwan,Taichung,103.127.218.248,tcg.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 65092,TW,Taiwan,Taipei,206.148.22.75,tpe.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-69301,TW,Taiwan,Taichung,111.253.190.153,txg-speedtest.infinirc.com,8080,Infinirc
+69301,TW,Taiwan,Taichung,111.253.189.218,txg-speedtest.infinirc.com,8080,Infinirc
