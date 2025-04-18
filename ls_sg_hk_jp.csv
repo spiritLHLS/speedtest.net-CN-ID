@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-57329,CA,United States,洛杉矶,23.136.232.50,speed.lax-1.serverforge.org.prod.hosts.ooklaserver.net,8080,ServerForge LLC
-23095,DE,Germany,法兰克福,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
-59016,SG,Singapore,新加坡,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
-13538,HK,Hong Kong,中国香港,203.210.2.91,csl.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,CSL
-62217,JP,Japan,日本东京,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+50081,CA,United States,Los Angeles,203.10.97.253,la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+54504,DE,Germany,Frankfurt,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
+26654,SG,Singapore,Singapore,50.7.253.4,lg-sin.fdcservers.net,8080,fdcservers.net
+69119,HK,Hong Kong,Hong Kong,198.176.54.23,speedtest.rfchost.net.prod.hosts.ooklaserver.net,8080,RFCHOST
+50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
