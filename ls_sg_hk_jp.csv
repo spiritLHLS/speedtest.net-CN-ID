@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-57682,CA,United States,Los Angeles,142.129.0.67,lsanca-speedtest-ookla-02.st.charter.com,8080,Spectrum
-37748,DE,Germany,Frankfurt,31.25.152.30,speedtest.ropa.de.prod.hosts.ooklaserver.net,8080,ropa GmbH & Co. KG
-51839,SG,Singapore,Singapore,103.225.148.3,speedtest.singapore.globalxtreme.net.prod.hosts.ooklaserver.net,8080,GlobalXtreme
-60178,HK,Hong Kong,Hong Kong,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
-50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+57682,CA,United States,洛杉矶,142.129.0.67,lsanca-speedtest-ookla-02.st.charter.com,8080,Spectrum
+37748,DE,Germany,法兰克福,31.25.152.30,speedtest.ropa.de.prod.hosts.ooklaserver.net,8080,ropa GmbH & Co. KG
+51839,SG,Singapore,新加坡,103.225.148.3,speedtest.singapore.globalxtreme.net.prod.hosts.ooklaserver.net,8080,GlobalXtreme
+60178,HK,Hong Kong,中国香港,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
+50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
