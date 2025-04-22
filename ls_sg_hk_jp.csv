@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-13516,CA,United States,洛杉矶,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
-69656,DE,Germany,法兰克福,87.106.58.204,speedtest03.ber.server.camp.prod.hosts.ooklaserver.net,8080,Server.camp - Open Source Hosting
-47713,SG,Singapore,新加坡,202.43.176.90,sig-speedtest.moratelindo.io.prod.hosts.ooklaserver.net,8080,PT. Mora Telematika Indonesia
-63143,HK,Hong Kong,中国香港,218.102.20.42,hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net,8080,Netvigator
-69792,JP,Japan,日本东京,5.104.86.39,tyo.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
+14236,CA,United States,Los Angeles,172.102.123.253,losangeles.ca.speedtest.frontier.com,8080,Frontier
+31120,DE,Germany,Frankfurt,94.158.241.17,speedtest-fkt-eqx.retn.net.prod.hosts.ooklaserver.net,8080,RETN
+62216,SG,Singapore,Singapore,104.251.232.136,speedtest.sg220.sgp.sg.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+57779,HK,Hong Kong,Hong Kong,61.244.99.206,hoshiyomi.ratatoskr.org.prod.hosts.ooklaserver.net,8080,ラタトスク
+56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
