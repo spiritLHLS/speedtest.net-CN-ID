@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-60694,CA,United States,Los Angeles,45.8.22.37,speedtest-lax.advinservers.com.prod.hosts.ooklaserver.net,8080,Advin Services LLC
-17312,DE,Germany,Frankfurt,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
-23467,SG,Singapore,Singapore,103.111.59.250,speedtest-sg.iconpln.net.id.prod.hosts.ooklaserver.net,8080,PT. Indonesia Comnets Plus
-61296,HK,Hong Kong,Hong Kong,202.45.189.2,speedtest1c.hkix.net.prod.hosts.ooklaserver.net,8080,HKIX
-65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
+60694,CA,United States,洛杉矶,45.8.22.37,speedtest-lax.advinservers.com.prod.hosts.ooklaserver.net,8080,Advin Services LLC
+17312,DE,Germany,法兰克福,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
+23467,SG,Singapore,新加坡,103.111.59.250,speedtest-sg.iconpln.net.id.prod.hosts.ooklaserver.net,8080,PT. Indonesia Comnets Plus
+61296,HK,Hong Kong,中国香港,202.45.189.2,speedtest1c.hkix.net.prod.hosts.ooklaserver.net,8080,HKIX
+65101,JP,Japan,日本东京,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
