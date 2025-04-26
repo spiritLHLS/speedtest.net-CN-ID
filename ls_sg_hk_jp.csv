@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-48044,CA,United States,洛杉矶,88.210.36.42,speedtest-lax.melbicom.net,8080,Melbicom
-23095,DE,Germany,法兰克福,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
-62216,SG,Singapore,新加坡,104.251.232.136,speedtest.sg220.sgp.sg.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-37390,HK,Hong Kong,中国香港,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
-60324,JP,Japan,日本东京,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
+64487,CA,United States,Los Angeles,104.251.238.142,speedtest.us310.lax.us.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+64841,DE,Germany,Frankfurt,95.210.91.11,fra1speedtest01.skylogic.com,8080,EUTELSAT COMMUNICATIONS SA
+51839,SG,Singapore,Singapore,103.225.148.3,speedtest.singapore.globalxtreme.net.prod.hosts.ooklaserver.net,8080,GlobalXtreme
+28912,HK,Hong Kong,Hong Kong,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
+56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
