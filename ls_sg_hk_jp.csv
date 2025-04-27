@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-64487,CA,United States,洛杉矶,104.251.238.142,speedtest.us310.lax.us.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-64841,DE,Germany,法兰克福,95.210.91.11,fra1speedtest01.skylogic.com,8080,EUTELSAT COMMUNICATIONS SA
-51839,SG,Singapore,新加坡,103.225.148.3,speedtest.singapore.globalxtreme.net.prod.hosts.ooklaserver.net,8080,GlobalXtreme
-28912,HK,Hong Kong,中国香港,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+7190,CA,United States,Los Angeles,64.32.16.6,ookla.la.ca.sharktech.net.prod.hosts.ooklaserver.net,8080,Sharktech Inc.
+23095,DE,Germany,Frankfurt,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
+367,SG,Singapore,Singapore,202.150.221.170,speedtest.com.sg.prod.hosts.ooklaserver.net,8080,NewMedia Express
+67826,HK,Hong Kong,Hong Kong,1.52.247.4,speedtesthkg.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
+62217,JP,Japan,Tokyo,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
