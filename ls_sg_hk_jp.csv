@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-7190,CA,United States,洛杉矶,64.32.16.6,ookla.la.ca.sharktech.net.prod.hosts.ooklaserver.net,8080,Sharktech Inc.
-23095,DE,Germany,法兰克福,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
-367,SG,Singapore,新加坡,202.150.221.170,speedtest.com.sg.prod.hosts.ooklaserver.net,8080,NewMedia Express
-67826,HK,Hong Kong,中国香港,1.52.247.4,speedtesthkg.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
-62217,JP,Japan,日本东京,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+56370,CA,United States,Los Angeles,66.114.152.44,speedtest.la2.gigabitnow.com.prod.hosts.ooklaserver.net,8080,GigabitNow
+31120,DE,Germany,Frankfurt,94.158.241.17,speedtest-fkt-eqx.retn.net.prod.hosts.ooklaserver.net,8080,RETN
+67827,SG,Singapore,Singapore,1.52.247.12,speedtestsgp.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
+69119,HK,Hong Kong,Hong Kong,198.176.54.23,speedtest.rfchost.net.prod.hosts.ooklaserver.net,8080,RFCHOST
+69575,JP,Japan,Tokyo,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
