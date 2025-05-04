@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-35056,CA,United States,洛杉矶,77.247.126.223,la.speedtest.clouvider.net.prod.hosts.ooklaserver.net,8080,Clouvider Ltd
-68177,DE,United Germany,法兰克福,66.206.25.57,speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
-2054,SG,Singapore,新加坡,202.83.107.134,speedtest10.vqbn.com,8080,ViewQwest
-62167,HK,Hong Kong,中国香港,178.173.224.254,speedtest.hk212.hkg.cn.nerocloud.io.prod.hosts.ooklaserver.net,8080,NEROCLOUD LTD
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+50081,CA,United States,Los Angeles,203.10.97.253,la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+37492,DE,Germany,Frankfurt,92.119.89.90,speedtest-fra.melbicom.net,8080,Melbicom
+44817,SG,Singapore,Singapore,61.16.64.58,speedtest.sptel.com.prod.hosts.ooklaserver.net,8080,SPTEL PTE. LTD.
+62191,HK,Hong Kong,Hong Kong,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
+56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
