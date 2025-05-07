@@ -23,6 +23,7 @@ id,country_code,country,city,ip,host,port,supplier
 18480,TW,Taiwan,Taitung,210.61.132.38,ttv3-1.speedtest.idv.tw,8080,Chief Telecom
 18607,TW,Taiwan,Tainan,111.71.230.41,tn1.chtm.hinet.net,8080,Chunghwa Mobile
 18611,TW,Taiwan,Changhua,111.71.229.41,ch1.chtm.hinet.net,8080,Chunghwa Mobile
+24377,TW,Taiwan,Tainan,115.43.192.133,tn-speedtest.homeplus.net.tw,8080,Homeplus
 24429,TW,Taiwan,Taipei,115.43.115.15,tp-speedtest.homeplus.net.tw,8080,Homeplus
 24460,TW,Taiwan,New Taipei,115.43.128.130,ntp-speedtest.homeplus.net.tw,8080,Homeplus
 24461,TW,Taiwan,Banqiao,219.68.164.18,sky-speedtest.homeplus.net.tw,8080,Homeplus
