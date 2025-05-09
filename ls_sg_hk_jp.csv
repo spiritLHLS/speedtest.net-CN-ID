@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-50165,CA,United States,Los Angeles,23.130.129.162,speedtest-la.getonward.com.prod.hosts.ooklaserver.net,8080,Onward
-37492,DE,Germany,Frankfurt,92.119.89.90,speedtest-fra.melbicom.net,8080,Melbicom
-62530,SG,Singapore,Singapore,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL
-33414,HK,Hong Kong,Hong Kong,124.217.179.181,speedtest.three.com.hk,8080,Hutchison HK
-28910,JP,Japan,Tokyo,50.7.159.4,lg-tok.fdcservers.net,8080,fdcservers.net
+50165,CA,United States,洛杉矶,23.130.129.162,speedtest-la.getonward.com.prod.hosts.ooklaserver.net,8080,Onward
+37492,DE,Germany,法兰克福,92.119.89.90,speedtest-fra.melbicom.net,8080,Melbicom
+62530,SG,Singapore,新加坡,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL
+33414,HK,Hong Kong,中国香港,124.217.179.181,speedtest.three.com.hk,8080,Hutchison HK
+28910,JP,Japan,日本东京,50.7.159.4,lg-tok.fdcservers.net,8080,fdcservers.net
