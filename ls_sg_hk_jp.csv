@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-69322,CA,United States,洛杉矶,72.34.111.229,speedapi.race.com,8080,Race Communications
-54504,DE,Germany,法兰克福,185.22.45.57,speed2.dg-sys.net,8080,Deutsche Glasfaser
-69764,SG,Singapore,新加坡,217.15.166.168,sg.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
-37390,HK,Hong Kong,中国香港,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
-50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+12191,CA,United States,Los Angeles,45.61.24.162,speedtest.lax1.nitelusa.net.prod.hosts.ooklaserver.net,8080,Nitel
+63028,DE,Germany,Frankfurt,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
+46304,SG,Singapore,Singapore,103.134.153.18,sg.cloudhost.asia,8080,IDCloudHost Singapore
+37695,HK,Hong Kong,Hong Kong,203.160.94.124,cugspeed.chinaunicomglobal.com,8080,China Unicom Global Ltd
+48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
