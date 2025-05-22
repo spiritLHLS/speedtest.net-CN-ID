@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-5905,CA,United States,洛杉矶,66.55.88.26,speedtest.lax.gigenet.com.prod.hosts.ooklaserver.net,8080,GigeNET
-40094,DE,Germany,法兰克福,45.148.5.61,speedtestde.pvdatanet.com.prod.hosts.ooklaserver.net,8080,PVDataNet
-13058,SG,Singapore,新加坡,114.4.41.30,speedtest1.indosatooredoo.com.prod.hosts.ooklaserver.net,8080,PT. Indosat Tbk
-65463,HK,Hong Kong,中国香港,203.185.10.2,speedtest21.hkbn.net.prod.hosts.ooklaserver.net,8080,HKBN
-69792,JP,Japan,日本东京,46.250.248.56,tyo.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
+50081,CA,United States,Los Angeles,203.10.97.253,la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+8040,DE,Germany,Frankfurt,185.245.99.75,speedtest.ip-projects.de,8080,IP-Projects GmbH & Co. KG
+41801,SG,Singapore,Singapore,103.29.57.19,speedtest-eqx-sg1.ixtelecom.net.prod.hosts.ooklaserver.net,8080,IX Telecom
+70128,HK,Hong Kong,Hong Kong,115.42.62.244,hkg.02.speedtest.kansuiun.com.prod.hosts.ooklaserver.net,8080,"Kansuiun Co., Ltd"
+50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
