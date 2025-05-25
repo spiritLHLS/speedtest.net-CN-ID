@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-52311,CA,United States,Los Angeles,164.68.254.15,speedtestla.gethotwired.com.prod.hosts.ooklaserver.net,8080,Hotwire Fision
-69656,DE,Germany,Frankfurt,87.106.58.204,speedtest03.ber.server.camp.prod.hosts.ooklaserver.net,8080,Server.camp - Open Source Hosting
-62020,SG,Singapore,Singapore,209.146.43.37,speedtest.axclusive.com.sg.prod.hosts.ooklaserver.net,8080,Axclusive Pte Ltd
-67826,HK,Hong Kong,Hong Kong,1.52.247.4,speedtesthkg.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
-69792,JP,Japan,Tokyo,46.250.248.56,tyo.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
+52311,CA,United States,洛杉矶,164.68.254.15,speedtestla.gethotwired.com.prod.hosts.ooklaserver.net,8080,Hotwire Fision
+69656,DE,Germany,法兰克福,87.106.58.204,speedtest03.ber.server.camp.prod.hosts.ooklaserver.net,8080,Server.camp - Open Source Hosting
+62020,SG,Singapore,新加坡,209.146.43.37,speedtest.axclusive.com.sg.prod.hosts.ooklaserver.net,8080,Axclusive Pte Ltd
+67826,HK,Hong Kong,中国香港,1.52.247.4,speedtesthkg.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
+69792,JP,Japan,日本东京,46.250.248.56,tyo.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
