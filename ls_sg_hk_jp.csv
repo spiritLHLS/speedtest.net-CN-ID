@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-52311,CA,United States,洛杉矶,164.68.254.15,speedtestla.gethotwired.com.prod.hosts.ooklaserver.net,8080,Hotwire Fision
-69656,DE,Germany,法兰克福,87.106.58.204,speedtest03.ber.server.camp.prod.hosts.ooklaserver.net,8080,Server.camp - Open Source Hosting
-62020,SG,Singapore,新加坡,209.146.43.37,speedtest.axclusive.com.sg.prod.hosts.ooklaserver.net,8080,Axclusive Pte Ltd
-67826,HK,Hong Kong,中国香港,1.52.247.4,speedtesthkg.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
-69792,JP,Japan,日本东京,46.250.248.56,tyo.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
+48044,CA,United States,Los Angeles,88.210.36.42,speedtest-lax.melbicom.net,8080,Melbicom
+17312,DE,Germany,Frankfurt,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
+28921,SG,Singapore,Singapore,131.153.76.66,speedsin.phoenixnap.com.prod.hosts.ooklaserver.net,8080,PhoenixNAP Global IT Services
+28912,HK,Hong Kong,Hong Kong,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
+69575,JP,Japan,Tokyo,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
