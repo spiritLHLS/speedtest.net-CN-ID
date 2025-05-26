@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-48044,CA,United States,Los Angeles,88.210.36.42,speedtest-lax.melbicom.net,8080,Melbicom
-17312,DE,Germany,Frankfurt,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
-28921,SG,Singapore,Singapore,131.153.76.66,speedsin.phoenixnap.com.prod.hosts.ooklaserver.net,8080,PhoenixNAP Global IT Services
-28912,HK,Hong Kong,Hong Kong,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
-69575,JP,Japan,Tokyo,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+48044,CA,United States,洛杉矶,88.210.36.42,speedtest-lax.melbicom.net,8080,Melbicom
+17312,DE,Germany,法兰克福,5.1.73.103,speedtest.creolineserver.de,8080,creoline GmbH
+28921,SG,Singapore,新加坡,131.153.76.66,speedsin.phoenixnap.com.prod.hosts.ooklaserver.net,8080,PhoenixNAP Global IT Services
+28912,HK,Hong Kong,中国香港,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
+69575,JP,Japan,日本东京,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
