@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-21001,CA,United States,洛杉矶,162.255.183.26,speedtest.5x5tele.com.prod.hosts.ooklaserver.net,8080,5x5 Telecom
-69649,DE,Germany,法兰克福,178.254.30.69,spdfra.cndd.net.prod.hosts.ooklaserver.net,8080,BaanThaiSpa
-47713,SG,Singapore,新加坡,202.43.176.90,sig-speedtest.moratelindo.io.prod.hosts.ooklaserver.net,8080,PT. Mora Telematika Indonesia
-62193,HK,Hong Kong,中国香港,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+54653,CA,United States,Los Angeles,35.33.183.250,speedtest-lax.dish-wireless.com.prod.hosts.ooklaserver.net,8080,Boost Mobile
+44477,DE,Germany,Frankfurt,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
+5935,SG,Singapore,Singapore,103.6.148.98,speedtest.myrepublic.com.sg.prod.hosts.ooklaserver.net,8080,MyRepublic Singapore
+69119,HK,Hong Kong,Hong Kong,198.176.54.23,speedtest.rfchost.net.prod.hosts.ooklaserver.net,8080,RFCHOST
+48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
