@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-54653,CA,United States,Los Angeles,35.33.183.250,speedtest-lax.dish-wireless.com.prod.hosts.ooklaserver.net,8080,Boost Mobile
-44477,DE,Germany,Frankfurt,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
-5935,SG,Singapore,Singapore,103.6.148.98,speedtest.myrepublic.com.sg.prod.hosts.ooklaserver.net,8080,MyRepublic Singapore
-69119,HK,Hong Kong,Hong Kong,198.176.54.23,speedtest.rfchost.net.prod.hosts.ooklaserver.net,8080,RFCHOST
-48463,JP,Japan,Tokyo,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+54653,CA,United States,洛杉矶,35.33.183.250,speedtest-lax.dish-wireless.com.prod.hosts.ooklaserver.net,8080,Boost Mobile
+44477,DE,Germany,法兰克福,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
+5935,SG,Singapore,新加坡,103.6.148.98,speedtest.myrepublic.com.sg.prod.hosts.ooklaserver.net,8080,MyRepublic Singapore
+69119,HK,Hong Kong,中国香港,198.176.54.23,speedtest.rfchost.net.prod.hosts.ooklaserver.net,8080,RFCHOST
+48463,JP,Japan,日本东京,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
