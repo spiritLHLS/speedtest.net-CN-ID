@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-42683,CA,United States,Los Angeles,74.81.44.94,speedtest-lax.perfectip.net,8080,PerfectIP.net
-69649,DE,Germany,Frankfurt,178.254.30.69,spdfra.cndd.net.prod.hosts.ooklaserver.net,8080,BaanThaiSpa
-63375,SG,Singapore,Singapore,113.192.10.2,speedtest.sg.hsp.net.id.prod.hosts.ooklaserver.net,8080,ION Network
-69574,HK,China,Hong Kong,154.18.170.27,hk-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
-65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
+42683,CA,United States,洛杉矶,74.81.44.94,speedtest-lax.perfectip.net,8080,PerfectIP.net
+69649,DE,Germany,法兰克福,178.254.30.69,spdfra.cndd.net.prod.hosts.ooklaserver.net,8080,BaanThaiSpa
+63375,SG,Singapore,新加坡,113.192.10.2,speedtest.sg.hsp.net.id.prod.hosts.ooklaserver.net,8080,ION Network
+69574,HK,China,中国香港,154.18.170.27,hk-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+65101,JP,Japan,日本东京,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
