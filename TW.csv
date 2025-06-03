@@ -33,6 +33,7 @@ id,country_code,country,city,ip,host,port,supplier
 29283,TW,Taiwan,Shulin District,203.187.90.4,gh-speedtest.homeplus.net.tw,8080,Homeplus
 29284,TW,Taiwan,Tainan South District,203.187.93.4,sc-speedtest.homeplus.net.tw,8080,Homeplus
 29288,TW,Taiwan,Daan District,203.187.82.4,wd-speedtest.homeplus.net.tw,8080,Homeplus
+30916,TW,Brazil,Formosa,131.0.56.5,speedtest.plugfibra.com.br.prod.hosts.ooklaserver.net,8080,Plug Fibra
 31648,TW,Taiwan,New Taipei,211.23.170.146,speedtest.sercomm.com,8080,Sercomm Corporation
 31940,TW,Brazil,Formosa,45.186.64.9,speed.powerconnect.net.br,8080,Power Connect
 32319,TW,Taiwan,Tainan,120.116.1.43,tnookla.tn.edu.tw,8080,TNIC
@@ -42,7 +43,6 @@ id,country_code,country,city,ip,host,port,supplier
 40742,TW,Argentina,Formosa,45.175.140.18,speedtest.bocarojasa.com.ar.prod.hosts.ooklaserver.net,8080,Boca Roja SA
 41191,TW,Taiwan,Chiayi,203.105.224.14,sptcy2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
 42192,TW,Taiwan,New Taipei,103.129.168.8,speedtest.host.com.tw.prod.hosts.ooklaserver.net,8080,Yuan-Jhen Info
-44603,TW,Taiwan,Taipei,103.147.22.134,speedtest.twds.com.tw.prod.hosts.ooklaserver.net,8080,Taiwan Digital Streaming Co.
 47427,TW,Brazil,Formosa,177.73.88.4,speedtest.netviatelecom.com.br.prod.hosts.ooklaserver.net,8080,Netvia
 55261,TW,Taiwan,Taichung,61.60.226.2,speedtest.tinp.net.tw,8080,Tinp
 56277,TW,Taiwan,Miaoli City,203.105.239.22,sptdl2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
