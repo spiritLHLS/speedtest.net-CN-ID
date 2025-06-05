@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-48044,CA,United States,洛杉矶,88.210.36.42,speedtest-lax.melbicom.net,8080,Melbicom
-69649,DE,Germany,法兰克福,178.254.30.69,spdfra.cndd.net.prod.hosts.ooklaserver.net,8080,BaanThaiSpa
-7556,SG,Singapore,新加坡,111.95.246.34,sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net,8080,PT FirstMedia
-33414,HK,Hong Kong,中国香港,124.217.179.181,speedtest.three.com.hk,8080,Hutchison HK
-50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+41927,CA,United States,Los Angeles,23.160.112.140,reflector.aberythmic.com.prod.hosts.ooklaserver.net,8080,Aberythmic LLC
+70118,DE,Germany,Frankfurt,77.90.4.213,speedtest.as214243.net.prod.hosts.ooklaserver.net,8080,Packets-Decreaser.NET
+62146,SG,Singapore,Singapore,162.219.80.166,sgspeed.chinaunicomglobal.com,8080,China Unicom Global Ltd
+57779,HK,Hong Kong,Hong Kong,61.244.99.206,hoshiyomi.ratatoskr.org.prod.hosts.ooklaserver.net,8080,ラタトスク
+50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
