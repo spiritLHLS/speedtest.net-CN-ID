@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-18229,CA,United States,Los Angeles,8.3.86.3,speedtest-server-lax.starry.com.prod.hosts.ooklaserver.net,8080,"Starry, Inc."
-61917,DE,Germany,Frankfurt,85.220.201.166,speedtest-net.mk.de,8080,MK Netzdienste
-67827,SG,Singapore,Singapore,1.52.247.12,speedtestsgp.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
-44340,HK,Hong Kong,Hong Kong,210.57.36.162,hkthspeedtest02.telstraglobal.net.prod.hosts.ooklaserver.net,8080,Telstra International
-65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
+18229,CA,United States,洛杉矶,8.3.86.3,speedtest-server-lax.starry.com.prod.hosts.ooklaserver.net,8080,"Starry, Inc."
+61917,DE,Germany,法兰克福,85.220.201.166,speedtest-net.mk.de,8080,MK Netzdienste
+67827,SG,Singapore,新加坡,1.52.247.12,speedtestsgp.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
+44340,HK,Hong Kong,中国香港,210.57.36.162,hkthspeedtest02.telstraglobal.net.prod.hosts.ooklaserver.net,8080,Telstra International
+65101,JP,Japan,日本东京,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
