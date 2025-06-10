@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-57329,CA,United States,Los Angeles,23.136.232.50,speed.lax-1.serverforge.org.prod.hosts.ooklaserver.net,8080,ServerForge LLC
-52770,DE,Germany,Frankfurt,213.68.130.82,ipl3pt.fft.ops.eu.uu.net,8080,Verizon.com
-2054,SG,Singapore,Singapore,202.83.107.134,speedtest10.vqbn.com.prod.hosts.ooklaserver.net,8080,ViewQwest
-69574,HK,China,Hong Kong,154.18.170.27,hk-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
-69792,JP,Japan,Tokyo,46.250.248.56,tyo.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
+57329,CA,United States,洛杉矶,23.136.232.50,speed.lax-1.serverforge.org.prod.hosts.ooklaserver.net,8080,ServerForge LLC
+52770,DE,Germany,法兰克福,213.68.130.82,ipl3pt.fft.ops.eu.uu.net,8080,Verizon.com
+2054,SG,Singapore,新加坡,202.83.107.134,speedtest10.vqbn.com.prod.hosts.ooklaserver.net,8080,ViewQwest
+69574,HK,China,中国香港,154.18.170.27,hk-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+69792,JP,Japan,日本东京,46.250.248.56,tyo.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
