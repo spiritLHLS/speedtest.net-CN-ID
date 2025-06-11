@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-14236,CA,United States,Los Angeles,172.102.123.3,losangeles.ca.speedtest.frontier.com,8080,Frontier
-69755,DE,Germany,Frankfurt,45.83.41.39,speedtest.eu-fr.kamatera.com.prod.hosts.ooklaserver.net,8080,"KamaTera, Inc."
-54359,SG,Singapore,Singapore,115.146.113.46,speedtest-sg.napinfo.co.id.prod.hosts.ooklaserver.net,8080,Matrix NAP Info
-62191,HK,Hong Kong,Hong Kong,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
-50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+14236,CA,United States,洛杉矶,172.102.123.3,losangeles.ca.speedtest.frontier.com,8080,Frontier
+69755,DE,Germany,法兰克福,45.83.41.39,speedtest.eu-fr.kamatera.com.prod.hosts.ooklaserver.net,8080,"KamaTera, Inc."
+54359,SG,Singapore,新加坡,115.146.113.46,speedtest-sg.napinfo.co.id.prod.hosts.ooklaserver.net,8080,Matrix NAP Info
+62191,HK,Hong Kong,中国香港,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
+50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
