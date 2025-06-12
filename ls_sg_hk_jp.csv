@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-21001,CA,United States,Los Angeles,162.255.183.26,speedtest.5x5tele.com.prod.hosts.ooklaserver.net,8080,5x5 Telecom
-70118,DE,Germany,Frankfurt,77.90.4.213,speedtest.as214243.net.prod.hosts.ooklaserver.net,8080,Packets-Decreaser.NET
-41801,SG,Singapore,Singapore,103.29.57.19,speedtest-eqx-sg1.ixtelecom.net.prod.hosts.ooklaserver.net,8080,IX Telecom
-62193,HK,Hong Kong,Hong Kong,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+21001,CA,United States,洛杉矶,162.255.183.26,speedtest.5x5tele.com.prod.hosts.ooklaserver.net,8080,5x5 Telecom
+70118,DE,Germany,法兰克福,77.90.4.213,speedtest.as214243.net.prod.hosts.ooklaserver.net,8080,Packets-Decreaser.NET
+41801,SG,Singapore,新加坡,103.29.57.19,speedtest-eqx-sg1.ixtelecom.net.prod.hosts.ooklaserver.net,8080,IX Telecom
+62193,HK,Hong Kong,中国香港,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
