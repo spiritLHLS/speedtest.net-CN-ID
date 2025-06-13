@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-21001,CA,United States,洛杉矶,162.255.183.26,speedtest.5x5tele.com.prod.hosts.ooklaserver.net,8080,5x5 Telecom
-70118,DE,Germany,法兰克福,77.90.4.213,speedtest.as214243.net.prod.hosts.ooklaserver.net,8080,Packets-Decreaser.NET
-41801,SG,Singapore,新加坡,103.29.57.19,speedtest-eqx-sg1.ixtelecom.net.prod.hosts.ooklaserver.net,8080,IX Telecom
-62193,HK,Hong Kong,中国香港,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+60392,CA,United States,Los Angeles,38.175.108.88,us-lax02.speed.misaka.one,8080,"Misaka Network, Inc."
+68177,DE,United Germany,Frankfurt,66.206.25.57,speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
+69764,SG,Singapore,Singapore,217.15.166.168,sg.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
+69574,HK,China,Hong Kong,154.18.170.27,hk-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
