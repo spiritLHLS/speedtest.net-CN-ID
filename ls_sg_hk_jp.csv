@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-18401,CA,United States,洛杉矶,66.19.75.234,la02.speedtest.windstream.net,8080,Windstream
-37748,DE,Germany,法兰克福,31.25.152.30,speedtest.ropa.de.prod.hosts.ooklaserver.net,8080,ropa GmbH & Co. KG
-62020,SG,Singapore,新加坡,209.146.43.37,speedtest.axclusive.com.sg.prod.hosts.ooklaserver.net,8080,Axclusive Pte Ltd
-60178,HK,Hong Kong,中国香港,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
-50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+18229,CA,United States,Los Angeles,8.3.86.3,speedtest-server-lax.starry.com.prod.hosts.ooklaserver.net,8080,"Starry, Inc."
+23095,DE,Germany,Frankfurt,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
+41801,SG,Singapore,Singapore,103.29.57.19,speedtest-eqx-sg1.ixtelecom.net.prod.hosts.ooklaserver.net,8080,IX Telecom
+60178,HK,Hong Kong,Hong Kong,203.210.4.92,sunmobile.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Sun Mobile
+48463,JP,Japan,Tokyo,219.100.92.229,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
