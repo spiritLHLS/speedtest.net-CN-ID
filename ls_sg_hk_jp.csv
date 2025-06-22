@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-68329,CA,United States,Los Angeles,76.72.161.54,spt-lax1.edgeuno.com.prod.hosts.ooklaserver.net,8080,EdgeUno
-44477,DE,Germany,Frankfurt,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
-62530,SG,Singapore,Singapore,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL
-62191,HK,Hong Kong,Hong Kong,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
-69575,JP,Japan,Tokyo,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+68329,CA,United States,洛杉矶,76.72.161.54,spt-lax1.edgeuno.com.prod.hosts.ooklaserver.net,8080,EdgeUno
+44477,DE,Germany,法兰克福,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
+62530,SG,Singapore,新加坡,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL
+62191,HK,Hong Kong,中国香港,206.237.33.48,speedtest.finovy.com.prod.hosts.ooklaserver.net,8080,Finovy Pte. Ltd.
+69575,JP,Japan,日本东京,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
