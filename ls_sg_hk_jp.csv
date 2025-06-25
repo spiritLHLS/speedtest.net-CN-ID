@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-56370,CA,United States,洛杉矶,66.114.152.44,speedtest.la2.gigabitnow.com.prod.hosts.ooklaserver.net,8080,GigabitNow
-68177,DE,United Germany,法兰克福,66.206.25.57,speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
-28921,SG,Singapore,新加坡,131.153.76.66,speedsin.phoenixnap.com.prod.hosts.ooklaserver.net,8080,PhoenixNAP Global IT Services
-43356,HK,HK,中国香港,203.210.4.91,1010.hkspeedtest.com,8080,1010
-48463,JP,Japan,日本东京,219.100.92.231,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+56370,CA,United States,Los Angeles,66.114.152.44,speedtest.la2.gigabitnow.com.prod.hosts.ooklaserver.net,8080,GigabitNow
+68177,DE,United Germany,Frankfurt,66.206.25.57,speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
+28921,SG,Singapore,Singapore,131.153.76.66,speedsin.phoenixnap.com.prod.hosts.ooklaserver.net,8080,PhoenixNAP Global IT Services
+43356,HK,HK,Hong Kong,203.210.4.91,1010.hkspeedtest.com,8080,1010
+48463,JP,Japan,Tokyo,219.100.92.231,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
