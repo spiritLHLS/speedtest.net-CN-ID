@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-60433,CA,United States,Los Angeles,162.255.33.206,la-ookla.geolinks.com.prod.hosts.ooklaserver.net,8080,GeoLinks
-18667,DE,Germany,Frankfurt,185.37.147.2,speedtest.meerfarbig.net.prod.hosts.ooklaserver.net,8080,meerfarbig GmbH & Co. KG
-41358,SG,Singapore,Singapore,103.164.55.91,sin.speedtest.contabo.net,8080,Contabo
-37639,HK,HK,Hong Kong,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,CMHK Broadband
-48463,JP,Japan,Tokyo,219.100.92.230,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+60433,CA,United States,洛杉矶,162.255.33.206,la-ookla.geolinks.com.prod.hosts.ooklaserver.net,8080,GeoLinks
+18667,DE,Germany,法兰克福,185.37.147.2,speedtest.meerfarbig.net.prod.hosts.ooklaserver.net,8080,meerfarbig GmbH & Co. KG
+41358,SG,Singapore,新加坡,103.164.55.91,sin.speedtest.contabo.net,8080,Contabo
+37639,HK,HK,中国香港,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,CMHK Broadband
+48463,JP,Japan,日本东京,219.100.92.230,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
