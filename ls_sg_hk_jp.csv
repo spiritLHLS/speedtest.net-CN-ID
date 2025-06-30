@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-57682,CA,United States,洛杉矶,142.129.0.67,lsanca-speedtest-ookla-02.st.charter.com,8080,Spectrum
-53864,DE,Germany,法兰克福,37.114.48.240,speedtest.battern.eu.prod.hosts.ooklaserver.net,8080,Batternhosting
-63375,SG,Singapore,新加坡,113.192.10.2,speedtest.sg.hsp.net.id.prod.hosts.ooklaserver.net,8080,ION Network
-37390,HK,HK,中国香港,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
-69575,JP,Japan,日本东京,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+57682,CA,United States,Los Angeles,142.129.0.67,lsanca-speedtest-ookla-02.st.charter.com,8080,Spectrum
+53864,DE,Germany,Frankfurt,37.114.48.240,speedtest.battern.eu.prod.hosts.ooklaserver.net,8080,Batternhosting
+63375,SG,Singapore,Singapore,113.192.10.2,speedtest.sg.hsp.net.id.prod.hosts.ooklaserver.net,8080,ION Network
+37390,HK,HK,Hong Kong,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
+69575,JP,Japan,Tokyo,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
