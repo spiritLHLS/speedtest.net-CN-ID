@@ -22,7 +22,7 @@ id,country_code,country,city,ip,host,port,supplier
 18456,TW,TW,Taichung,111.71.229.33,tc1.chtm.hinet.net,8080,Chunghwa Mobile
 18458,TW,TW,Kaohsiung,111.71.230.33,kh1.chtm.hinet.net,8080,Chunghwa Mobile
 18475,TW,TW,Keelung,210.61.132.22,klv3-1.speedtest.idv.tw,8080,Chief Telecom
-18478,TW,TW,Douliu,210.61.132.30,dlv3-1.speedtest.idv.tw,8080,Chief Telecom
+18478,TW,,Douliu,210.61.132.30,dlv3-1.speedtest.idv.tw,8080,Chief Telecom
 18480,TW,TW,Taitung,210.61.132.38,ttv3-1.speedtest.idv.tw,8080,Chief Telecom
 18607,TW,TW,Tainan,111.71.230.41,tn1.chtm.hinet.net,8080,Chunghwa Mobile
 18611,TW,TW,Changhua,111.71.229.41,ch1.chtm.hinet.net,8080,Chunghwa Mobile
