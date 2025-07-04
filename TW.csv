@@ -22,7 +22,7 @@ id,country_code,country,city,ip,host,port,supplier
 18456,TW,TW,Taichung,111.71.229.33,tc1.chtm.hinet.net,8080,Chunghwa Mobile
 18458,TW,TW,Kaohsiung,111.71.230.33,kh1.chtm.hinet.net,8080,Chunghwa Mobile
 18475,TW,TW,Keelung,210.61.132.22,klv3-1.speedtest.idv.tw,8080,Chief Telecom
-18478,TW,,Douliu,210.61.132.30,dlv3-1.speedtest.idv.tw,8080,Chief Telecom
+18478,TW,TW,Douliu,210.61.132.30,dlv3-1.speedtest.idv.tw,8080,Chief Telecom
 18480,TW,TW,Taitung,210.61.132.38,ttv3-1.speedtest.idv.tw,8080,Chief Telecom
 18607,TW,TW,Tainan,111.71.230.41,tn1.chtm.hinet.net,8080,Chunghwa Mobile
 18611,TW,TW,Changhua,111.71.229.41,ch1.chtm.hinet.net,8080,Chunghwa Mobile
@@ -56,4 +56,4 @@ id,country_code,country,city,ip,host,port,supplier
 61136,TW,TW,Taipei,103.127.218.249,tpe.speedtest.pni.tw,8080,"Pittqiao Network Information Co.,Ltd."
 61560,TW,TW,Taichung,103.127.218.248,tcg.speedtest.pni.tw,8080,"Pittqiao Network Information Co.,Ltd."
 65092,TW,TW,Taipei,206.148.22.75,tpe.speedtest.gslnetworks.com,8080,GSL Networks
-69301,TW,TW,Taichung,111.253.164.195,txg-speedtest.infinirc.com,8080,Infinirc
+69301,TW,TW,Taichung,111.253.190.178,txg-speedtest.infinirc.com,8080,Infinirc

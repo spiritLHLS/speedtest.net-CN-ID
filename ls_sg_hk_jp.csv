@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-60433,CA,United States,洛杉矶,162.255.33.206,la-ookla.geolinks.com.prod.hosts.ooklaserver.net,8080,GeoLinks
-52770,DE,Germany,法兰克福,213.68.130.82,ipl3pt.fft.ops.eu.uu.net,8080,Verizon.com
-26654,SG,Singapore,新加坡,50.7.253.4,lg-sin.fdcservers.net,8080,fdcservers.net
-68983,HK,HK,中国香港,103.194.237.34,speedtest-hkg.retn.net,8080,RETN
-69575,JP,Japan,日本东京,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+19230,CA,United States,Los Angeles,66.165.241.242,speedtest.lax.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
+53864,DE,Germany,Frankfurt,37.114.48.240,speedtest.battern.eu.prod.hosts.ooklaserver.net,8080,Batternhosting
+28921,SG,Singapore,Singapore,131.153.76.66,speedsin.phoenixnap.com.prod.hosts.ooklaserver.net,8080,PhoenixNAP Global IT Services
+62193,HK,HK,Hong Kong,103.77.210.183,speedtest.hk210.hkg.cn.ctcsci.com,8080,CTCSCI TECH LTD
+50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
