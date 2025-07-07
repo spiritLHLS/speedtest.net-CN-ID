@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-54653,CA,United States,洛杉矶,35.33.183.250,speedtest-lax.dish-wireless.com.prod.hosts.ooklaserver.net,8080,Boost Mobile
-40094,DE,Germany,法兰克福,45.148.5.61,speedtestde.pvdatanet.com.prod.hosts.ooklaserver.net,8080,PVDataNet
-45345,SG,Singapore,新加坡,5.44.249.3,speedtest-sin.melbicom.net,8080,Melbikomas UAB
-69119,HK,HK,中国香港,198.176.54.23,speedtest.rfchost.net,8080,RFCHOST
-50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+13516,CA,United States,Los Angeles,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
+53864,DE,Germany,Frankfurt,37.114.48.240,speedtest.battern.eu.prod.hosts.ooklaserver.net,8080,Batternhosting
+45345,SG,Singapore,Singapore,5.44.249.3,speedtest-sin.melbicom.net,8080,Melbikomas UAB
+63143,HK,HK,Hong Kong,218.102.20.42,hkspeedtest.netvigator.com,8080,Netvigator
+28910,JP,Japan,Tokyo,50.7.159.4,lg-hnd.fdcservers.net,8080,fdcservers.net
