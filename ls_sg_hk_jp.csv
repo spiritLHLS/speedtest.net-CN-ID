@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-57329,CA,United States,洛杉矶,23.136.232.50,speed.lax-1.serverforge.org.prod.hosts.ooklaserver.net,8080,ServerForge LLC
-52770,DE,Germany,法兰克福,213.68.130.82,ipl3pt.fft.ops.eu.uu.net,8080,Verizon.com
-63375,SG,Singapore,新加坡,113.192.10.2,speedtest.sg.hsp.net.id.prod.hosts.ooklaserver.net,8080,ION Network
-32155,HK,HK,中国香港,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
-65101,JP,Japan,日本东京,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
+7190,CA,United States,Los Angeles,64.32.16.6,ookla.la.ca.sharktech.net.prod.hosts.ooklaserver.net,8080,Sharktech Inc.
+44477,DE,Germany,Frankfurt,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
+54359,SG,Singapore,Singapore,115.146.113.46,speedtest-sg.napinfo.co.id.prod.hosts.ooklaserver.net,8080,Matrix NAP Info
+37390,HK,HK,Hong Kong,210.0.250.30,ookla-speedtest-central.hgconair.hgc.com.hk,8080,HGC環電
+50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
