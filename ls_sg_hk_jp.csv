@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-64135,CA,United States,洛杉矶,207.126.167.245,speedtest.us-la.kamatera.com.prod.hosts.ooklaserver.net,8080,"KamaTera, Inc."
-61917,DE,Germany,法兰克福,85.220.201.166,speedtest-net.mk.de,8080,MK Netzdienste
-28921,SG,Singapore,新加坡,131.153.76.66,speedsin.phoenixnap.com.prod.hosts.ooklaserver.net,8080,PhoenixNAP Global IT Services
-33414,HK,HK,中国香港,124.217.142.7,speedtest.three.com.hk,8080,Hutchison HK
-69575,JP,Japan,日本东京,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+68329,CA,United States,Los Angeles,76.72.161.54,spt-lax1.edgeuno.com.prod.hosts.ooklaserver.net,8080,EdgeUno
+63028,DE,Germany,Frankfurt,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
+62020,SG,Singapore,Singapore,209.146.43.37,speedtest.axclusive.com.sg.prod.hosts.ooklaserver.net,8080,Axclusive Pte Ltd
+28912,HK,HK,Hong Kong,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
+60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
