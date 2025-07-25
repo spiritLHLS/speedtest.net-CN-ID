@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-52311,CA,United States,Los Angeles,164.68.254.15,speedtestla.gethotwired.com.prod.hosts.ooklaserver.net,8080,Hotwire Fision
-23095,DE,Germany,Frankfurt,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
-26654,SG,Singapore,Singapore,50.7.253.4,lg-sin.fdcservers.net,8080,fdcservers.net
-61296,HK,HK,Hong Kong,202.45.189.2,speedtest1c.hkix.net,8080,HKIX
-62217,JP,Japan,Tokyo,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+52311,CA,United States,洛杉矶,164.68.254.15,speedtestla.gethotwired.com.prod.hosts.ooklaserver.net,8080,Hotwire Fision
+23095,DE,Germany,法兰克福,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
+26654,SG,Singapore,新加坡,50.7.253.4,lg-sin.fdcservers.net,8080,fdcservers.net
+61296,HK,HK,中国香港,202.45.189.2,speedtest1c.hkix.net,8080,HKIX
+62217,JP,Japan,日本东京,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
