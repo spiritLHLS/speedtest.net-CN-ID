@@ -46,7 +46,7 @@ id,country_code,country,city,ip,host,port,supplier
 36122,TW,TW,Tainan,123.205.190.221,speedtestookla.hya.tw,8080,HYA
 36634,TW,TW,Taoyuan District,211.77.43.112,seednet-ty1.seed.net.tw,8080,SEEDNET
 40727,TW,TW,Taichung,211.77.43.115,seednet-tc1.seed.net.tw,8080,SEEDNET
-40728,TW,Taiwan,Tainan,211.77.43.118,seednet-tn1.seed.net.tw.prod.hosts.ooklaserver.net,8080,SEEDNET
+40728,TW,TW,Tainan,211.77.43.118,seednet-tn1.seed.net.tw,8080,SEEDNET
 40742,TW,Argentina,Formosa,45.175.140.18,speedtest.bocarojasa.com.ar.prod.hosts.ooklaserver.net,8080,Boca Roja SA
 41191,TW,TW,Chiayi,203.105.224.14,sptcy2.taiwanmobile.com,8080,Taiwan Mobile
 42192,TW,TW,New Taipei,103.129.168.8,speedtest.host.com.tw,8080,Yuan-Jhen Info
