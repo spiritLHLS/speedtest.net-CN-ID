@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-7190,CA,United States,洛杉矶,64.32.16.6,ookla.la.ca.sharktech.net.prod.hosts.ooklaserver.net,8080,Sharktech Inc.
-40094,DE,Germany,法兰克福,45.148.5.61,speedtestde.pvdatanet.com.prod.hosts.ooklaserver.net,8080,PVDataNet
-44817,SG,Singapore,新加坡,61.16.64.58,speedtest.sptel.com.prod.hosts.ooklaserver.net,8080,SPTEL PTE. LTD.
-1536,HK,Hong Kong,中国香港,218.102.52.37,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
-48463,JP,Japan,日本东京,219.100.92.229,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+19230,CA,United States,Los Angeles,66.165.241.242,speedtest.lax.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
+70118,DE,Germany,Frankfurt,77.90.4.213,speedtest.as214243.net.prod.hosts.ooklaserver.net,8080,Packets-Decreaser.NET
+41358,SG,Singapore,Singapore,103.164.55.91,sin.speedtest.contabo.net,8080,Contabo
+70128,HK,HK,Hong Kong,115.42.62.244,hkg.02.speedtest.kansuiun.com,8080,"Kansuiun Co., Ltd"
+50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon

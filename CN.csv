@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-3633,CN,CN,Shanghai,222.68.195.1,speedtest1.online.sh.cn,8080,China Telecom
-4575,CN,CN,Chengdu,112.45.112.82,speedtest1.sc.chinamobile.com,8080,China Mobile Group Sichuan
+3633,CN,CN,Shanghai,222.68.195.2,speedtest1.online.sh.cn,8080,China Telecom
+4575,CN,China,Chengdu,112.45.112.82,speedtest1.sc.chinamobile.com,8080,China Mobile Group Sichuan
 13403,CN,Colombia,Chía,181.189.24.35,speed.evernet.net.co.prod.hosts.ooklaserver.net,8080,Evernet
 16204,CN,CN,Suzhou,36.156.46.51,speedtest.jsqiuying.com,8080,JSQY - Suzhou
 17265,CN,CN,Zhonghe,211.77.43.18,fetsz1.seed.net.tw,8080,FarEasTone Telecom
