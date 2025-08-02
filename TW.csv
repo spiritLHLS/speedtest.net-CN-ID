@@ -58,4 +58,5 @@ id,country_code,country,city,ip,host,port,supplier
 61136,TW,TW,Taipei,211.76.176.11,tpe.speedtest.pni.tw,8080,"Pittqiao Network Information Co.,Ltd."
 61560,TW,TW,Taichung,103.127.218.248,tcg.speedtest.pni.tw,8080,"Pittqiao Network Information Co.,Ltd."
 65092,TW,TW,Taipei,206.148.22.75,tpe.speedtest.gslnetworks.com,8080,GSL Networks
-69301,TW,TW,Taichung,111.253.135.94,txg-speedtest.infinirc.com,8080,Infinirc
+69301,TW,TW,Taichung,111.253.133.46,txg-speedtest.infinirc.com,8080,Infinirc
+71305,TW,Brazil,Formosa,38.226.107.72,teste.unifibranet.com.br,8080,UNI FIBRANET
