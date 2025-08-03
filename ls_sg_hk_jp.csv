@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-57329,CA,United States,洛杉矶,23.136.232.50,speed.lax-1.serverforge.org.prod.hosts.ooklaserver.net,8080,ServerForge LLC
-44477,DE,Germany,法兰克福,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
-59016,SG,Singapore,新加坡,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
-33414,HK,HK,中国香港,124.217.179.183,speedtest.three.com.hk,8080,Hutchison HK
-28910,JP,Japan,日本东京,50.7.159.4,lg-hnd.fdcservers.net,8080,fdcservers.net
+57329,CA,United States,Los Angeles,23.136.232.50,speed.lax-1.serverforge.org.prod.hosts.ooklaserver.net,8080,ServerForge LLC
+44477,DE,Germany,Frankfurt,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
+59016,SG,Singapore,Singapore,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
+33414,HK,HK,Hong Kong,124.217.179.183,speedtest.three.com.hk,8080,Hutchison HK
+28910,JP,Japan,Tokyo,50.7.159.4,lg-hnd.fdcservers.net,8080,fdcservers.net
