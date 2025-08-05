@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-48044,CA,United States,洛杉矶,88.210.36.42,speedtest-lax.melbicom.net,8080,Melbicom
-31120,DE,Germany,法兰克福,94.158.241.17,speedtest-fkt-eqx.retn.net.prod.hosts.ooklaserver.net,8080,RETN
-69764,SG,Singapore,新加坡,217.15.166.168,sg.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
-63076,HK,HK,中国香港,124.217.143.7,sosimhk.datapath.three.com.hk,8080,SoSIM
-50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+50165,CA,United States,Los Angeles,23.130.129.162,speedtest-la.getonward.com.prod.hosts.ooklaserver.net,8080,Onward
+70961,DE,Germany,Frankfurt,104.252.2.22,speed2.netlixor.de.prod.hosts.ooklaserver.net,8080,Netlixor
+62530,SG,Singapore,Singapore,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL
+67826,HK,HK,Hong Kong,1.52.247.4,speedtesthkg.fpt.vn,8080,FPT Telecom
+56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
