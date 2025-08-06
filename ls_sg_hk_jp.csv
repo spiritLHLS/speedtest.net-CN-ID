@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-50165,CA,United States,洛杉矶,23.130.129.162,speedtest-la.getonward.com.prod.hosts.ooklaserver.net,8080,Onward
-70961,DE,Germany,法兰克福,104.252.2.22,speed2.netlixor.de.prod.hosts.ooklaserver.net,8080,Netlixor
-62530,SG,Singapore,新加坡,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL
-67826,HK,HK,中国香港,1.52.247.4,speedtesthkg.fpt.vn,8080,FPT Telecom
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+35056,CA,United States,Los Angeles,77.247.126.223,la.speedtest.clouvider.net.prod.hosts.ooklaserver.net,8080,Clouvider Ltd
+44477,DE,Germany,Frankfurt,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
+69840,SG,Singapore,Singapore,103.172.182.13,sg-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+69119,HK,HK,Hong Kong,198.176.54.23,speedtest.rfchost.net,8080,RFCHOST
+65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
