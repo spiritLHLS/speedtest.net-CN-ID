@@ -1,9 +1,12 @@
 id,country_code,country,city,ip,host,port,supplier
-3633,CN,CN,Shanghai,222.68.195.1,speedtest1.online.sh.cn,8080,China Telecom
+3633,CN,CN,Shanghai,222.68.195.2,speedtest1.online.sh.cn,8080,China Telecom
+5396,CN,China,Suzhou,115.169.22.130,4gsuzhou1.speedtest.jsinfo.net.prod.hosts.ooklaserver.net,8080,China Telecom JiangSu 5G
 13403,CN,Colombia,Chía,181.189.24.35,speed.evernet.net.co.prod.hosts.ooklaserver.net,8080,Evernet
 16204,CN,CN,Suzhou,36.156.46.53,speedtest.jsqiuying.com,8080,JSQY - Suzhou
 17265,CN,CN,Zhonghe,211.77.43.18,fetsz1.seed.net.tw,8080,FarEasTone Telecom
 24447,CN,CN,Shanghai,210.22.155.34,mobile.shunicomtest.com,8080,China Unicom 5G
 30852,CN,CN,Kunshan,180.208.59.230,speedtest.dukekunshan.edu.cn,8080,Duke Kunshan University
+36663,CN,China,Zhenjiang,115.168.74.186,5gzhenjiang.speedtest.jsinfo.net.prod.hosts.ooklaserver.net,8080,China Telecom JiangSu 5G
 59386,CN,CN,HangZhou,61.130.56.1,cesu-hz.zjtelecom.com.cn,8080,浙江电信
 59387,CN,CN,NingBo,61.153.82.77,cesu-nb.zjtelecom.com.cn,8080,浙江电信
+71313,CN,China,Xuzhou,180.97.254.200,chinatelecom.com.cn.dns.ink.prod.hosts.ooklaserver.net,8080,China Telecom

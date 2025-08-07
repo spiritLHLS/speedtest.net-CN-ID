@@ -31,12 +31,14 @@ id,country_code,country,city,ip,host,port,supplier
 24460,TW,TW,New Taipei,115.43.128.130,ntp-speedtest.homeplus.net.tw,8080,Homeplus
 24461,TW,TW,Banqiao,219.68.164.18,sky-speedtest.homeplus.net.tw,8080,Homeplus
 24462,TW,TW,Taoyuan,115.43.176.10,ty-speedtest.homeplus.net.tw,8080,Homeplus
+24974,TW,TW,Keelung,115.43.96.15,kl-speedtest.homeplus.net.tw,8080,Homeplus
 27752,TW,TW,Nantou,210.201.72.14,srv4.speedtest.aptg.com.tw,8080,Asia Pacific Telecom
 29107,TW,TW,Taoyuan,210.201.72.16,srv6.speedtest.aptg.com.tw,8080,Asia Pacific Telecom
 29253,TW,TW,Kaohsiung Lingya,203.187.94.4,gd-speedtest.homeplus.net.tw,8080,Homeplus
 29283,TW,TW,Shulin District,203.187.90.4,gh-speedtest.homeplus.net.tw,8080,Homeplus
 29284,TW,TW,Tainan South District,203.187.93.4,sc-speedtest.homeplus.net.tw,8080,Homeplus
 29288,TW,TW,Daan District,203.187.82.4,wd-speedtest.homeplus.net.tw,8080,Homeplus
+29716,TW,TW,Neihu District,203.187.83.4,lg-speedtest.homeplus.net.tw,8080,Homeplus
 30916,TW,Brazil,Formosa,131.0.56.5,speedtest.plugfibra.com.br.prod.hosts.ooklaserver.net,8080,Plug Fibra
 31648,TW,TW,New Taipei,211.23.170.146,speedtest.sercomm.com,8080,Sercomm Corporation
 31940,TW,Brazil,Formosa,45.186.64.9,speed.powerconnect.net.br,8080,Power Connect

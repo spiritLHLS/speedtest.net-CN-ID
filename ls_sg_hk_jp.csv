@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-35056,CA,United States,洛杉矶,77.247.126.223,la.speedtest.clouvider.net.prod.hosts.ooklaserver.net,8080,Clouvider Ltd
-44477,DE,Germany,法兰克福,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
-69840,SG,Singapore,新加坡,103.172.182.13,sg-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
-69119,HK,HK,中国香港,198.176.54.23,speedtest.rfchost.net,8080,RFCHOST
-65101,JP,Japan,日本东京,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
+61029,CA,United States,Los Angeles,107.155.99.134,postapps.com.prod.hosts.ooklaserver.net,8080,AtlasDigital
+63028,DE,Germany,Frankfurt,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
+51839,SG,Singapore,Singapore,103.225.148.3,speedtest.singapore.globalxtreme.net.prod.hosts.ooklaserver.net,8080,GlobalXtreme
+63076,HK,HK,Hong Kong,124.217.142.7,sosimhk.datapath.three.com.hk,8080,SoSIM
+65101,JP,JP,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com,8080,7 BULL
