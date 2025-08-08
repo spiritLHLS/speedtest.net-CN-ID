@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-61029,CA,United States,洛杉矶,107.155.99.134,postapps.com.prod.hosts.ooklaserver.net,8080,AtlasDigital
-63028,DE,Germany,法兰克福,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
-51839,SG,Singapore,新加坡,103.225.148.3,speedtest.singapore.globalxtreme.net.prod.hosts.ooklaserver.net,8080,GlobalXtreme
-63076,HK,HK,中国香港,124.217.142.7,sosimhk.datapath.three.com.hk,8080,SoSIM
-65101,JP,JP,日本东京,185.135.77.72,speedtest-jp.tgb-host.com,8080,7 BULL
+18401,CA,United States,Los Angeles,66.19.75.234,la02.speedtest.windstream.net,8080,Uniti
+52770,DE,Germany,Frankfurt,213.68.130.82,ipl3pt.fft.ops.eu.uu.net,8080,Verizon.com
+41358,SG,Singapore,Singapore,103.164.55.91,sin.speedtest.contabo.net,8080,Contabo
+35791,HK,HK,Hong Kong,203.78.41.10,kami.smartone.com,8080,SmarTone
+62217,JP,Japan,Tokyo,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
