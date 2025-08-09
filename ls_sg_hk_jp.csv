@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-18401,CA,United States,洛杉矶,66.19.75.234,la02.speedtest.windstream.net,8080,Uniti
-52770,DE,Germany,法兰克福,213.68.130.82,ipl3pt.fft.ops.eu.uu.net,8080,Verizon.com
-41358,SG,Singapore,新加坡,103.164.55.91,sin.speedtest.contabo.net,8080,Contabo
-35791,HK,HK,中国香港,203.78.41.10,kami.smartone.com,8080,SmarTone
-62217,JP,Japan,日本东京,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+10392,CA,United States,Los Angeles,195.206.104.222,lax.mega.host.speedtest.net.prod.hosts.ooklaserver.net,8080,OneProvider
+64841,DE,Germany,Frankfurt,95.210.91.11,fra1speedtest01.skylogic.com,8080,EUTELSAT COMMUNICATIONS SA
+50406,SG,Singapore,Singapore,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+28912,HK,HK,Hong Kong,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
+28910,JP,Japan,Tokyo,50.7.159.4,lg-hnd.fdcservers.net,8080,fdcservers.net
