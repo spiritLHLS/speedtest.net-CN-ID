@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-10392,CA,United States,洛杉矶,195.206.104.222,lax.mega.host.speedtest.net.prod.hosts.ooklaserver.net,8080,OneProvider
-64841,DE,Germany,法兰克福,95.210.91.11,fra1speedtest01.skylogic.com,8080,EUTELSAT COMMUNICATIONS SA
-50406,SG,Singapore,新加坡,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
-28912,HK,HK,中国香港,50.7.251.4,lg-hkg.fdcservers.net,8080,fdcservers.net
-28910,JP,Japan,日本东京,50.7.159.4,lg-hnd.fdcservers.net,8080,fdcservers.net
+52311,CA,United States,Los Angeles,164.68.254.15,speedtestla.gethotwired.com.prod.hosts.ooklaserver.net,8080,Hotwire Fision
+68177,DE,United Germany,Frankfurt,66.206.25.57,speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
+54359,SG,Singapore,Singapore,115.146.113.46,speedtest-sg.napinfo.co.id.prod.hosts.ooklaserver.net,8080,Matrix NAP Info
+63143,HK,HK,Hong Kong,218.102.20.42,hkspeedtest.netvigator.com,8080,Netvigator
+69792,JP,Japan,Tokyo,46.250.248.56,tyo.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
