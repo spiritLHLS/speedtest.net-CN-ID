@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-12191,CA,United States,Los Angeles,45.61.24.162,speedtest.lax1.nitelusa.net.prod.hosts.ooklaserver.net,8080,Nitel
-69656,DE,Germany,Frankfurt,87.106.58.204,speedtest03.ber.server.camp.prod.hosts.ooklaserver.net,8080,Server.camp - Open Source Hosting
-47713,SG,Singapore,Singapore,202.43.176.90,sig-speedtest.moratelindo.io.prod.hosts.ooklaserver.net,8080,PT. Mora Telematika Indonesia
-35791,HK,HK,Hong Kong,203.78.41.10,kami.smartone.com,8080,SmarTone
-69575,JP,Japan,Tokyo,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+12191,CA,United States,洛杉矶,45.61.24.162,speedtest.lax1.nitelusa.net.prod.hosts.ooklaserver.net,8080,Nitel
+69656,DE,Germany,法兰克福,87.106.58.204,speedtest03.ber.server.camp.prod.hosts.ooklaserver.net,8080,Server.camp - Open Source Hosting
+47713,SG,Singapore,新加坡,202.43.176.90,sig-speedtest.moratelindo.io.prod.hosts.ooklaserver.net,8080,PT. Mora Telematika Indonesia
+35791,HK,HK,中国香港,203.78.41.10,kami.smartone.com,8080,SmarTone
+69575,JP,Japan,日本东京,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
