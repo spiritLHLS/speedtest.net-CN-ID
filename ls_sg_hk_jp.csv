@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-42683,CA,United States,Los Angeles,74.81.44.94,speedtest-lax.perfectip.net,8080,PerfectIP.net
-37492,DE,Germany,Frankfurt,92.119.89.90,speedtest-fra.melbicom.net,8080,Melbicom
-59016,SG,Singapore,Singapore,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
-44745,HK,HK,Hong Kong,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
-62217,JP,Japan,Tokyo,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+42683,CA,United States,洛杉矶,74.81.44.94,speedtest-lax.perfectip.net,8080,PerfectIP.net
+37492,DE,Germany,法兰克福,92.119.89.90,speedtest-fra.melbicom.net,8080,Melbicom
+59016,SG,Singapore,新加坡,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
+44745,HK,HK,中国香港,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
+62217,JP,Japan,日本东京,104.251.228.139,speedtest.jp230.hnd.jp.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
