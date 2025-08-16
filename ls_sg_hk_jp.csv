@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-64122,CA,United States,Los Angeles,199.195.213.182,laxla0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net,8080,WiLine Networks
-69755,DE,Germany,Frankfurt,45.83.41.39,speedtest.eu-fr.kamatera.com.prod.hosts.ooklaserver.net,8080,"KamaTera, Inc."
-7556,SG,Singapore,Singapore,111.95.246.34,sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net,8080,PT FirstMedia
-68983,HK,HK,Hong Kong,103.194.237.34,speedtest-hkg.retn.net,8080,RETN
-56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+64122,CA,United States,洛杉矶,199.195.213.182,laxla0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net,8080,WiLine Networks
+69755,DE,Germany,法兰克福,45.83.41.39,speedtest.eu-fr.kamatera.com.prod.hosts.ooklaserver.net,8080,"KamaTera, Inc."
+7556,SG,Singapore,新加坡,111.95.246.34,sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net,8080,PT FirstMedia
+68983,HK,HK,中国香港,103.194.237.34,speedtest-hkg.retn.net,8080,RETN
+56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
