@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-42683,CA,United States,洛杉矶,74.81.44.94,speedtest-lax.perfectip.net,8080,PerfectIP.net
-53864,DE,Germany,法兰克福,37.114.48.240,speedtest.battern.eu.prod.hosts.ooklaserver.net,8080,Batternhosting
-67827,SG,Singapore,新加坡,1.52.247.12,speedtestsgp.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
-43356,HK,HK,中国香港,203.210.4.91,1010.hkspeedtest.com,8080,1010
-48463,JP,Japan,日本东京,219.100.92.228,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+7190,CA,United States,Los Angeles,64.32.16.6,ookla.la.ca.sharktech.net.prod.hosts.ooklaserver.net,8080,Sharktech Inc.
+37748,DE,Germany,Frankfurt,31.25.152.30,speedtest.ropa.de.prod.hosts.ooklaserver.net,8080,ropa GmbH & Co. KG
+42688,SG,Singapore,Singapore,112.215.198.21,speedtest-intl.xl.co.id.prod.hosts.ooklaserver.net,8080,PT XL Axiata Tbk
+35791,HK,HK,Hong Kong,203.78.41.10,kami.smartone.com,8080,SmarTone
+65101,JP,Japan,Tokyo,185.135.77.72,speedtest-jp.tgb-host.com.prod.hosts.ooklaserver.net,8080,7 BULL
