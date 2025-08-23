@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-64135,CA,United States,洛杉矶,207.126.167.245,speedtest.us-la.kamatera.com.prod.hosts.ooklaserver.net,8080,"KamaTera, Inc."
-69649,DE,Germany,法兰克福,178.254.30.69,spdfra.cndd.net.prod.hosts.ooklaserver.net,8080,BaanThaiSpa
-44817,SG,Singapore,新加坡,61.16.64.58,speedtest.sptel.com.prod.hosts.ooklaserver.net,8080,SPTEL PTE. LTD.
-60178,HK,HK,中国香港,203.210.4.92,sunmobile.hkspeedtest.com,8080,Sun Mobile
-50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+50165,CA,United States,Los Angeles,23.130.129.162,speedtest-la.getonward.com.prod.hosts.ooklaserver.net,8080,Onward
+54577,DE,Germany,Frankfurt,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
+42688,SG,Singapore,Singapore,112.215.198.21,speedtest-intl.xl.co.id.prod.hosts.ooklaserver.net,8080,PT XL Axiata Tbk
+60177,HK,HK,Hong Kong,203.210.2.92,hkt.hkspeedtest.com,8080,Club SIM by HKT
+69575,JP,Japan,Tokyo,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
