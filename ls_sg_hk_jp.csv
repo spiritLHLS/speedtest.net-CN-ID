@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-50165,CA,United States,洛杉矶,23.130.129.162,speedtest-la.getonward.com.prod.hosts.ooklaserver.net,8080,Onward
-54577,DE,Germany,法兰克福,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
-42688,SG,Singapore,新加坡,112.215.198.21,speedtest-intl.xl.co.id.prod.hosts.ooklaserver.net,8080,PT XL Axiata Tbk
-60177,HK,HK,中国香港,203.210.2.92,hkt.hkspeedtest.com,8080,Club SIM by HKT
-69575,JP,Japan,日本东京,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+64122,CA,United States,Los Angeles,199.195.213.182,laxla0001speedtestserver01.wiline.com.prod.hosts.ooklaserver.net,8080,WiLine Networks
+53864,DE,Germany,Frankfurt,37.114.48.240,speedtest.battern.eu.prod.hosts.ooklaserver.net,8080,Batternhosting
+7556,SG,Singapore,Singapore,111.95.246.34,sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net,8080,PT FirstMedia
+35791,HK,HK,Hong Kong,203.78.41.10,kami.smartone.com,8080,SmarTone
+69792,JP,Japan,Tokyo,46.250.248.56,tyo.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
