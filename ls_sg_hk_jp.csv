@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-9916,CA,United States,Los Angeles,50.7.229.14,lg-lax.fdcservers.net,8080,fdcservers.net
-37748,DE,Germany,Frankfurt,31.25.152.30,speedtest.ropa.de.prod.hosts.ooklaserver.net,8080,ropa GmbH & Co. KG
-69764,SG,Singapore,Singapore,217.15.166.168,sg.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
-62191,HK,HK,Hong Kong,206.237.33.48,speedtest.finovy.com,8080,Finovy Pte. Ltd.
-28910,JP,Japan,Tokyo,50.7.159.4,lg-hnd.fdcservers.net,8080,fdcservers.net
+9916,CA,United States,洛杉矶,50.7.229.14,lg-lax.fdcservers.net,8080,fdcservers.net
+37748,DE,Germany,法兰克福,31.25.152.30,speedtest.ropa.de.prod.hosts.ooklaserver.net,8080,ropa GmbH & Co. KG
+69764,SG,Singapore,新加坡,217.15.166.168,sg.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
+62191,HK,HK,中国香港,206.237.33.48,speedtest.finovy.com,8080,Finovy Pte. Ltd.
+28910,JP,Japan,日本东京,50.7.159.4,lg-hnd.fdcservers.net,8080,fdcservers.net
