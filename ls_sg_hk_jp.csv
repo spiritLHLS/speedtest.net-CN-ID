@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-9916,CA,United States,洛杉矶,50.7.229.14,lg-lax.fdcservers.net,8080,fdcservers.net
-37748,DE,Germany,法兰克福,31.25.152.30,speedtest.ropa.de.prod.hosts.ooklaserver.net,8080,ropa GmbH & Co. KG
-69764,SG,Singapore,新加坡,217.15.166.168,sg.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
-62191,HK,HK,中国香港,206.237.33.48,speedtest.finovy.com,8080,Finovy Pte. Ltd.
-28910,JP,Japan,日本东京,50.7.159.4,lg-hnd.fdcservers.net,8080,fdcservers.net
+52311,CA,United States,Los Angeles,164.68.254.15,speedtestla.gethotwired.com.prod.hosts.ooklaserver.net,8080,Hotwire Fision
+69755,DE,Germany,Frankfurt,45.83.41.39,speedtest.eu-fr.kamatera.com.prod.hosts.ooklaserver.net,8080,"KamaTera, Inc."
+7311,SG,Singapore,Singapore,103.1.138.214,m1speedtest1.m1net.com.sg,8080,M1 Limited
+60177,HK,HK,Hong Kong,203.210.2.92,hkt.hkspeedtest.com,8080,Club SIM by HKT
+50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
