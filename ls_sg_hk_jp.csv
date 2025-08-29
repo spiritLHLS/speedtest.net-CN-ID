@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-35056,CA,United States,Los Angeles,77.247.126.223,la.speedtest.clouvider.net.prod.hosts.ooklaserver.net,8080,Clouvider Ltd
-69649,DE,Germany,Frankfurt,178.254.30.69,spdfra.cndd.net.prod.hosts.ooklaserver.net,8080,BaanThaiSpa
-59016,SG,Singapore,Singapore,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
-61296,HK,Hong Kong,Hong Kong,202.45.189.2,speedtest1c.hkix.net.prod.hosts.ooklaserver.net,8080,HKIX
-69575,JP,Japan,Tokyo,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+35056,CA,United States,洛杉矶,77.247.126.223,la.speedtest.clouvider.net.prod.hosts.ooklaserver.net,8080,Clouvider Ltd
+69649,DE,Germany,法兰克福,178.254.30.69,spdfra.cndd.net.prod.hosts.ooklaserver.net,8080,BaanThaiSpa
+59016,SG,Singapore,新加坡,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
+61296,HK,Hong Kong,中国香港,202.45.189.2,speedtest1c.hkix.net.prod.hosts.ooklaserver.net,8080,HKIX
+69575,JP,Japan,日本东京,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
