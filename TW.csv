@@ -1,64 +1,61 @@
 id,country_code,country,city,ip,host,port,supplier
-5334,TW,TW,Taipei,60.199.147.33,spttp1_tc.taiwanmobile.com,8080,"Taiwan Star Telecom Co., Ltd."
-7429,TW,TW,Taipei,106.105.105.66,speedtest1.taipeinet.com.tw,8080,Taipeinet
-8968,TW,TW,Kaohsiung,219.69.127.3,ks-speedtest.homeplus.net.tw,8080,Homeplus
-11702,TW,TW,Taoyuan,60.199.147.65,sptty1.taiwanmobile.com,8080,Taiwan Mobile
-11703,TW,TW,Taipei,60.199.147.177,spttp1.taiwanmobile.com,8080,Taiwan Mobile
-11705,TW,TW,Hsinchu,60.199.147.81,spthc1.taiwanmobile.com,8080,Taiwan Mobile
-11707,TW,TW,Taichung,203.105.239.14,spttc2.taiwanmobile.com,8080,Taiwan Mobile
-11708,TW,TW,Hualien,60.199.137.33,spthl1.taiwanmobile.com,8080,Taiwan Mobile
-11709,TW,TW,Changhua,203.105.239.18,sptch2.taiwanmobile.com,8080,Taiwan Mobile
-11711,TW,TW,Tainan,203.105.224.18,spttn2.taiwanmobile.com,8080,Taiwan Mobile
-11713,TW,TW,Kaohsiung,203.105.224.22,sptkh2.taiwanmobile.com,8080,Taiwan Mobile
-12000,TW,TW,Taichung,123.240.255.26,custom.tbcnet.net.tw,8080,TBC
-12583,TW,TW,New Taipei,60.199.137.193,sb-speedtest-1.twmbroadband.net,8080,TFN Media
-13506,TW,TW,Taipei,103.31.196.221,speedtest.taifo.com.tw,8080,TAIFO Taiwan
-17186,TW,TW,Zhongli,211.77.43.20,fetzl1.seed.net.tw,8080,FarEasTone Telecom
-17189,TW,TW,Nantou City,211.77.43.28,fetnt1.seed.net.tw,8080,FarEasTone Telecom
-18445,TW,TW,Taipei,111.71.227.33,tp1.chtm.hinet.net,8080,Chunghwa Mobile
-18447,TW,TW,New Taipei,111.71.227.41,ntp1.chtm.hinet.net,8080,Chunghwa Mobile
-18450,TW,TW,Hsinchu,111.71.228.41,hc1.chtm.hinet.net,8080,Chunghwa Mobile
-18452,TW,TW,Taoyuan,111.71.228.33,ty1.chtm.hinet.net,8080,Chunghwa Mobile
-18456,TW,TW,Taichung,111.71.229.33,tc1.chtm.hinet.net,8080,Chunghwa Mobile
-18458,TW,TW,Kaohsiung,111.71.230.33,kh1.chtm.hinet.net,8080,Chunghwa Mobile
-18475,TW,TW,Keelung,210.61.132.22,klv3-1.speedtest.idv.tw,8080,Chief Telecom
-18478,TW,TW,Douliu,210.61.132.30,dlv3-1.speedtest.idv.tw,8080,Chief Telecom
-18480,TW,TW,Taitung,210.61.132.38,ttv3-1.speedtest.idv.tw,8080,Chief Telecom
-18607,TW,TW,Tainan,111.71.230.41,tn1.chtm.hinet.net,8080,Chunghwa Mobile
-18611,TW,TW,Changhua,111.71.229.41,ch1.chtm.hinet.net,8080,Chunghwa Mobile
-24377,TW,TW,Tainan,115.43.192.133,tn-speedtest.homeplus.net.tw,8080,Homeplus
-24429,TW,TW,Taipei,115.43.115.15,tp-speedtest.homeplus.net.tw,8080,Homeplus
-24460,TW,TW,New Taipei,115.43.128.130,ntp-speedtest.homeplus.net.tw,8080,Homeplus
-24461,TW,TW,Banqiao,219.68.164.18,sky-speedtest.homeplus.net.tw,8080,Homeplus
-24462,TW,TW,Taoyuan,115.43.176.10,ty-speedtest.homeplus.net.tw,8080,Homeplus
-24974,TW,TW,Keelung,115.43.96.15,kl-speedtest.homeplus.net.tw,8080,Homeplus
-27752,TW,TW,Nantou,210.201.72.14,srv4.speedtest.aptg.com.tw,8080,Asia Pacific Telecom
-29107,TW,TW,Taoyuan,210.201.72.16,srv6.speedtest.aptg.com.tw,8080,Asia Pacific Telecom
-29253,TW,TW,Kaohsiung Lingya,203.187.94.4,gd-speedtest.homeplus.net.tw,8080,Homeplus
-29283,TW,TW,Shulin District,203.187.90.4,gh-speedtest.homeplus.net.tw,8080,Homeplus
-29284,TW,TW,Tainan South District,203.187.93.4,sc-speedtest.homeplus.net.tw,8080,Homeplus
-29288,TW,TW,Daan District,203.187.82.4,wd-speedtest.homeplus.net.tw,8080,Homeplus
-29716,TW,TW,Neihu District,203.187.83.4,lg-speedtest.homeplus.net.tw,8080,Homeplus
+7429,TW,Taiwan,Taipei,106.105.105.66,speedtest1.taipeinet.com.tw.prod.hosts.ooklaserver.net,8080,Taipeinet
+8968,TW,Taiwan,Kaohsiung,219.69.127.3,ks-speedtest.homeplus.net.tw,8080,Homeplus
+11702,TW,Taiwan,Taoyuan,60.199.147.65,sptty1.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
+11703,TW,Taiwan,Taipei,60.199.147.177,spttp1.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
+11705,TW,Taiwan,Hsinchu,60.199.147.81,spthc1.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
+11707,TW,Taiwan,Taichung,203.105.239.14,spttc2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
+11708,TW,Taiwan,Hualien,60.199.137.33,spthl1.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
+11709,TW,Taiwan,Changhua,203.105.239.18,sptch2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
+11711,TW,Taiwan,Tainan,203.105.224.18,spttn2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
+11713,TW,Taiwan,Kaohsiung,203.105.224.22,sptkh2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
+12000,TW,Taiwan,Taichung,123.240.255.26,custom.tbcnet.net.tw.prod.hosts.ooklaserver.net,8080,TBC
+12583,TW,Taiwan,New Taipei,60.199.137.193,sb-speedtest-1.twmbroadband.net.prod.hosts.ooklaserver.net,8080,TFN Media
+13506,TW,Taiwan,Taipei,103.31.196.221,speedtest.taifo.com.tw.prod.hosts.ooklaserver.net,8080,TAIFO Taiwan
+17186,TW,Taiwan,Zhongli,211.77.43.20,fetzl1.seed.net.tw.prod.hosts.ooklaserver.net,8080,FarEasTone Telecom
+18445,TW,Taiwan,Taipei,111.71.227.33,tp1.chtm.hinet.net,8080,Chunghwa Mobile
+18447,TW,Taiwan,New Taipei,111.71.227.41,ntp1.chtm.hinet.net,8080,Chunghwa Mobile
+18450,TW,Taiwan,Hsinchu,111.71.228.41,hc1.chtm.hinet.net,8080,Chunghwa Mobile
+18452,TW,Taiwan,Taoyuan,111.71.228.33,ty1.chtm.hinet.net,8080,Chunghwa Mobile
+18456,TW,Taiwan,Taichung,111.71.229.33,tc1.chtm.hinet.net,8080,Chunghwa Mobile
+18458,TW,Taiwan,Kaohsiung,111.71.230.33,kh1.chtm.hinet.net,8080,Chunghwa Mobile
+18475,TW,Taiwan,Keelung,210.61.132.22,klv3-1.speedtest.idv.tw,8080,Chief Telecom
+18478,TW,Taiwan,Douliu,210.61.132.30,dlv3-1.speedtest.idv.tw,8080,Chief Telecom
+18480,TW,Taiwan,Taitung,210.61.132.38,ttv3-1.speedtest.idv.tw,8080,Chief Telecom
+18607,TW,Taiwan,Tainan,111.71.230.41,tn1.chtm.hinet.net,8080,Chunghwa Mobile
+18611,TW,Taiwan,Changhua,111.71.229.41,ch1.chtm.hinet.net,8080,Chunghwa Mobile
+24377,TW,Taiwan,Tainan,115.43.192.133,tn-speedtest.homeplus.net.tw,8080,Homeplus
+24429,TW,Taiwan,Taipei,115.43.115.15,tp-speedtest.homeplus.net.tw,8080,Homeplus
+24460,TW,Taiwan,New Taipei,115.43.128.130,ntp-speedtest.homeplus.net.tw,8080,Homeplus
+24461,TW,Taiwan,Banqiao,219.68.164.18,sky-speedtest.homeplus.net.tw,8080,Homeplus
+24462,TW,Taiwan,Taoyuan,115.43.176.10,ty-speedtest.homeplus.net.tw,8080,Homeplus
+24974,TW,Taiwan,Keelung,115.43.96.15,kl-speedtest.homeplus.net.tw,8080,Homeplus
+27752,TW,Taiwan,Nantou,210.201.72.14,srv4.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
+29107,TW,Taiwan,Taoyuan,210.201.72.16,srv6.speedtest.aptg.com.tw.prod.hosts.ooklaserver.net,8080,Asia Pacific Telecom
+29253,TW,Taiwan,Kaohsiung Lingya,203.187.94.4,gd-speedtest.homeplus.net.tw,8080,Homeplus
+29283,TW,Taiwan,Shulin District,203.187.90.4,gh-speedtest.homeplus.net.tw,8080,Homeplus
+29284,TW,Taiwan,Tainan South District,203.187.93.4,sc-speedtest.homeplus.net.tw,8080,Homeplus
+29288,TW,Taiwan,Daan District,203.187.82.4,wd-speedtest.homeplus.net.tw,8080,Homeplus
+29716,TW,Taiwan,Neihu District,203.187.83.4,lg-speedtest.homeplus.net.tw,8080,Homeplus
 30916,TW,Brazil,Formosa,131.0.56.5,speedtest.plugfibra.com.br.prod.hosts.ooklaserver.net,8080,Plug Fibra
-31648,TW,TW,New Taipei,211.23.170.146,speedtest.sercomm.com,8080,Sercomm Corporation
+31648,TW,Taiwan,New Taipei,211.23.170.146,speedtest.sercomm.com,8080,Sercomm Corporation
 31940,TW,Brazil,Formosa,45.186.64.9,speed.powerconnect.net.br,8080,Power Connect
-32319,TW,TW,Tainan,120.116.1.43,tnookla.tn.edu.tw,8080,TNIC
-35066,TW,TW,Taipei,116.50.42.12,speedtest.dongfong.com.tw,8080,DFT
-36071,TW,TW,Taipei,103.246.219.98,speedtest.imcloud.tw,8080,"Sky Digital Co., Ltd"
-36122,TW,TW,Tainan,123.205.190.221,speedtestookla.hya.tw,8080,HYA
+32319,TW,Taiwan,Tainan,120.116.1.43,tnookla.tn.edu.tw,8080,TNIC
+36071,TW,Taiwan,Taipei,103.246.219.98,speedtest.imcloud.tw.prod.hosts.ooklaserver.net,8080,"Sky Digital Co., Ltd"
+36122,TW,Taiwan,Tainan,123.205.190.221,speedtestookla.hya.tw.prod.hosts.ooklaserver.net,8080,HYA
 36634,TW,Taiwan,Taoyuan District,211.77.43.112,seednet-ty1.seed.net.tw.prod.hosts.ooklaserver.net,8080,SEEDNET
-40727,TW,TW,Taichung,211.77.43.115,seednet-tc1.seed.net.tw,8080,SEEDNET
+40727,TW,Taiwan,Taichung,211.77.43.115,seednet-tc1.seed.net.tw.prod.hosts.ooklaserver.net,8080,SEEDNET
 40742,TW,Argentina,Formosa,45.175.140.18,speedtest.bocarojasa.com.ar.prod.hosts.ooklaserver.net,8080,Boca Roja SA
-41191,TW,TW,Chiayi,203.105.224.14,sptcy2.taiwanmobile.com,8080,Taiwan Mobile
-42192,TW,TW,New Taipei,103.129.168.8,speedtest.host.com.tw,8080,Yuan-Jhen Info
-44603,TW,TW,Taipei,103.147.22.134,speedtest.twds.com.tw,8080,Taiwan Digital Streaming Co.
+41191,TW,Taiwan,Chiayi,203.105.224.14,sptcy2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
+42192,TW,Taiwan,New Taipei,103.129.168.8,speedtest.host.com.tw.prod.hosts.ooklaserver.net,8080,Yuan-Jhen Info
+44603,TW,Taiwan,Taipei,103.147.22.134,speedtest.twds.com.tw.prod.hosts.ooklaserver.net,8080,Taiwan Digital Streaming Co.
 47427,TW,Brazil,Formosa,177.73.88.4,speedtest.netviatelecom.com.br.prod.hosts.ooklaserver.net,8080,Netvia
-55261,TW,TW,Taichung,61.60.226.2,speedtest.tinp.net.tw,8080,Tinp
-56277,TW,TW,Miaoli City,203.105.239.22,sptdl2.taiwanmobile.com,8080,Taiwan Mobile
-59180,TW,TW,Taipei City,103.186.118.247,ookla-speedtest.starverse.network,8080,Starverse Network
-61136,TW,TW,Taipei,211.76.176.11,tpe.speedtest.pni.tw,8080,"Pittqiao Network Information Co.,Ltd."
-61560,TW,TW,Taichung,103.127.218.248,tcg.speedtest.pni.tw,8080,"Pittqiao Network Information Co.,Ltd."
-65092,TW,TW,Taipei,206.148.22.75,tpe.speedtest.gslnetworks.com,8080,GSL Networks
-69301,TW,TW,Taichung,111.253.131.159,txg-speedtest.infinirc.com,8080,Infinirc
-71293,TW,TW,Taipei,220.129.23.77,sqaookla.ddns.net,8080,PEGATRON
+55261,TW,Taiwan,Taichung,61.60.226.2,speedtest.tinp.net.tw,8080,Tinp
+56277,TW,Taiwan,Miaoli City,203.105.239.22,sptdl2.taiwanmobile.com.prod.hosts.ooklaserver.net,8080,Taiwan Mobile
+59180,TW,Taiwan,Taipei City,103.186.118.247,ookla-speedtest.starverse.network.prod.hosts.ooklaserver.net,8080,Starverse Network
+61136,TW,Taiwan,Taipei,211.76.176.11,tpe.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
+61560,TW,Taiwan,Taichung,103.127.218.248,tcg.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
+65092,TW,Taiwan,Taipei,206.148.22.75,tpe.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+69301,TW,Taiwan,Taichung,111.253.131.159,txg-speedtest.infinirc.com,8080,Infinirc
+71293,TW,Taiwan,Taipei,220.129.23.77,sqaookla.ddns.net.prod.hosts.ooklaserver.net,8080,PEGATRON
 71305,TW,Brazil,Formosa,38.226.107.72,teste.unifibranet.com.br,8080,UNI FIBRANET
