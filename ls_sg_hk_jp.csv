@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-13516,CA,United States,洛杉矶,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
-37492,DE,Germany,法兰克福,92.119.89.90,speedtest-fra.melbicom.net,8080,Melbicom
-50344,SG,Singapore,新加坡,203.27.107.253,sg3.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-35791,HK,HK,中国香港,203.78.41.10,kami.smartone.com,8080,SmarTone
-48463,JP,Japan,日本东京,219.100.92.230,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+13516,CA,United States,Los Angeles,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
+37492,DE,Germany,Frankfurt,92.119.89.90,speedtest-fra.melbicom.net,8080,Melbicom
+50344,SG,Singapore,Singapore,203.27.107.253,sg3.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+35791,HK,HK,Hong Kong,203.78.41.10,kami.smartone.com,8080,SmarTone
+48463,JP,Japan,Tokyo,219.100.92.230,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
