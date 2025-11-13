@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-69041,CA,United States,Los Angeles,38.148.72.22,lax-st.sumofiber.com.prod.hosts.ooklaserver.net,8080,SUMOFIBER
-68177,DE,United Germany,Frankfurt,66.206.25.57,speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
-2054,SG,Singapore,Singapore,202.83.107.134,speedtest10.vqbn.com.prod.hosts.ooklaserver.net,8080,ViewQwest
-32155,HK,Hong Kong,Hong Kong,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
-48463,JP,Japan,Tokyo,219.100.92.232,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+69041,CA,United States,洛杉矶,38.148.72.22,lax-st.sumofiber.com.prod.hosts.ooklaserver.net,8080,SUMOFIBER
+68177,DE,United Germany,法兰克福,66.206.25.57,speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
+2054,SG,Singapore,新加坡,202.83.107.134,speedtest10.vqbn.com.prod.hosts.ooklaserver.net,8080,ViewQwest
+32155,HK,Hong Kong,中国香港,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
+48463,JP,Japan,日本东京,219.100.92.232,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
