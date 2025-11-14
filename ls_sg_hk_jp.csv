@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-69041,CA,United States,洛杉矶,38.148.72.22,lax-st.sumofiber.com.prod.hosts.ooklaserver.net,8080,SUMOFIBER
-68177,DE,United Germany,法兰克福,66.206.25.57,speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
-2054,SG,Singapore,新加坡,202.83.107.134,speedtest10.vqbn.com.prod.hosts.ooklaserver.net,8080,ViewQwest
-32155,HK,Hong Kong,中国香港,182.239.125.254,speedtest.hk.chinamobile.com,8080,CMHK Mobile Service
-48463,JP,Japan,日本东京,219.100.92.232,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+60433,CA,United States,Los Angeles,162.255.33.206,la-ookla.geolinks.com.prod.hosts.ooklaserver.net,8080,GeoLinks
+63028,DE,Germany,Frankfurt,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
+41358,SG,Singapore,Singapore,103.164.55.91,sin.speedtest.contabo.net,8080,Contabo
+67826,HK,Hong Kong,Hong Kong,1.52.247.4,speedtesthkg.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
+60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
