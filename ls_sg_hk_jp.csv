@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-52311,CA,United States,洛杉矶,164.68.254.15,speedtestla.gethotwired.com.prod.hosts.ooklaserver.net,8080,Hotwire Fision
-18667,DE,Germany,法兰克福,185.37.147.2,speedtest.meerfarbig.net.prod.hosts.ooklaserver.net,8080,meerfarbig GmbH & Co. KG
-59016,SG,Singapore,新加坡,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
-37639,HK,Hong Kong,中国香港,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,CMHK Broadband
-50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+60392,CA,United States,Los Angeles,38.175.108.88,us-lax02.speed.misaka.one,8080,"Misaka Network, Inc."
+69755,DE,Germany,Frankfurt,45.83.41.39,speedtest.eu-fr.kamatera.com.prod.hosts.ooklaserver.net,8080,"KamaTera, Inc."
+7311,SG,Singapore,Singapore,103.1.138.214,m1speedtest1.m1net.com.sg,8080,M1 Limited
+43356,HK,Hong Kong,Hong Kong,203.210.4.91,1010.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,1010
+60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
