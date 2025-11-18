@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-60433,CA,United States,洛杉矶,162.255.33.206,la-ookla.geolinks.com.prod.hosts.ooklaserver.net,8080,GeoLinks
-63028,DE,Germany,法兰克福,80.244.210.230,speedtest.webdiscount.net.prod.hosts.ooklaserver.net,8080,WEBDISCOUNT GmbH & Co. KG
-37744,SG,Singapore,新加坡,180.240.181.36,speedtest2.telin.sg.prod.hosts.ooklaserver.net,8080,Telekomunikasi Indonesia International Pte Ltd (Telin Singapore)
-67826,HK,Hong Kong,中国香港,1.52.247.4,speedtesthkg.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
-50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+18229,CA,United States,Los Angeles,8.3.86.3,speedtest-server-lax.starry.com.prod.hosts.ooklaserver.net,8080,"Starry, Inc."
+54577,DE,Germany,Frankfurt,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
+46304,SG,Singapore,Singapore,103.134.153.18,sg.cloudhost.asia,8080,IDCloudHost Singapore
+33414,HK,Hong Kong,Hong Kong,124.217.142.7,speedtest.three.com.hk,8080,Hutchison HK
+28910,JP,Japan,Tokyo,50.7.159.210,speedtest.hnd.fdcservers.net,8080,fdcservers.net
