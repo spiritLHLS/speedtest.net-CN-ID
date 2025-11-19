@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-9916,CA,United States,Los Angeles,50.7.229.14,lg-lax.fdcservers.net,8080,fdcservers.net
-70961,DE,Germany,Frankfurt,104.252.2.22,speed2.netlixor.de.prod.hosts.ooklaserver.net,8080,Netlixor
-12687,SG,Singapore,Singapore,210.10.78.220,speedtest-sg1.simba.sg,8080,SIMBA Telecom
-57571,HK,Hong Kong,Hong Kong,203.171.30.36,hkgspeedtest.cmctelecom.vn.prod.hosts.ooklaserver.net,8080,CMC Telecom
-69575,JP,Japan,Tokyo,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+9916,CA,United States,洛杉矶,50.7.229.14,lg-lax.fdcservers.net,8080,fdcservers.net
+70961,DE,Germany,法兰克福,104.252.2.22,speed2.netlixor.de.prod.hosts.ooklaserver.net,8080,Netlixor
+12687,SG,Singapore,新加坡,210.10.78.220,speedtest-sg1.simba.sg,8080,SIMBA Telecom
+57571,HK,Hong Kong,中国香港,203.171.30.36,hkgspeedtest.cmctelecom.vn.prod.hosts.ooklaserver.net,8080,CMC Telecom
+69575,JP,Japan,日本东京,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
