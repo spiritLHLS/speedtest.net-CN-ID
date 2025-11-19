@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-18229,CA,United States,洛杉矶,8.3.86.3,speedtest-server-lax.starry.com.prod.hosts.ooklaserver.net,8080,"Starry, Inc."
-54577,DE,Germany,法兰克福,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
-46304,SG,Singapore,新加坡,103.134.153.18,sg.cloudhost.asia,8080,IDCloudHost Singapore
-33414,HK,Hong Kong,中国香港,124.217.142.7,speedtest.three.com.hk,8080,Hutchison HK
-28910,JP,Japan,日本东京,50.7.159.210,speedtest.hnd.fdcservers.net,8080,fdcservers.net
+9916,CA,United States,Los Angeles,50.7.229.14,lg-lax.fdcservers.net,8080,fdcservers.net
+70961,DE,Germany,Frankfurt,104.252.2.22,speed2.netlixor.de.prod.hosts.ooklaserver.net,8080,Netlixor
+12687,SG,Singapore,Singapore,210.10.78.220,speedtest-sg1.simba.sg,8080,SIMBA Telecom
+57571,HK,Hong Kong,Hong Kong,203.171.30.36,hkgspeedtest.cmctelecom.vn.prod.hosts.ooklaserver.net,8080,CMC Telecom
+69575,JP,Japan,Tokyo,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
