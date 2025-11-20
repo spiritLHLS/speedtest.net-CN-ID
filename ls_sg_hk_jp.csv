@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-9916,CA,United States,洛杉矶,50.7.229.14,lg-lax.fdcservers.net,8080,fdcservers.net
-70961,DE,Germany,法兰克福,104.252.2.22,speed2.netlixor.de.prod.hosts.ooklaserver.net,8080,Netlixor
-12687,SG,Singapore,新加坡,210.10.78.220,speedtest-sg1.simba.sg,8080,SIMBA Telecom
-57571,HK,Hong Kong,中国香港,203.171.30.36,hkgspeedtest.cmctelecom.vn.prod.hosts.ooklaserver.net,8080,CMC Telecom
-69575,JP,Japan,日本东京,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+19230,CA,United States,Los Angeles,66.165.241.242,speedtest.lax.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
+69755,DE,Germany,Frankfurt,45.83.41.39,speedtest.eu-fr.kamatera.com.prod.hosts.ooklaserver.net,8080,"KamaTera, Inc."
+31180,SG,Singapore,Singapore,103.113.185.66,sp1.campanaworks.com.prod.hosts.ooklaserver.net,8080,Campana
+72331,HK,Hong Kong,Hong Kong,141.11.133.99,hk01.bigball.top.prod.hosts.ooklaserver.net,8080,MistNet
+48463,JP,Japan,Tokyo,219.100.92.232,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
