@@ -1,7 +1,8 @@
 id,country_code,country,city,ip,host,port,supplier
 5396,CN,China,Suzhou,115.169.22.130,4gsuzhou1.speedtest.jsinfo.net.prod.hosts.ooklaserver.net,8080,China Telecom JiangSu 5G
 13403,CN,Colombia,Chía,181.189.24.35,speed.evernet.net.co.prod.hosts.ooklaserver.net,8080,Evernet
-16204,CN,China,Suzhou,36.156.46.51,speedtest.jsqiuying.com,8080,JSQY - Suzhou
+16204,CN,China,Suzhou,36.156.46.53,speedtest.jsqiuying.com,8080,JSQY - Suzhou
+17265,CN,Taiwan,Zhonghe,211.77.43.18,fetsz1.seed.net.tw.prod.hosts.ooklaserver.net,8080,FarEasTone Telecom
 24447,CN,China,Shanghai,210.22.155.34,mobile.shunicomtest.com.prod.hosts.ooklaserver.net,8080,China Unicom 5G
 30852,CN,China,Kunshan,180.208.59.230,speedtest.dukekunshan.edu.cn,8080,Duke Kunshan University
 36663,CN,China,Zhenjiang,115.168.74.186,5gzhenjiang.speedtest.jsinfo.net.prod.hosts.ooklaserver.net,8080,China Telecom JiangSu 5G

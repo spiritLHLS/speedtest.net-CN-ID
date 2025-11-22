@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-34840,CA,United States,洛杉矶,104.238.206.46,los-angeles-speedtest.reliablesite.net.prod.hosts.ooklaserver.net,8080,ReliableSite Hosting
-70961,DE,Germany,法兰克福,104.252.2.22,speed2.netlixor.de.prod.hosts.ooklaserver.net,8080,Netlixor
-28921,SG,Singapore,新加坡,131.153.76.66,speedsin.phoenixnap.com.prod.hosts.ooklaserver.net,8080,PhoenixNAP Global IT Services
-70128,HK,Hong Kong,中国香港,115.42.62.244,hkg.02.speedtest.kansuiun.com.prod.hosts.ooklaserver.net,8080,"Kansuiun Co., Ltd"
-48463,JP,Japan,日本东京,219.100.92.232,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+50081,CA,United States,Los Angeles,203.10.97.253,la2.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+68177,DE,United Germany,Frankfurt,66.206.25.57,speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
+67827,SG,Singapore,Singapore,1.52.247.12,speedtestsgp.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
+33414,HK,Hong Kong,Hong Kong,124.217.142.7,speedtest.three.com.hk,8080,Hutchison HK
+50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
