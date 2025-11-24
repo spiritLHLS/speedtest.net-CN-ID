@@ -1,31 +1,31 @@
 id,country_code,country,city,ip,host,port,supplier
-2054,SG,Singapore,Singapore,202.83.107.134,speedtest10.vqbn.com.prod.hosts.ooklaserver.net,8080,ViewQwest
-5935,SG,Singapore,Singapore,103.6.148.98,speedtest.myrepublic.com.sg.prod.hosts.ooklaserver.net,8080,MyRepublic Singapore
-7311,SG,Singapore,Singapore,103.1.138.214,m1speedtest1.m1net.com.sg,8080,M1 Limited
-7556,SG,Singapore,Singapore,111.95.246.34,sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net,8080,PT FirstMedia
-12687,SG,Singapore,Singapore,210.10.78.220,speedtest-sg1.simba.sg,8080,SIMBA Telecom
-13058,SG,Singapore,Singapore,114.4.41.30,speedtest1.indosatooredoo.com.prod.hosts.ooklaserver.net,8080,PT. Indosat Tbk
-13623,SG,Singapore,Singapore,165.21.70.1,speedtest.singnet.com.sg,8080,Singtel
-23467,SG,Singapore,Singapore,103.111.59.250,speedtest-sg.iconpln.net.id.prod.hosts.ooklaserver.net,8080,PT. Indonesia Comnets Plus
-28921,SG,Singapore,Singapore,131.153.76.66,speedsin.phoenixnap.com.prod.hosts.ooklaserver.net,8080,PhoenixNAP Global IT Services
-31293,SG,Singapore,Singapore,45.117.189.2,speedtest2.pacificinternet.com.prod.hosts.ooklaserver.net,8080,Pacific Internet (S)
-37744,SG,Singapore,Singapore,180.240.181.36,speedtest2.telin.sg.prod.hosts.ooklaserver.net,8080,Telekomunikasi Indonesia International Pte Ltd (Telin Singapore)
-41358,SG,Singapore,Singapore,103.164.55.91,sin.speedtest.contabo.net,8080,Contabo
-41801,SG,Singapore,Singapore,103.29.57.19,speedtest-eqx-sg1.ixtelecom.net.prod.hosts.ooklaserver.net,8080,IX Telecom
-42688,SG,Singapore,Singapore,112.215.198.21,speedtest-intl.xl.co.id.prod.hosts.ooklaserver.net,8080,PT XL Axiata Tbk
-44817,SG,Singapore,Singapore,61.16.64.58,speedtest.sptel.com.prod.hosts.ooklaserver.net,8080,SPTEL PTE. LTD.
-45345,SG,Singapore,Singapore,5.44.249.3,speedtest-sin.melbicom.net,8080,Melbikomas UAB
-46304,SG,Singapore,Singapore,103.134.153.18,sg.cloudhost.asia,8080,IDCloudHost Singapore
-47713,SG,Singapore,Singapore,202.43.176.90,sig-speedtest.moratelindo.io.prod.hosts.ooklaserver.net,8080,PT. Mora Telematika Indonesia
-50406,SG,Singapore,Singapore,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
-51839,SG,Singapore,Singapore,103.225.148.3,speedtest.singapore.globalxtreme.net.prod.hosts.ooklaserver.net,8080,GlobalXtreme
-54359,SG,Singapore,Singapore,115.146.113.46,speedtest-sg.napinfo.co.id.prod.hosts.ooklaserver.net,8080,Matrix NAP Info
-57570,SG,Singapore,Singapore,203.171.30.20,sgpspeedtest.cmctelecom.vn.prod.hosts.ooklaserver.net,8080,CMC Telecom
-59016,SG,Singapore,Singapore,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
-61320,SG,Singapore,Singapore,102.130.67.118,singapura.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net,8080,Angola Cables
-62020,SG,Singapore,Singapore,209.146.43.37,speedtest.axclusive.com.sg.prod.hosts.ooklaserver.net,8080,Axclusive Pte Ltd
-62530,SG,Singapore,Singapore,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL
-67827,SG,Singapore,Singapore,1.52.247.12,speedtestsgp.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
-69764,SG,Singapore,Singapore,217.15.166.168,sg.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
-69840,SG,Singapore,Singapore,103.172.182.13,sg-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
-72700,SG,Singapore,Singapore,151.243.143.40,speedtest.sin.sptrnd.id,8080,sptrnd.id
+2054,SG,Singapore,新加坡ViewQwest,202.83.107.134,speedtest10.vqbn.com.prod.hosts.ooklaserver.net,8080,ViewQwest
+5935,SG,Singapore,新加坡MyRepublic,103.6.148.98,speedtest.myrepublic.com.sg.prod.hosts.ooklaserver.net,8080,MyRepublic Singapore
+7311,SG,Singapore,新加坡M1Limited,103.1.138.214,m1speedtest1.m1net.com.sg,8080,M1 Limited
+7556,SG,Singapore,新加坡PTFirstMedia,111.95.246.34,sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net,8080,PT FirstMedia
+12687,SG,Singapore,新加坡SIMBA,210.10.78.220,speedtest-sg1.simba.sg,8080,SIMBA Telecom
+13058,SG,Singapore,新加坡PT.IndosatTbk,114.4.41.30,speedtest1.indosatooredoo.com.prod.hosts.ooklaserver.net,8080,PT. Indosat Tbk
+13623,SG,Singapore,新加坡Singtel,165.21.70.1,speedtest.singnet.com.sg,8080,Singtel
+23467,SG,Singapore,新加坡PT.ComnetsPlus,103.111.59.250,speedtest-sg.iconpln.net.id.prod.hosts.ooklaserver.net,8080,PT. Indonesia Comnets Plus
+28921,SG,Singapore,新加坡PhoenixNAP,131.153.76.66,speedsin.phoenixnap.com.prod.hosts.ooklaserver.net,8080,PhoenixNAP Global IT Services
+31293,SG,Singapore,新加坡PacificInternet(S),45.117.189.2,speedtest2.pacificinternet.com.prod.hosts.ooklaserver.net,8080,Pacific Internet (S)
+37744,SG,Singapore,新加坡Telekomunikasi,180.240.181.36,speedtest2.telin.sg.prod.hosts.ooklaserver.net,8080,Telekomunikasi Indonesia International Pte Ltd (Telin Singapore)
+41358,SG,Singapore,新加坡Contabo,103.164.55.91,sin.speedtest.contabo.net,8080,Contabo
+41801,SG,Singapore,新加坡IX,103.29.57.19,speedtest-eqx-sg1.ixtelecom.net.prod.hosts.ooklaserver.net,8080,IX Telecom
+42688,SG,Singapore,新加坡PTXLAxiataTbk,112.215.198.21,speedtest-intl.xl.co.id.prod.hosts.ooklaserver.net,8080,PT XL Axiata Tbk
+44817,SG,Singapore,新加坡SPTELPTE.LTD.,61.16.64.58,speedtest.sptel.com.prod.hosts.ooklaserver.net,8080,SPTEL PTE. LTD.
+45345,SG,Singapore,新加坡MelbikomasUAB,5.44.249.3,speedtest-sin.melbicom.net,8080,Melbikomas UAB
+46304,SG,Singapore,新加坡IDCloudHost,103.134.153.18,sg.cloudhost.asia,8080,IDCloudHost Singapore
+47713,SG,Singapore,新加坡PT.MoraTelematika,202.43.176.90,sig-speedtest.moratelindo.io.prod.hosts.ooklaserver.net,8080,PT. Mora Telematika Indonesia
+50406,SG,Singapore,新加坡Verizon,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+51839,SG,Singapore,新加坡GlobalXtreme,103.225.148.3,speedtest.singapore.globalxtreme.net.prod.hosts.ooklaserver.net,8080,GlobalXtreme
+54359,SG,Singapore,新加坡MatrixNAPInfo,115.146.113.46,speedtest-sg.napinfo.co.id.prod.hosts.ooklaserver.net,8080,Matrix NAP Info
+57570,SG,Singapore,新加坡CMC,203.171.30.20,sgpspeedtest.cmctelecom.vn.prod.hosts.ooklaserver.net,8080,CMC Telecom
+59016,SG,Singapore,新加坡CBN,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
+61320,SG,Singapore,新加坡AngolaCables,102.130.67.118,singapura.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net,8080,Angola Cables
+62020,SG,Singapore,新加坡AxclusivePteLtd,209.146.43.37,speedtest.axclusive.com.sg.prod.hosts.ooklaserver.net,8080,Axclusive Pte Ltd
+62530,SG,Singapore,新加坡SymphonyCommunicationPCL,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL
+67827,SG,Singapore,新加坡FPT,1.52.247.12,speedtestsgp.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
+69764,SG,Singapore,新加坡SpaceCore.pro|PremiumVPSHosting,217.15.166.168,sg.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
+69840,SG,Singapore,新加坡NearouteLimited,103.172.182.13,sg-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+72700,SG,Singapore,新加坡sptrnd.id,151.243.143.40,speedtest.sin.sptrnd.id,8080,sptrnd.id
