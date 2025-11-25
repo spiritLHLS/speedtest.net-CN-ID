@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-13516,CA,United States,洛杉矶,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
-18667,DE,Germany,法兰克福,185.37.147.2,speedtest.meerfarbig.net.prod.hosts.ooklaserver.net,8080,meerfarbig GmbH & Co. KG
-69764,SG,Singapore,新加坡,217.15.166.168,sg.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
-1536,HK,Hong Kong,中国香港,219.76.98.50,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
-48463,JP,Japan,日本东京,219.100.92.232,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+68329,CA,United States,Los Angeles,76.72.161.54,spt-lax1.edgeuno.com.prod.hosts.ooklaserver.net,8080,EdgeUno
+44477,DE,Germany,Frankfurt,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
+13058,SG,Singapore,Singapore,114.4.41.30,speedtest1.indosatooredoo.com.prod.hosts.ooklaserver.net,8080,PT. Indosat Tbk
+13538,HK,Hong Kong,Hong Kong,203.210.2.91,csl.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,CSL
+50686,JP,Japan,Tokyo,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
