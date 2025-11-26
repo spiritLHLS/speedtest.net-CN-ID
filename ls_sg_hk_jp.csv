@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-68329,CA,United States,洛杉矶,76.72.161.54,spt-lax1.edgeuno.com.prod.hosts.ooklaserver.net,8080,EdgeUno
-44477,DE,Germany,法兰克福,207.89.104.242,speedtest.58243.as.prod.hosts.ooklaserver.net,8080,TELE AG
-13058,SG,Singapore,新加坡,114.4.41.30,speedtest1.indosatooredoo.com.prod.hosts.ooklaserver.net,8080,PT. Indosat Tbk
-13538,HK,Hong Kong,中国香港,203.210.2.91,csl.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,CSL
-50686,JP,Japan,日本东京,203.10.99.1,ty8.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+12191,CA,United States,Los Angeles,45.61.24.162,speedtest.lax1.nitelusa.net.prod.hosts.ooklaserver.net,8080,Nitel
+71892,DE,Germany,Frankfurt,94.159.100.238,de-lg.h2.nexus,8080,H2NEXUS LTD
+50344,SG,Singapore,Singapore,203.27.107.253,sg3.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+37639,HK,Hong Kong,Hong Kong,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,CMHK Broadband
+50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
