@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-12191,CA,United States,洛杉矶,45.61.24.162,speedtest.lax1.nitelusa.net.prod.hosts.ooklaserver.net,8080,Nitel
-71892,DE,Germany,法兰克福,94.159.100.238,de-lg.h2.nexus,8080,H2NEXUS LTD
-50344,SG,Singapore,新加坡,203.27.107.253,sg3.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-37639,HK,Hong Kong,中国香港,182.239.94.254,speedtestbb.hk.chinamobile.com,8080,CMHK Broadband
-50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+61596,CA,United States,Los Angeles,66.146.103.162,speedtest.uia.net,8080,"Ultimate Internet Access, Inc."
+69755,DE,Germany,Frankfurt,45.83.41.39,speedtest.eu-fr.kamatera.com.prod.hosts.ooklaserver.net,8080,"KamaTera, Inc."
+46304,SG,Singapore,Singapore,103.134.153.18,sg.cloudhost.asia,8080,IDCloudHost Singapore
+48446,HK,Hong Kong,Hong Kong,202.165.70.3,hk1.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
+69575,JP,Japan,Tokyo,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
