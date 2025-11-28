@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-61596,CA,United States,洛杉矶,66.146.103.162,speedtest.uia.net,8080,"Ultimate Internet Access, Inc."
-69755,DE,Germany,法兰克福,45.83.41.39,speedtest.eu-fr.kamatera.com.prod.hosts.ooklaserver.net,8080,"KamaTera, Inc."
-46304,SG,Singapore,新加坡,103.134.153.18,sg.cloudhost.asia,8080,IDCloudHost Singapore
-48446,HK,Hong Kong,中国香港,202.165.70.3,hk1.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-69575,JP,Japan,日本东京,209.146.123.56,ty-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+69041,CA,United States,Los Angeles,38.148.72.22,lax-st.sumofiber.com.prod.hosts.ooklaserver.net,8080,SUMOFIBER
+53864,DE,Germany,Frankfurt,37.114.48.240,speedtest.battern.eu.prod.hosts.ooklaserver.net,8080,Batternhosting
+7311,SG,Singapore,Singapore,103.1.138.214,m1speedtest1.m1net.com.sg,8080,M1 Limited
+67826,HK,Hong Kong,Hong Kong,1.52.247.4,speedtesthkg.fpt.vn.prod.hosts.ooklaserver.net,8080,FPT Telecom
+48463,JP,Japan,Tokyo,219.100.92.232,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
