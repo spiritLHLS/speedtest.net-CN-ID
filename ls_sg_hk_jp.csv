@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-12191,CA,United States,洛杉矶,45.61.24.162,speedtest.lax1.nitelusa.net.prod.hosts.ooklaserver.net,8080,Nitel
-8040,DE,Germany,法兰克福,185.245.99.75,speedtest.ip-projects.de,8080,IP-Projects GmbH & Co. KG
-5935,SG,Singapore,新加坡,103.6.148.98,speedtest.myrepublic.com.sg.prod.hosts.ooklaserver.net,8080,MyRepublic Singapore
-44745,HK,Hong Kong,中国香港,156.0.200.220,hk-hkg12.speed.misaka.one,8080,"Misaka Network, Inc."
-24333,JP,Japan,日本东京,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"
+54653,CA,United States,Los Angeles,35.33.183.250,speedtest-lax.dish-wireless.com.prod.hosts.ooklaserver.net,8080,Boost Mobile
+70565,DE,Germany,Frankfurt,197.103.60.15,speedtest-ntt-fra.as20011.net,8080,"NTT DATA, Inc."
+59016,SG,Singapore,Singapore,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
+60177,HK,Hong Kong,Hong Kong,203.210.2.92,hkt.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Club SIM by HKT
+28910,JP,Japan,Tokyo,50.7.159.210,speedtest.hnd.fdcservers.net,8080,fdcservers.net
