@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-54653,CA,United States,Los Angeles,35.33.183.250,speedtest-lax.dish-wireless.com.prod.hosts.ooklaserver.net,8080,Boost Mobile
-70565,DE,Germany,Frankfurt,197.103.60.15,speedtest-ntt-fra.as20011.net,8080,"NTT DATA, Inc."
-59016,SG,Singapore,Singapore,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
-60177,HK,Hong Kong,Hong Kong,203.210.2.92,hkt.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Club SIM by HKT
-28910,JP,Japan,Tokyo,50.7.159.210,speedtest.hnd.fdcservers.net,8080,fdcservers.net
+54653,CA,United States,洛杉矶,35.33.183.250,speedtest-lax.dish-wireless.com.prod.hosts.ooklaserver.net,8080,Boost Mobile
+70565,DE,Germany,法兰克福,197.103.60.15,speedtest-ntt-fra.as20011.net,8080,"NTT DATA, Inc."
+59016,SG,Singapore,新加坡,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
+60177,HK,Hong Kong,中国香港,203.210.2.92,hkt.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Club SIM by HKT
+28910,JP,Japan,日本东京,50.7.159.210,speedtest.hnd.fdcservers.net,8080,fdcservers.net
