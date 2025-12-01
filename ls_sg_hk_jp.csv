@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-54653,CA,United States,洛杉矶,35.33.183.250,speedtest-lax.dish-wireless.com.prod.hosts.ooklaserver.net,8080,Boost Mobile
-70565,DE,Germany,法兰克福,197.103.60.15,speedtest-ntt-fra.as20011.net,8080,"NTT DATA, Inc."
-59016,SG,Singapore,新加坡,121.100.2.35,speedtest-sg.cbn.id,8080,CBN
-60177,HK,Hong Kong,中国香港,203.210.2.92,hkt.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,Club SIM by HKT
-28910,JP,Japan,日本东京,50.7.159.210,speedtest.hnd.fdcservers.net,8080,fdcservers.net
+19230,CA,United States,Los Angeles,66.165.241.242,speedtest.lax.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
+31120,DE,Germany,Frankfurt,94.158.241.17,speedtest-fkt-eqx.retn.net.prod.hosts.ooklaserver.net,8080,RETN
+41801,SG,Singapore,Singapore,103.29.57.19,speedtest-eqx-sg1.ixtelecom.net.prod.hosts.ooklaserver.net,8080,IX Telecom
+43356,HK,Hong Kong,Hong Kong,203.210.4.91,1010.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,1010
+48463,JP,Japan,Tokyo,219.100.92.232,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
