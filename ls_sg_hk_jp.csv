@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-19230,CA,United States,洛杉矶,66.165.241.242,speedtest.lax.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
-31120,DE,Germany,法兰克福,94.158.241.17,speedtest-fkt-eqx.retn.net.prod.hosts.ooklaserver.net,8080,RETN
-41801,SG,Singapore,新加坡,103.29.57.19,speedtest-eqx-sg1.ixtelecom.net.prod.hosts.ooklaserver.net,8080,IX Telecom
-43356,HK,Hong Kong,中国香港,203.210.4.91,1010.hkspeedtest.com.prod.hosts.ooklaserver.net,8080,1010
-48463,JP,Japan,日本东京,219.100.92.232,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+60392,CA,United States,Los Angeles,38.175.108.88,us-lax02.speed.misaka.one,8080,"Misaka Network, Inc."
+54577,DE,Germany,Frankfurt,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
+50406,SG,Singapore,Singapore,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+44340,HK,Hong Kong,Hong Kong,210.57.36.162,hkthspeedtest02.telstraglobal.net.prod.hosts.ooklaserver.net,8080,Telstra International
+24333,JP,Japan,Tokyo,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"
