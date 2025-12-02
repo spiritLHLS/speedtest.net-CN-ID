@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-60392,CA,United States,Los Angeles,38.175.108.88,us-lax02.speed.misaka.one,8080,"Misaka Network, Inc."
-54577,DE,Germany,Frankfurt,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
-50406,SG,Singapore,Singapore,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
-44340,HK,Hong Kong,Hong Kong,210.57.36.162,hkthspeedtest02.telstraglobal.net.prod.hosts.ooklaserver.net,8080,Telstra International
-24333,JP,Japan,Tokyo,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"
+60392,CA,United States,洛杉矶,38.175.108.88,us-lax02.speed.misaka.one,8080,"Misaka Network, Inc."
+54577,DE,Germany,法兰克福,64.190.239.2,de-ffm1-ookla-01.wemacom.net.prod.hosts.ooklaserver.net,8080,WEMACOM Telekommunikation GmbH
+50406,SG,Singapore,新加坡,202.94.122.34,sgn-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+44340,HK,Hong Kong,中国香港,210.57.36.162,hkthspeedtest02.telstraglobal.net.prod.hosts.ooklaserver.net,8080,Telstra International
+24333,JP,Japan,日本东京,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"
