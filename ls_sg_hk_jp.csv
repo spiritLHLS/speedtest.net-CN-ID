@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-64487,CA,United States,Los Angeles,104.251.238.142,speedtest.us310.lax.us.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-55462,DE,Germany,Frankfurt,91.99.133.242,speedtest.twerion.net.prod.hosts.ooklaserver.net,8080,Twerion.net | Minecraft Server
-23467,SG,Singapore,Singapore,103.111.59.250,speedtest-sg.iconpln.net.id.prod.hosts.ooklaserver.net,8080,PT. Indonesia Comnets Plus
-69574,HK,China,Hong Kong,154.18.170.27,hk-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
-60324,JP,Japan,Tokyo,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
+64487,CA,United States,洛杉矶,104.251.238.142,speedtest.us310.lax.us.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+55462,DE,Germany,法兰克福,91.99.133.242,speedtest.twerion.net.prod.hosts.ooklaserver.net,8080,Twerion.net | Minecraft Server
+23467,SG,Singapore,新加坡,103.111.59.250,speedtest-sg.iconpln.net.id.prod.hosts.ooklaserver.net,8080,PT. Indonesia Comnets Plus
+69574,HK,China,中国香港,154.18.170.27,hk-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+60324,JP,Japan,日本东京,50.7.158.179,speedtest.ddps.jp.prod.hosts.ooklaserver.net,8080,サーバーならDDPS.jp
