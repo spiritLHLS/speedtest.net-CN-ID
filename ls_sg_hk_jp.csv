@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-12191,CA,United States,洛杉矶,45.61.24.162,speedtest.lax1.nitelusa.net.prod.hosts.ooklaserver.net,8080,Nitel
-37492,DE,Germany,法兰克福,92.119.89.90,speedtest-fra.melbicom.net,8080,Melbicom
-62530,SG,Singapore,新加坡,96.30.112.242,bassoon-sg-1.violin.co.th,8080,Symphony Communication PCL
-57779,HK,Hong Kong,中国香港,61.244.99.206,hoshiyomi.ratatoskr.org.prod.hosts.ooklaserver.net,8080,ラタトスク
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+61318,CA,United States,Los Angeles,102.130.66.215,losangeles.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net,8080,Angola Cables
+70961,DE,Germany,Frankfurt,104.252.2.22,speed2.netlixor.de.prod.hosts.ooklaserver.net,8080,Netlixor
+64839,SG,Singapore,Singapore,103.176.59.15,speedtest.sin.atharva.co.id.prod.hosts.ooklaserver.net,8080,Atharva
+69574,HK,China,Hong Kong,154.18.170.27,hk-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
+69792,JP,Japan,Tokyo,46.250.248.56,tyo.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
