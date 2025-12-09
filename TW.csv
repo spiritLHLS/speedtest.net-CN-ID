@@ -51,3 +51,4 @@ id,country_code,country,city,ip,host,port,supplier
 65092,TW,Taiwan,Taipei,206.148.22.75,tpe.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
 71305,TW,Brazil,Formosa,38.226.107.72,teste.unifibranet.com.br,8080,UNI FIBRANET
 72390,TW,Taiwan,Taipei,160.30.99.46,speedtest.lazco.dev,8080,LAZCO STUDIO LTD
+73005,TW,Taiwan,Taipei,5.160.111.101,st.ruinet.work.prod.hosts.ooklaserver.net,8080,RuiNetwork
