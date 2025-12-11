@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-50165,CA,United States,Los Angeles,23.130.129.162,speedtest-la.getonward.com.prod.hosts.ooklaserver.net,8080,Onward
-52770,DE,Germany,Frankfurt,213.68.130.82,ipl3pt.fft.ops.eu.uu.net,8080,Verizon.com
-5935,SG,Singapore,Singapore,103.6.148.98,speedtest.myrepublic.com.sg.prod.hosts.ooklaserver.net,8080,MyRepublic Singapore
-68983,HK,Hong Kong,Hong Kong,103.194.237.34,speedtest-hkg.retn.net.prod.hosts.ooklaserver.net,8080,RETN
-48463,JP,Japan,Tokyo,219.100.92.232,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
+50165,CA,United States,洛杉矶,23.130.129.162,speedtest-la.getonward.com.prod.hosts.ooklaserver.net,8080,Onward
+52770,DE,Germany,法兰克福,213.68.130.82,ipl3pt.fft.ops.eu.uu.net,8080,Verizon.com
+5935,SG,Singapore,新加坡,103.6.148.98,speedtest.myrepublic.com.sg.prod.hosts.ooklaserver.net,8080,MyRepublic Singapore
+68983,HK,Hong Kong,中国香港,103.194.237.34,speedtest-hkg.retn.net.prod.hosts.ooklaserver.net,8080,RETN
+48463,JP,Japan,日本东京,219.100.92.232,speed.udx.icscoe.jp,8080,IPA CyberLab 400G
