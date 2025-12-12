@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-64487,CA,United States,Los Angeles,104.251.238.142,speedtest.us310.lax.us.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
-23095,DE,Germany,Frankfurt,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
-72700,SG,Singapore,Singapore,151.243.143.40,speedtest.sin.sptrnd.id,8080,sptrnd.id
-70128,HK,Hong Kong,Hong Kong,115.42.62.244,hkg.02.speedtest.kansuiun.com.prod.hosts.ooklaserver.net,8080,"Kansuiun Co., Ltd"
-56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+64487,CA,United States,洛杉矶,104.251.238.142,speedtest.us310.lax.us.ctcsci.com.prod.hosts.ooklaserver.net,8080,CTCSCI TECH LTD
+23095,DE,Germany,法兰克福,185.213.155.2,fra-eq5-tptest1.31173.se,8080,31173 Services AB
+72700,SG,Singapore,新加坡,151.243.143.40,speedtest.sin.sptrnd.id,8080,sptrnd.id
+70128,HK,Hong Kong,中国香港,115.42.62.244,hkg.02.speedtest.kansuiun.com.prod.hosts.ooklaserver.net,8080,"Kansuiun Co., Ltd"
+56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
