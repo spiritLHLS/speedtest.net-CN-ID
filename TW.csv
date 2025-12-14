@@ -51,6 +51,5 @@ id,country_code,country,city,ip,host,port,supplier
 61136,TW,Taiwan,Taipei,211.76.176.11,tpe.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 61560,TW,Taiwan,Taichung,103.127.218.248,tcg.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 65092,TW,Taiwan,Taipei,206.148.22.75,tpe.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
-71305,TW,Brazil,Formosa,38.226.107.72,teste.unifibranet.com.br,8080,UNI FIBRANET
 72390,TW,Taiwan,Taipei,160.30.99.46,speedtest.lazco.dev,8080,LAZCO STUDIO LTD
 73005,TW,Taiwan,Taipei,5.160.111.101,st.ruinet.work.prod.hosts.ooklaserver.net,8080,RuiNetwork
