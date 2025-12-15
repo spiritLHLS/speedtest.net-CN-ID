@@ -52,4 +52,4 @@ id,country_code,country,city,ip,host,port,supplier
 61560,TW,Taiwan,Taichung,103.127.218.248,tcg.speedtest.pni.tw.prod.hosts.ooklaserver.net,8080,"Pittqiao Network Information Co.,Ltd."
 65092,TW,Taiwan,Taipei,206.148.22.75,tpe.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net,8080,GSL Networks
 72390,TW,Taiwan,Taipei,160.30.99.46,speedtest.lazco.dev,8080,LAZCO STUDIO LTD
-73005,TW,Taiwan,Taipei,5.160.111.101,st.ruinet.work.prod.hosts.ooklaserver.net,8080,RuiNetwork
+73005,TW,Taiwan,Taipei,23.175.25.101,st.ruinet.work.prod.hosts.ooklaserver.net,8080,RuiNetwork
