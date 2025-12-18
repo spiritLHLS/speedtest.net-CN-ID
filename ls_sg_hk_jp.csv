@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-41927,CA,United States,洛杉矶,23.160.112.140,reflector.aberythmic.com.prod.hosts.ooklaserver.net,8080,Aberythmic LLC
-68177,DE,United Germany,法兰克福,66.206.25.57,speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
-7556,SG,Singapore,新加坡,111.95.246.34,sg-speedtest.fast.net.id.prod.hosts.ooklaserver.net,8080,PT FirstMedia
-1536,HK,Hong Kong,中国香港,219.76.98.50,suntechspeedtest.com.prod.hosts.ooklaserver.net,8080,STC
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+61318,CA,United States,Los Angeles,102.130.66.215,losangeles.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net,8080,Angola Cables
+37492,DE,Germany,Frankfurt,92.119.89.90,speedtest-fra.melbicom.net,8080,Melbicom
+23467,SG,Singapore,Singapore,103.111.59.250,speedtest-sg.iconpln.net.id.prod.hosts.ooklaserver.net,8080,PT. Indonesia Comnets Plus
+70128,HK,Hong Kong,Hong Kong,115.42.62.244,hkg.02.speedtest.kansuiun.com.prod.hosts.ooklaserver.net,8080,"Kansuiun Co., Ltd"
+50467,JP,Japan,Tokyo,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
