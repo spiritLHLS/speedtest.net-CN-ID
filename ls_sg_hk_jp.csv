@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-61318,CA,United States,洛杉矶,102.130.66.215,losangeles.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net,8080,Angola Cables
-37492,DE,Germany,法兰克福,92.119.89.90,speedtest-fra.melbicom.net,8080,Melbicom
-23467,SG,Singapore,新加坡,103.111.59.250,speedtest-sg.iconpln.net.id.prod.hosts.ooklaserver.net,8080,PT. Indonesia Comnets Plus
-70128,HK,Hong Kong,中国香港,115.42.62.244,hkg.02.speedtest.kansuiun.com.prod.hosts.ooklaserver.net,8080,"Kansuiun Co., Ltd"
-50467,JP,Japan,日本东京,210.81.6.58,jp-nperf.verizon.net.prod.hosts.ooklaserver.net,8080,Verizon
+42683,CA,United States,Los Angeles,74.81.44.94,speedtest-lax.perfectip.net,8080,PerfectIP.net
+55462,DE,Germany,Frankfurt,91.99.133.242,speedtest.twerion.net.prod.hosts.ooklaserver.net,8080,Twerion.net | Minecraft Server
+57570,SG,Singapore,Singapore,203.171.30.20,sgpspeedtest.cmctelecom.vn.prod.hosts.ooklaserver.net,8080,CMC Telecom
+70128,HK,Hong Kong,Hong Kong,115.42.62.244,hkg.02.speedtest.kansuiun.com.prod.hosts.ooklaserver.net,8080,"Kansuiun Co., Ltd"
+69792,JP,Japan,Tokyo,46.250.248.56,tyo.st.spacecore.pro.prod.hosts.ooklaserver.net,8080,SpaceCore.pro | Premium VPS Hosting
