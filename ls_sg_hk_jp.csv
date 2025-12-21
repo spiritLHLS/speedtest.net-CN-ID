@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-56370,CA,United States,洛杉矶,66.114.152.44,speedtest.la2.gigabitnow.com.prod.hosts.ooklaserver.net,8080,GigabitNow
-68177,DE,United Germany,法兰克福,66.206.25.57,speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
-64839,SG,Singapore,新加坡,103.176.59.15,speedtest.sin.atharva.co.id.prod.hosts.ooklaserver.net,8080,Atharva
-33414,HK,Hong Kong,中国香港,124.217.179.181,speedtest.three.com.hk,8080,Hutchison HK
-56935,JP,Japan,日本东京,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
+13516,CA,United States,Los Angeles,72.34.255.50,speedtest.lax01.xfernet.net.prod.hosts.ooklaserver.net,8080,Xfernet
+18667,DE,Germany,Frankfurt,185.37.147.2,speedtest.meerfarbig.net.prod.hosts.ooklaserver.net,8080,meerfarbig GmbH & Co. KG
+51839,SG,Singapore,Singapore,103.225.148.3,speedtest.singapore.globalxtreme.net.prod.hosts.ooklaserver.net,8080,GlobalXtreme
+70128,HK,Hong Kong,Hong Kong,115.42.62.244,hkg.02.speedtest.kansuiun.com.prod.hosts.ooklaserver.net,8080,"Kansuiun Co., Ltd"
+48463,JP,Japan,Tokyo,219.100.92.232,speed.udx.icscoe.jp,8080,IPA CyberLab 400G

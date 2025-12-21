@@ -5,6 +5,7 @@ id,country_code,country,city,ip,host,port,supplier
 24447,CN,China,Shanghai,210.22.155.34,mobile.shunicomtest.com.prod.hosts.ooklaserver.net,8080,China Unicom 5G
 30852,CN,China,Kunshan,180.208.59.230,speedtest.dukekunshan.edu.cn,8080,Duke Kunshan University
 36663,CN,China,Zhenjiang,115.168.74.186,5gzhenjiang.speedtest.jsinfo.net.prod.hosts.ooklaserver.net,8080,China Telecom JiangSu 5G
+43752,CN,China,Beijing,124.65.21.31,beijing.unicomtest.com,8080,BJ Unicom
 59386,CN,China,HangZhou,61.130.56.1,cesu-hz.zjtelecom.com.cn.prod.hosts.ooklaserver.net,8080,浙江电信
 59387,CN,China,NingBo,61.153.82.77,cesu-nb.zjtelecom.com.cn.prod.hosts.ooklaserver.net,8080,浙江电信
 73010,CN,Pakistan,Helan,103.19.48.70,arslantel.online.prod.hosts.ooklaserver.net,8080,Arslan Telecom
