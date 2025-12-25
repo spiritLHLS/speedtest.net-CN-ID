@@ -1,6 +1,6 @@
 id,country_code,country,city,ip,host,port,supplier
-61029,CA,United States,洛杉矶,107.155.99.134,postapps.com.prod.hosts.ooklaserver.net,8080,AtlasDigital
-68177,DE,United Germany,法兰克福,66.206.25.57,speedtest.fra1.hivelocity.net.prod.hosts.ooklaserver.net,8080,Hivelocity
-31293,SG,Singapore,新加坡,45.117.189.2,speedtest2.pacificinternet.com.prod.hosts.ooklaserver.net,8080,Pacific Internet (S)
-69574,HK,China,中国香港,154.18.170.27,hk-bgp-speedtest.nearoute.io.prod.hosts.ooklaserver.net,8080,Nearoute Limited
-24333,JP,Japan,日本东京,103.124.1.250,ookla.mbspeed.net,8080,"Rakuten Mobile, Inc"
+61318,CA,United States,Los Angeles,102.130.66.215,losangeles.speedtest.angolacables.co.ao.prod.hosts.ooklaserver.net,8080,Angola Cables
+52770,DE,Germany,Frankfurt,213.68.130.82,ipl3pt.fft.ops.eu.uu.net,8080,Verizon.com
+13623,SG,Singapore,Singapore,165.21.70.1,speedtest.singnet.com.sg,8080,Singtel
+35791,HK,Hong Kong,Hong Kong,203.78.41.10,kami.smartone.com.prod.hosts.ooklaserver.net,8080,SmarTone
+56935,JP,Japan,Tokyo,109.123.228.91,tyo.speedtest.contabo.net,8080,Contabo
