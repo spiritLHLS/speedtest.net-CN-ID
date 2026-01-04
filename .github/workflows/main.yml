@@ -56,22 +56,9 @@ jobs:
       run: |
         cd public-repo
         # 在公共仓库中运行main.py生成分类文件（CN_Mobile.csv等）
+        # 这些分类文件只在公共仓库保存，不回传到私有仓库
         python main.py || true
         ls -la
-    
-    - name: Copy processed files back to private repo results
-      run: |
-        # 将公共仓库处理后的分类CSV文件复制回私有仓库的results目录
-        cp public-repo/CN.csv private-repo/results/ || true
-        cp public-repo/CN_Mobile.csv private-repo/results/ || true
-        cp public-repo/CN_Telecom.csv private-repo/results/ || true
-        cp public-repo/CN_Unicom.csv private-repo/results/ || true
-        cp public-repo/TW.csv private-repo/results/ || true
-        cp public-repo/HK.csv private-repo/results/ || true
-        cp public-repo/JP.csv private-repo/results/ || true
-        cp public-repo/SG.csv private-repo/results/ || true
-        cp public-repo/ls_sg_hk_jp.csv private-repo/results/ || true
-        ls -la private-repo/results/
         
     - name: Update private repo README with server count
       run: |
@@ -86,6 +73,14 @@ jobs:
           count=0
         fi
         sed -i "s/本仓库收录服务器数量(实时)：.*/本仓库收录服务器数量(实时)：${count}/" README.md || true
+    
+    - name: Clean up invalid files in private repo
+      run: |
+        cd private-repo/results
+        # 删除之前误生成的公共仓库专用分类文件
+        rm -f CN_Mobile.csv CN_Telecom.csv CN_Unicom.csv || true
+        echo "Cleaned up CN_Mobile.csv, CN_Telecom.csv, CN_Unicom.csv from private repo"
+        ls -la
     
     - name: Update public repo README
       run: |
@@ -114,7 +109,8 @@ jobs:
         cd private-repo
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git config user.name "github-actions[bot]"
-        git add results/*.csv
+        # 只提交私有仓库自己处理的文件，不包含公共仓库生成的分类文件
+        git add results/*.csv || true
         git add README.md
         (
           git commit -m "Auto update CSV files - $(date +'%Y-%m-%d')"
