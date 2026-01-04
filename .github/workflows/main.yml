@@ -1,66 +1,138 @@
-name: Update
+name: Daily Update from Private Repo
 
 on:
-  push:
-    paths:
-      - 'HK.csv'
+  schedule:
+    - cron: '0 23 * * *'  # 每天23:00 UTC运行
   workflow_dispatch:
 
 jobs:
-  update:
+  update_and_push:
     runs-on: ubuntu-latest
-    timeout-minutes: 15 
+    timeout-minutes: 20
     
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout current public repository
+      uses: actions/checkout@v2
+      with:
+        path: public-repo
+        fetch-depth: 0
+    
+    - name: Checkout private repository
+      uses: actions/checkout@v2
+      with:
+        repository: spiritLHLS/speedtest.net-ID
+        path: private-repo
+        token: ${{ secrets.REPO_ACCESS_TOKEN }}
     
     - name: Setup Python environment
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
-        
+    
     - name: Install dependencies
       run: |
         pip install pypinyin
     
-    - name: Run main.py script
+    - name: Run processing scripts in private repo
       run: |
-        ls
-        python main.py
-        ls
-        
-    - name: Update README.md with current date
-      run: |
-        date_str=$(date +'%Y/%m/%d')
-        sed -i "s#^数据更新时间:.*#数据更新时间: ${date_str}#" README.md
-
-  
-    - name: Configure Git
-      run: |
-        git config --global user.name "update"
-        git config --global user.email "tg@spiritlhl.top"
-      
-    - name: Add files to Git staging area
-      run: |
-        ls
-        pwd
-        git add .
-        
-    - name: Check Git status
-      run: |
-        git branch -a
-        git remote -v
-        git status
+        cd private-repo
+        # 在私有仓库中运行fenlei.py和xifen.py（这些脚本只在私有仓库中存在）
+        python fenlei.py || true
+        python xifen.py || true
+        ls -la results/
     
-    - name: Commit changes
+    - name: Copy processed data to public repo
       run: |
+        # 只复制需要的CSV文件到公共仓库（避免复制敏感数据）
+        cp private-repo/results/CN.csv public-repo/ || true
+        cp private-repo/results/TW.csv public-repo/ || true
+        cp private-repo/results/HK.csv public-repo/ || true
+        cp private-repo/results/JP.csv public-repo/ || true
+        cp private-repo/results/SG.csv public-repo/ || true
+        cp private-repo/results/ls_sg_hk_jp.csv public-repo/ || true
+        ls -la public-repo/
+    
+    - name: Run main.py in public repo
+      run: |
+        cd public-repo
+        # 在公共仓库中运行main.py生成分类文件（CN_Mobile.csv等）
+        python main.py || true
+        ls -la
+    
+    - name: Copy processed files back to private repo results
+      run: |
+        # 将公共仓库处理后的分类CSV文件复制回私有仓库的results目录
+        cp public-repo/CN.csv private-repo/results/ || true
+        cp public-repo/CN_Mobile.csv private-repo/results/ || true
+        cp public-repo/CN_Telecom.csv private-repo/results/ || true
+        cp public-repo/CN_Unicom.csv private-repo/results/ || true
+        cp public-repo/TW.csv private-repo/results/ || true
+        cp public-repo/HK.csv private-repo/results/ || true
+        cp public-repo/JP.csv private-repo/results/ || true
+        cp public-repo/SG.csv private-repo/results/ || true
+        cp public-repo/ls_sg_hk_jp.csv private-repo/results/ || true
+        ls -la private-repo/results/
+        
+    - name: Update private repo README with server count
+      run: |
+        cd private-repo
+        # 更新私有仓库的README中的服务器数量
+        # 根据私有仓库中fenlei.py和xifen.py处理后的文件来统计
+        if [ -f "results/result.csv" ]; then
+          count=$(($(wc -l < results/result.csv) - 1))
+        elif [ -f "results/speedtest_results.csv" ]; then
+          count=$(($(wc -l < results/speedtest_results.csv) - 1))
+        else
+          count=0
+        fi
+        sed -i "s/本仓库收录服务器数量(实时)：.*/本仓库收录服务器数量(实时)：${count}/" README.md || true
+    
+    - name: Update public repo README
+      run: |
+        cd public-repo
+        # 更新公共仓库的README日期
+        date_str=$(date +'%Y/%m/%d')
+        sed -i "s#^数据更新时间:.*#数据更新时间: ${date_str}#" README.md || true
+        
+        # 从私有仓库同步服务器数量到公共仓库
+        cd ../private-repo
+        count=$(grep -oP '本仓库收录服务器数量\(实时\)：\K[0-9]+' README.md || echo "0")
+        cd ../public-repo
+        sed -i "s/闭源收录服务器数量(实时)：.*/闭源收录服务器数量(实时)：${count}/" README.md || true
+    
+    - name: Clean up sensitive files in public repo
+      run: |
+        cd public-repo
+        # 删除可能从私有仓库复制过来的敏感文件
+        rm -f speedtest_results.csv result.csv || true
+        # 只保留应该公开的文件
+        ls -la
+        echo "Cleaned up sensitive files"
+    
+    - name: Commit and push to private repository
+      run: |
+        cd private-repo
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+        git add results/*.csv
+        git add README.md
         (
-        git commit -m "Update CSV files"
+          git commit -m "Auto update CSV files - $(date +'%Y-%m-%d')"
+          git push
         ) || true
     
-    
-    
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit and push to public repository  
+      run: |
+        cd public-repo
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+        # 只添加应该公开的CSV文件，避免泄露私有仓库的敏感数据
+        git add CN.csv CN_Mobile.csv CN_Telecom.csv CN_Unicom.csv || true
+        git add TW.csv HK.csv JP.csv SG.csv ls_sg_hk_jp.csv || true
+        git add README.md
+        # 显示将要提交的文件
+        git status
+        (
+          git commit -m "Update CSV files - $(date +'%Y-%m-%d') [skip ci]"
+          git push
+        ) || true
