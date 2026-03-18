@@ -50,6 +50,12 @@ bash <(wget -qO- --no-check-certificate https://ghproxy.com/https://raw.githubus
 
 https://t.me/spiritlhl_bot
 
+## 其他测速工具
+
+https://github.com/oneclickvirt/ecs
+
+包含部分私有国内测速节点，不进行公开，但支持更多的地区
+
 # 免责声明
 
 * 本仓库仅供学习使用。
