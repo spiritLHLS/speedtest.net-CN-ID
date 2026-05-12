@@ -1,9 +1,18 @@
 import re
 import csv
 import json
+import logging
+import traceback
 import urllib.request
 import time
 from pypinyin import lazy_pinyin
+
+# 所有异常/调试信息写入 error.log，不输出到 stdout/stderr
+_log_handler = logging.FileHandler('error.log', encoding='utf-8')
+_log_handler.setFormatter(logging.Formatter('%(asctime)s [%(levelname)s] %(message)s'))
+logger = logging.getLogger('main')
+logger.setLevel(logging.DEBUG)
+logger.addHandler(_log_handler)
 
 def contain_chinese(string):
     pattern = re.compile("[\u4e00-\u9fa5]+")
@@ -48,11 +57,16 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
         ip = row[4] # IP地址所在的列为第5列，下标为4
         name = row[7]
         url = url_template.format(ip=ip)
-        with urllib.request.urlopen(url) as response:
-            data = response.read().decode('utf-8')
-            data = json.loads(data)
-            if data['status'] == 'success':
-                city = data['city']
+        try:
+            with urllib.request.urlopen(url) as response:
+                data = response.read().decode('utf-8')
+                data = json.loads(data)
+                if data['status'] == 'success':
+                    city = data['city']
+        except Exception as e:
+            logger.error("API query failed: %s", type(e).__name__)
+            time.sleep(1)
+            continue
         time.sleep(1)
         if contain_chinese(name) == True:
             row[3] = name.replace("电信", "").replace("移动", "").replace("联通", "")
@@ -80,7 +94,7 @@ with open('CN.csv', 'r', encoding='utf-8') as csvfile:
                 if row[1] == "CN":
                     telecom_writer.writerow(row)
             else:
-                print(isp)
+                logger.debug("Unclassified ISP encountered")
     # 关闭文件
     unicom_file.close()
     mobile_file.close()

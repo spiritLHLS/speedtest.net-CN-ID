@@ -36,29 +36,33 @@ jobs:
     - name: Run processing scripts in private repo
       run: |
         cd private-repo
-        # 在私有仓库中运行fenlei.py和xifen.py（这些脚本只在私有仓库中存在）
-        python fenlei.py || true
-        python xifen.py || true
-        ls -la results/
+        mkdir -p logs results
+        # 删除全部旧日志，只保留本次运行日志
+        rm -f logs/*.log 2>/dev/null || true
+        LOG_FILE="logs/$(date +'%Y-%m-%d').log"
+        # 在私有仓库中运行fenlei.py和xifen.py，输出全部重定向到日志文件
+        python fenlei.py >> "$LOG_FILE" 2>&1 || true
+        python xifen.py >> "$LOG_FILE" 2>&1 || true
     
     - name: Copy processed data to public repo
       run: |
         # 只复制需要的CSV文件到公共仓库（避免复制敏感数据）
-        cp private-repo/results/CN.csv public-repo/ || true
-        cp private-repo/results/TW.csv public-repo/ || true
-        cp private-repo/results/HK.csv public-repo/ || true
-        cp private-repo/results/JP.csv public-repo/ || true
-        cp private-repo/results/SG.csv public-repo/ || true
-        cp private-repo/results/ls_sg_hk_jp.csv public-repo/ || true
-        ls -la public-repo/
+        cp private-repo/results/CN.csv public-repo/ 2>/dev/null || true
+        cp private-repo/results/TW.csv public-repo/ 2>/dev/null || true
+        cp private-repo/results/HK.csv public-repo/ 2>/dev/null || true
+        cp private-repo/results/JP.csv public-repo/ 2>/dev/null || true
+        cp private-repo/results/SG.csv public-repo/ 2>/dev/null || true
+        cp private-repo/results/ls_sg_hk_jp.csv public-repo/ 2>/dev/null || true
     
     - name: Run main.py in public repo
       run: |
-        cd public-repo
-        # 在公共仓库中运行main.py生成分类文件（CN_Mobile.csv等）
-        # 这些分类文件只在公共仓库保存，不回传到私有仓库
-        python main.py || true
-        ls -la
+        # logs/ 已在上一步创建，这里延用同一个日期日志文件
+        LOG_FILE="$GITHUB_WORKSPACE/private-repo/logs/$(date +'%Y-%m-%d').log"
+        cd "$GITHUB_WORKSPACE/public-repo"
+        # 在公共仓库中运行main.py，stdout/stderr全部重定向到日志文件
+        python main.py >> "$LOG_FILE" 2>&1 || true
+        # 将 main.py 内部写入的 error.log 合并到日志文件后删除
+        [ -f error.log ] && cat error.log >> "$LOG_FILE" && rm -f error.log || true
         
     - name: Update private repo README with server count
       run: |
@@ -78,9 +82,7 @@ jobs:
       run: |
         cd private-repo/results
         # 删除之前误生成的公共仓库专用分类文件
-        rm -f CN_Mobile.csv CN_Telecom.csv CN_Unicom.csv || true
-        echo "Cleaned up CN_Mobile.csv, CN_Telecom.csv, CN_Unicom.csv from private repo"
-        ls -la
+        rm -f CN_Mobile.csv CN_Telecom.csv CN_Unicom.csv 2>/dev/null || true
     
     - name: Update public repo README
       run: |
@@ -98,11 +100,8 @@ jobs:
     - name: Clean up sensitive files in public repo
       run: |
         cd public-repo
-        # 删除可能从私有仓库复制过来的敏感文件
-        rm -f speedtest_results.csv result.csv || true
-        # 只保留应该公开的文件
-        ls -la
-        echo "Cleaned up sensitive files"
+        # 删除可能从私有仓库复制过来的敏感文件和日志文件
+        rm -f speedtest_results.csv result.csv error.log 2>/dev/null || true
     
     - name: Commit and push to private repository
       run: |
@@ -110,7 +109,8 @@ jobs:
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git config user.name "github-actions[bot]"
         # 只提交私有仓库自己处理的文件，不包含公共仓库生成的分类文件
-        git add results/*.csv || true
+        git add results/ || true
+        git add logs/ || true
         git add README.md
         (
           git commit -m "Auto update CSV files - $(date +'%Y-%m-%d')"
@@ -126,8 +126,6 @@ jobs:
         git add CN.csv CN_Mobile.csv CN_Telecom.csv CN_Unicom.csv || true
         git add TW.csv HK.csv JP.csv SG.csv ls_sg_hk_jp.csv || true
         git add README.md
-        # 显示将要提交的文件
-        git status
         (
           git commit -m "Update CSV files - $(date +'%Y-%m-%d') [skip ci]"
           git push
