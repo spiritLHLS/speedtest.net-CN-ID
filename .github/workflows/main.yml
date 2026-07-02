@@ -12,13 +12,13 @@ jobs:
     
     steps:
     - name: Checkout current public repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v7
       with:
         path: public-repo
         fetch-depth: 0
     
     - name: Checkout private repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v7
       with:
         repository: spiritLHLS/speedtest.net-ID
         path: private-repo
