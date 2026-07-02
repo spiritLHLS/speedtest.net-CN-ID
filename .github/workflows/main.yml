@@ -25,7 +25,7 @@ jobs:
         token: ${{ secrets.REPO_ACCESS_TOKEN }}
     
     - name: Setup Python environment
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v6
       with:
         python-version: 3.8
     
