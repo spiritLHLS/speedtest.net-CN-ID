@@ -10,9 +10,9 @@
 
 这里只展示部分地区的节点信息(全部CN地区和部分全球地区)，含 speedtest.net 的测速地址，且只保证节点列表的可用性而不是完整性，官网说有1.6万个节点我只爬了1.4万个左右
 
-定期自动更新爬取到的测速节点ID，闭源爬虫，自动推送
+定期自动更新公开测速节点 ID，并自动推送更新结果
 
-闭源收录服务器数量(实时)：13561
+当前收录服务器数量（实时）：13561
 
 数据更新时间: 2026/08/27
 
@@ -54,7 +54,7 @@ https://t.me/spiritlhl_bot
 
 https://github.com/oneclickvirt/ecs
 
-包含部分私有国内测速节点，不进行公开，但支持更多的地区
+支持更多地区的公开测速数据
 
 # 免责声明
 
@@ -77,4 +77,3 @@ Do not use any content of the Script project for commercial or illegal purposes,
 If any unit or individual believes that the script of the project may be suspected of infringing on their rights, they should promptly notify and provide proof of identity and ownership. We will delete the relevant script after receiving the certification document.
 
 Anyone who views this item in any way or directly or indirectly uses any script of the Script item should read this statement carefully. This warehouse reserves the right to change or supplement this disclaimer at any time. Once you have used and copied any relevant scripts or rules of the Script project, you are deemed to have accepted this disclaimer.
-
